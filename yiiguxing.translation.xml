@@ -1,0 +1,68 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="first" />
+      <item value="FORALL" />
+      <item value="theorem" />
+      <item value="theorom" />
+      <item value="therom" />
+      <item value="init component" />
+      <item value="init theorem" />
+      <item value="theory" />
+      <item value="primitive" />
+      <item value="requirements" />
+      <item value="entrance" />
+      <item value="入口" />
+      <item value="entry" />
+      <item value="credentials" />
+      <item value="username" />
+      <item value="存在" />
+      <item value="exsits" />
+      <item value="password sign up" />
+      <item value="Landing Form" />
+      <item value="Email Addres" />
+      <item value="Clear output" />
+      <item value="Clear" />
+      <item value="toggle" />
+      <item value="extract" />
+      <item value="extract option" />
+      <item value="额外选项" />
+      <item value="external option" />
+      <item value="fold Gutter" />
+      <item value="message" />
+      <item value="参数" />
+      <item value="explicit" />
+      <item value="用户不存在或者密码账号输入不正确" />
+      <item value="Return a dictionary containing the current scope's local variables. NOTE: Whether or not updates to this dictionary will affect name lookups in the local scope and vice-versa is *implementation dependent* and not covered by any backwards compatibility guarantees." />
+      <item value="用户已存在" />
+      <item value="profile" />
+      <item value="duration" />
+      <item value="duplicate " />
+      <item value="success" />
+      <item value="DEPARTURECITY" />
+      <item value="target" />
+      <item value="referer" />
+      <item value="Faile" />
+      <item value="Prior" />
+      <item value="crack" />
+      <item value="BORDER" />
+      <item value="track (" />
+      <item value="pixel" />
+      <item value="captcha" />
+      <item value="redundant parentheses" />
+      <item value="threshold" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="38" />
+        <entry key="ENGLISH" value="39" />
+        <entry key="ESTONIAN" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="overrideFont" value="true" />
+    <option name="phoneticFontFamily" value="Source Code Pro" />
+    <option name="primaryFontFamily" value="Consolas" />
+  </component>
+</application>
