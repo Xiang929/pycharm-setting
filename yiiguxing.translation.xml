@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Gaps" />
       <item value="first" />
       <item value="FORALL" />
       <item value="theorem" />
@@ -50,12 +51,11 @@
       <item value="pixel" />
       <item value="captcha" />
       <item value="redundant parentheses" />
-      <item value="threshold" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="38" />
-        <entry key="ENGLISH" value="39" />
+        <entry key="CHINESE" value="39" />
+        <entry key="ENGLISH" value="40" />
         <entry key="ESTONIAN" value="1" />
       </map>
     </option>
