@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="assums" />
+      <item value="assumes" />
       <item value="variables area" />
       <item value="init state" />
       <item value="variables" />
@@ -49,14 +51,13 @@
       <item value="Faile" />
       <item value="Prior" />
       <item value="crack" />
-      <item value="BORDER" />
-      <item value="track (" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="42" />
-        <entry key="ENGLISH" value="43" />
+        <entry key="CHINESE" value="44" />
+        <entry key="ENGLISH" value="44" />
         <entry key="ESTONIAN" value="1" />
+        <entry key="LATIN" value="1" />
       </map>
     </option>
   </component>
