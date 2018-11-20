@@ -3,20 +3,36 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/vscodePython/holpy/server/tactic.py" timestamp="1542718193804">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
+      <file name="C:/vscodePython/holpy/server/tactic.py" timestamp="1542727743090">
+        <mark key="[" line="47" column="0" />
+        <mark key="l" line="36" column="0" />
+        <mark key="]" line="47" column="0" />
         <mark key="^" line="40" column="0" />
-        <mark key="." line="40" column="0" />
+        <mark key="." line="47" column="0" />
       </file>
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBwcmV2cyA9IFtpbmNyX2lkKGlkLCBzdGFydCwgbikgZm9yIGlkIGluIGl0ZW0ucHJldnNdLCB0aCA9IGl0ZW0udGgpCg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHByZXZzID0gW2luY3JfaWQoaWQsIHN0YXJ0LCBuKSBmb3IgaWQgaW4gaXRlbS5wcmV2c10sIHRoID0gaXRlbS50aCkK</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByZXZzID0gW2luY3JfaWQoaWQsIHN0YXJ0LCBuKSBmb3IgaWQgaW4gaXRlbS5wcmV2c10sIHRoID0gaXRlbS50aCkK</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts />
   </component>
 </application>
