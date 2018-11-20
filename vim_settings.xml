@@ -3,13 +3,19 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/vscodePython/holpy/server/tactic.py" timestamp="1542729210300">
-        <mark key="'" line="23" column="4" />
-        <mark key="[" line="57" column="13" />
+      <file name="C:/vscodePython/holpy/server/tactic.py" timestamp="1542731098314">
+        <mark key="'" line="79" column="4" />
         <mark key="l" line="36" column="0" />
-        <mark key="]" line="57" column="13" />
-        <mark key="^" line="57" column="12" />
-        <mark key="." line="57" column="13" />
+        <mark key="]" line="60" column="50" />
+        <mark key="^" line="60" column="50" />
+        <mark key="." line="60" column="50" />
+      </file>
+      <file name="C:/vscodePython/holpy/server/tests/tactic_test.py" timestamp="1542731314862">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="^" line="102" column="26" />
+        <mark key="." line="65" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -17,19 +23,35 @@
       <jump line="42" column="0" filename="C:/vscodePython/holpy/server/tactic.py" />
       <jump line="47" column="0" filename="C:/vscodePython/holpy/server/tactic.py" />
       <jump line="23" column="4" filename="C:/vscodePython/holpy/server/tactic.py" />
+      <jump line="26" column="6" filename="C:/vscodePython/holpy/server/tactic.py" />
+      <jump line="8" column="0" filename="C:/vscodePython/holpy/server/tactic.py" />
+      <jump line="0" column="0" filename="C:/vscodePython/holpy/server/tactic.py" />
+      <jump line="79" column="4" filename="C:/vscodePython/holpy/server/tactic.py" />
+      <jump line="107" column="45" filename="C:/vscodePython/holpy/server/tests/tactic_test.py" />
+      <jump line="1" column="0" filename="C:/vscodePython/holpy/server/tests/tactic_test.py" />
+      <jump line="0" column="0" filename="C:/vscodePython/holpy/server/tests/tactic_test.py" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmV2cyA9IFtpbmNyX2lkKGlkLCBzdGFydCwgbikgZm9yIGlkIGluIGl0ZW0ucHJldnNdLCB0aCA9IGl0ZW0udGgpCg==</text>
+        <text encoding="base64">ICAgICAgICB0aHkuY2hlY2tfcHJvb2YocHJmKQo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBwcmYgPSB0YWN0aWMuYXBwbHlfYmFja3dhcmRfc3RlcChwcmYsICJTMSIsIHRoeSwgImNvbmpJIikK</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcmYgPSB0YWN0aWMuYXBwbHlfYmFja3dhcmRfc3RlcChwcmYsICJTMSIsIHRoeSwgImNvbmpJIikK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICB0aHkuY2hlY2tfcHJvb2YocHJmKQo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgIHByZXZzID0gW2luY3JfaWQoaWQsIHN0YXJ0LCBuKSBmb3IgaWQgaW4gaXRlbS5wcmV2c10sIHRoID0gaXRlbS50aCkK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">aW4g</text>
+      <register name=":" type="4">
+        <text>e tactic.py</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aW4g</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
@@ -38,13 +60,43 @@
     </search>
     <history>
       <history-search />
-      <history-cmd />
+      <history-cmd>
+        <entry>$</entry>
+        <entry>%</entry>
+        <entry encoding="base64">QGg8VGFiPg==</entry>
+        <entry encoding="base64">ZSAlOmg8dGFjdGljLnB5Pg==</entry>
+        <entry>e %:h</entry>
+        <entry>e ../tactic.py</entry>
+        <entry>e tactic.py</entry>
+        <entry>@</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
     <shortcut-conflicts>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
