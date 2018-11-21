@@ -133,7 +133,7 @@
         <text encoding="base64">ICAgICAgICBwcmYgPSB0YWN0aWMuYXBwbHlfYmFja3dhcmRfc3RlcChwcmYsICJTMSIsIHRoeSwgImNvbmpJIikK</text>
       </register>
       <register name=":" type="4">
-        <text>action SearchEverywhere</text>
+        <text>action CloseEditor</text>
       </register>
     </registers>
     <search>
@@ -150,11 +150,6 @@
         <entry encoding="base64">XDxhc3NlcnRFcXVhbFw+</entry>
       </history-search>
       <history-cmd>
-        <entry>$</entry>
-        <entry>%</entry>
-        <entry encoding="base64">QGg8VGFiPg==</entry>
-        <entry encoding="base64">ZSAlOmg8dGFjdGljLnB5Pg==</entry>
-        <entry>e %:h</entry>
         <entry>e ../tactic.py</entry>
         <entry>e tactic.py</entry>
         <entry>@</entry>
@@ -174,6 +169,9 @@
         <entry>action CloseActiveTab</entry>
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>action SearchEverywhere</entry>
+        <entry>action ShowUsages</entry>
+        <entry>CloseEditor</entry>
+        <entry>action CloseEditor</entry>
       </history-cmd>
       <history-expr />
       <history-input />
