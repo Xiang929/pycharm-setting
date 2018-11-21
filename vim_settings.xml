@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/vscodePython/holpy/kernel/report.py" timestamp="1542780685358" />
       <file name="C:/vscodePython/holpy/server/tactic.py" timestamp="1542787231601">
         <mark key="'" line="179" column="4" />
         <mark key="[" line="149" column="20" />
@@ -12,6 +11,16 @@
         <mark key="." line="149" column="21" />
         <mark key="^" line="149" column="21" />
       </file>
+      <file name="C:/vscodePython/holpy/app/cell.py" timestamp="1542817951842">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="59" />
+      </file>
+      <file name="C:/vscodePython/holpy/syntax/parser.py" timestamp="1542817894402">
+        <mark key="[" line="127" column="11" />
+        <mark key="]" line="127" column="14" />
+        <mark key="^" line="127" column="14" />
+        <mark key="." line="127" column="14" />
+      </file>
       <file name="C:/vscodePython/holpy/server/tests/tactic_test.py" timestamp="1542734625355">
         <mark key="'" line="54" column="13" />
         <mark key="[" line="48" column="25" />
@@ -19,12 +28,12 @@
         <mark key="^" line="48" column="24" />
         <mark key="." line="48" column="24" />
       </file>
-      <file name="C:/vscodePython/holpy/app/__init__.py" timestamp="1542816866886">
+      <file name="C:/vscodePython/holpy/app/__init__.py" timestamp="1542817433776">
         <mark key="'" line="93" column="4" />
         <mark key="[" line="45" column="14" />
-        <mark key="]" line="37" column="5" />
-        <mark key="." line="37" column="5" />
-        <mark key="^" line="37" column="5" />
+        <mark key="]" line="45" column="13" />
+        <mark key="." line="45" column="13" />
+        <mark key="^" line="45" column="13" />
       </file>
     </filemarks>
     <jumps>
@@ -88,13 +97,13 @@
         <text encoding="base64">ICAgIHJlc3VsdF9zdHJpbmcgPSBzZXJ2ZXIuY2hlY2tfcHJvb2YoaW5wdXQpCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>urn Term.mk_equals(lhs</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhc3NlcnRFcXVhbFw+</text>
       </register>
-      <register name="0" type="4">
-        <text>(id, rule_name, args, prevs)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLnByb29mID0gdGFjdGljLmluaXRfcHJvb2YodmFycywgYXNzdW1zLCBjb25jbCkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHJlc3VsdF9zdHJpbmcgPSBzZXJ2ZXIuY2hlY2tfcHJvb2YoaW5wdXQpCg==</text>
@@ -124,7 +133,7 @@
         <text encoding="base64">ICAgICAgICBwcmYgPSB0YWN0aWMuYXBwbHlfYmFja3dhcmRfc3RlcChwcmYsICJTMSIsIHRoeSwgImNvbmpJIikK</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>action SearchEverywhere</text>
       </register>
     </registers>
     <search>
@@ -155,6 +164,16 @@
         <entry>earlier r15</entry>
         <entry>q</entry>
         <entry>g*/g#</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action FindUsages</entry>
+        <entry>action GotoFile</entry>
+        <entry>action CommentByLineComment</entry>
+        <entry>action Find</entry>
+        <entry>action GotoAction</entry>
+        <entry>action ShowFilePath</entry>
+        <entry>action CloseActiveTab</entry>
+        <entry>action ActivateTerminalToolWindow</entry>
+        <entry>action SearchEverywhere</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -201,6 +220,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
