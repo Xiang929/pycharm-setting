@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="C:/vscodePython/holpy/kernel/theory.py" timestamp="1542900945892">
+        <mark key="'" line="251" column="28" />
+      </file>
       <file name="C:/vscodePython/holpy/server/tactic.py" timestamp="1542787231601">
         <mark key="'" line="179" column="4" />
         <mark key="[" line="149" column="20" />
@@ -91,6 +94,7 @@
       <jump line="71" column="0" filename="C:/vscodePython/holpy/app/__init__.py" />
       <jump line="86" column="0" filename="C:/vscodePython/holpy/app/__init__.py" />
       <jump line="94" column="4" filename="C:/vscodePython/holpy/app/__init__.py" />
+      <jump line="251" column="28" filename="C:/vscodePython/holpy/kernel/theory.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -150,8 +154,6 @@
         <entry encoding="base64">XDxhc3NlcnRFcXVhbFw+</entry>
       </history-search>
       <history-cmd>
-        <entry>e ../tactic.py</entry>
-        <entry>e tactic.py</entry>
         <entry>@</entry>
         <entry>%d</entry>
         <entry>earlier 15m</entry>
