@@ -10,6 +10,15 @@
         <mark key="." line="398" column="0" />
         <mark key="^" line="398" column="0" />
       </file>
+      <file name="/Python Console" timestamp="1542991587152">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/vscodePython/holpy/app/static/css/index.css" timestamp="1542991839787">
+        <mark key="[" line="94" column="10" />
+        <mark key="]" line="94" column="15" />
+        <mark key="." line="94" column="15" />
+        <mark key="^" line="94" column="15" />
+      </file>
       <file name="C:/vscodePython/holpy/server/tactic.py" timestamp="1542787231601">
         <mark key="'" line="179" column="4" />
         <mark key="[" line="149" column="20" />
@@ -129,7 +138,7 @@
         <text encoding="base64">ICAgIHJlc3VsdF9zdHJpbmcgPSBzZXJ2ZXIuY2hlY2tfcHJvb2YoaW5wdXQpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>t.name</text>
+        <text>webkit-fill-available;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhc3NlcnRFcXVhbFw+</text>
