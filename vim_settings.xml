@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/vscodePython/holpy/kernel/theory.py" timestamp="1542956055226">
-        <mark key="'" line="187" column="0" />
-        <mark key="[" line="215" column="34" />
-        <mark key="]" line="215" column="33" />
-        <mark key="." line="215" column="33" />
-        <mark key="^" line="215" column="33" />
+      <file name="C:/vscodePython/holpy/kernel/theory.py" timestamp="1542958131530">
+        <mark key="'" line="403" column="24" />
+        <mark key="[" line="398" column="0" />
+        <mark key="]" line="398" column="0" />
+        <mark key="." line="398" column="0" />
+        <mark key="^" line="398" column="0" />
       </file>
       <file name="C:/vscodePython/holpy/server/tactic.py" timestamp="1542787231601">
         <mark key="'" line="179" column="4" />
@@ -99,12 +99,9 @@
       <jump line="86" column="0" filename="C:/vscodePython/holpy/app/__init__.py" />
       <jump line="94" column="4" filename="C:/vscodePython/holpy/app/__init__.py" />
       <jump line="251" column="25" filename="C:/vscodePython/holpy/kernel/theory.py" />
-      <jump line="403" column="8" filename="C:/vscodePython/holpy/kernel/theory.py" />
       <jump line="74" column="8" filename="C:/vscodePython/holpy/kernel/theory.py" />
-      <jump line="0" column="0" filename="C:/vscodePython/holpy/kernel/theory.py" />
       <jump line="2" column="0" filename="C:/vscodePython/holpy/kernel/theory.py" />
       <jump line="195" column="22" filename="C:/vscodePython/holpy/kernel/theory.py" />
-      <jump line="215" column="16" filename="C:/vscodePython/holpy/kernel/theory.py" />
       <jump line="211" column="8" filename="C:/vscodePython/holpy/kernel/theory.py" />
       <jump line="210" column="8" filename="C:/vscodePython/holpy/kernel/theory.py" />
       <jump line="227" column="0" filename="C:/vscodePython/holpy/kernel/theory.py" />
@@ -112,6 +109,19 @@
       <jump line="204" column="0" filename="C:/vscodePython/holpy/kernel/theory.py" />
       <jump line="192" column="0" filename="C:/vscodePython/holpy/kernel/theory.py" />
       <jump line="187" column="0" filename="C:/vscodePython/holpy/kernel/theory.py" />
+      <jump line="215" column="27" filename="C:/vscodePython/holpy/kernel/theory.py" />
+      <jump line="123" column="8" filename="C:/vscodePython/holpy/kernel/theory.py" />
+      <jump line="216" column="28" filename="C:/vscodePython/holpy/kernel/theory.py" />
+      <jump line="402" column="0" filename="C:/vscodePython/holpy/kernel/theory.py" />
+      <jump line="386" column="0" filename="C:/vscodePython/holpy/kernel/theory.py" />
+      <jump line="382" column="0" filename="C:/vscodePython/holpy/kernel/theory.py" />
+      <jump line="370" column="0" filename="C:/vscodePython/holpy/kernel/theory.py" />
+      <jump line="366" column="0" filename="C:/vscodePython/holpy/kernel/theory.py" />
+      <jump line="363" column="0" filename="C:/vscodePython/holpy/kernel/theory.py" />
+      <jump line="359" column="0" filename="C:/vscodePython/holpy/kernel/theory.py" />
+      <jump line="0" column="0" filename="C:/vscodePython/holpy/kernel/theory.py" />
+      <jump line="398" column="0" filename="C:/vscodePython/holpy/kernel/theory.py" />
+      <jump line="403" column="24" filename="C:/vscodePython/holpy/kernel/theory.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -170,7 +180,7 @@
         <text encoding="base64">ZGVmIHNldF9saW5lKHByZiwgaWQsIHJ1bGUsICosIGFyZ3MgPSBOb25lLCBwcmV2cyA9IE5vbmUsIHRoID0gTm9uZSk6CiAgICAiIiJTZXQgdGhlIGl0ZW0gd2l0aCB0aGUgZ2l2ZW4gaWQgdG8gdGhlIGZvbGxvd2luZyBkYXRhLiIiIgogICAgbmV3X3ByZiA9IFByb29mKCkKICAgIGZvciBpdGVtIGluIHByZi5wcm9vZjoKICAgICAgICBpZiBpdGVtLmlkID09IGlkOgogICAgICAgICAgICBuZXdfcHJmLnByb29mLmFwcGVuZChQcm9vZkl0ZW0oaWQsIHJ1bGUsIGFyZ3MgPSBhcmdzLCBwcmV2cyA9IHByZXZzLCB0aCA9IHRoKSkKICAgICAgICBlbHNlOgogICAgICAgICAgICBuZXdfcHJmLnByb29mLmFwcGVuZChpdGVtKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action CloseEditor</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -194,7 +204,6 @@
         <entry>earlier r15</entry>
         <entry>q</entry>
         <entry>g*/g#</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action FindUsages</entry>
         <entry>action GotoFile</entry>
         <entry>action CommentByLineComment</entry>
@@ -207,6 +216,12 @@
         <entry>action ShowUsages</entry>
         <entry>CloseEditor</entry>
         <entry>action CloseEditor</entry>
+        <entry>register</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>pwd</entry>
+        <entry>ls</entry>
+        <entry>tabs</entry>
+        <entry>tabfirst</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -265,6 +280,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed K</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
