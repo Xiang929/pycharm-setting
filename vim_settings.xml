@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/vscodePython/holpy/kernel/theory.py" timestamp="1542953511873">
-        <mark key="'" line="215" column="16" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
+      <file name="C:/vscodePython/holpy/kernel/theory.py" timestamp="1542954627394">
+        <mark key="'" line="187" column="0" />
+        <mark key="[" line="227" column="0" />
+        <mark key="]" line="227" column="0" />
+        <mark key="." line="227" column="0" />
       </file>
       <file name="C:/vscodePython/holpy/server/tactic.py" timestamp="1542787231601">
         <mark key="'" line="179" column="4" />
@@ -104,6 +104,13 @@
       <jump line="2" column="0" filename="C:/vscodePython/holpy/kernel/theory.py" />
       <jump line="195" column="22" filename="C:/vscodePython/holpy/kernel/theory.py" />
       <jump line="215" column="16" filename="C:/vscodePython/holpy/kernel/theory.py" />
+      <jump line="211" column="8" filename="C:/vscodePython/holpy/kernel/theory.py" />
+      <jump line="210" column="8" filename="C:/vscodePython/holpy/kernel/theory.py" />
+      <jump line="227" column="0" filename="C:/vscodePython/holpy/kernel/theory.py" />
+      <jump line="209" column="0" filename="C:/vscodePython/holpy/kernel/theory.py" />
+      <jump line="204" column="0" filename="C:/vscodePython/holpy/kernel/theory.py" />
+      <jump line="192" column="0" filename="C:/vscodePython/holpy/kernel/theory.py" />
+      <jump line="187" column="0" filename="C:/vscodePython/holpy/kernel/theory.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
