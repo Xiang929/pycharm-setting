@@ -3,8 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/vscodePython/holpy/kernel/theory.py" timestamp="1542953132577">
-        <mark key="'" line="195" column="22" />
+      <file name="C:/vscodePython/holpy/kernel/theory.py" timestamp="1542953511873">
+        <mark key="'" line="215" column="16" />
         <mark key="[" line="54" column="0" />
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
@@ -103,6 +103,7 @@
       <jump line="0" column="0" filename="C:/vscodePython/holpy/kernel/theory.py" />
       <jump line="2" column="0" filename="C:/vscodePython/holpy/kernel/theory.py" />
       <jump line="195" column="22" filename="C:/vscodePython/holpy/kernel/theory.py" />
+      <jump line="215" column="16" filename="C:/vscodePython/holpy/kernel/theory.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
