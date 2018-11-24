@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="C:/vscodePython/holpy/kernel/theory.py" timestamp="1542963890617">
@@ -10,7 +10,7 @@
         <mark key="." line="398" column="0" />
         <mark key="^" line="398" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1542991587152">
+      <file name="/Python Console" timestamp="1543038393663">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/vscodePython/holpy/app/static/css/index.css" timestamp="1542991839787">
@@ -19,20 +19,20 @@
         <mark key="." line="94" column="15" />
         <mark key="^" line="94" column="15" />
       </file>
-      <file name="C:/vscodePython/holpy/server/tactic.py" timestamp="1543035407744">
+      <file name="C:/vscodePython/holpy/server/tactic.py" timestamp="1543037692817">
         <mark key="'" line="179" column="4" />
-        <mark key="[" line="132" column="4" />
+        <mark key="[" line="183" column="5" />
         <mark key="l" line="37" column="0" />
-        <mark key="]" line="132" column="23" />
-        <mark key="." line="136" column="0" />
-        <mark key="^" line="136" column="0" />
+        <mark key="]" line="183" column="4" />
+        <mark key="." line="183" column="4" />
+        <mark key="^" line="183" column="4" />
       </file>
-      <file name="C:/vscodePython/holpy/app/static/js/main.js" timestamp="1543036671177">
-        <mark key="'" line="231" column="32" />
-        <mark key="[" line="222" column="34" />
-        <mark key="]" line="222" column="34" />
-        <mark key="." line="222" column="34" />
-        <mark key="^" line="222" column="34" />
+      <file name="C:/vscodePython/holpy/app/static/js/main.js" timestamp="1543038384112">
+        <mark key="'" line="250" column="21" />
+        <mark key="[" line="152" column="12" />
+        <mark key="]" line="152" column="47" />
+        <mark key="." line="152" column="47" />
+        <mark key="^" line="152" column="47" />
       </file>
       <file name="C:/vscodePython/holpy/app/cell.py" timestamp="1542817951842">
         <mark key="[" line="6" column="0" />
@@ -44,7 +44,7 @@
         <mark key="^" line="127" column="14" />
         <mark key="." line="127" column="14" />
       </file>
-      <file name="C:/vscodePython/holpy/server/tests/tactic_test.py" timestamp="1542734625355">
+      <file name="C:/vscodePython/holpy/server/tests/tactic_test.py" timestamp="1543038472937">
         <mark key="'" line="54" column="13" />
         <mark key="[" line="48" column="25" />
         <mark key="]" line="48" column="24" />
@@ -58,12 +58,12 @@
         <mark key="." line="13" column="25" />
         <mark key="^" line="13" column="25" />
       </file>
-      <file name="C:/vscodePython/holpy/app/__init__.py" timestamp="1542817433776">
-        <mark key="'" line="93" column="4" />
-        <mark key="[" line="45" column="14" />
-        <mark key="]" line="45" column="13" />
-        <mark key="." line="45" column="13" />
-        <mark key="^" line="45" column="13" />
+      <file name="C:/vscodePython/holpy/app/__init__.py" timestamp="1543038403584">
+        <mark key="'" line="128" column="12" />
+        <mark key="[" line="108" column="7" />
+        <mark key="]" line="108" column="7" />
+        <mark key="." line="108" column="7" />
+        <mark key="^" line="108" column="7" />
       </file>
     </filemarks>
     <jumps>
@@ -157,65 +157,51 @@
       <jump line="225" column="32" filename="C:/vscodePython/holpy/app/static/js/main.js" />
       <jump line="213" column="28" filename="C:/vscodePython/holpy/app/static/js/main.js" />
       <jump line="231" column="32" filename="C:/vscodePython/holpy/app/static/js/main.js" />
+      <jump line="127" column="12" filename="C:/vscodePython/holpy/app/__init__.py" />
+      <jump line="250" column="21" filename="C:/vscodePython/holpy/app/static/js/main.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ICAgIHJlc3VsdF9zdHJpbmcgPSBzZXJ2ZXIuY2hlY2tfcHJvb2YoaW5wdXQpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>//api.github.com/users/${login}</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhc3NlcnRFcXVhbFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJChkb2N1bWVudCkucmVhZHkoZnVuY3Rpb24gKCkgewogICAgICAgICAgICAgICAgdmFyIGxpbmVfbnVtYmVyID0gY20uZ2V0Q3Vyc29yKCkubGluZTsKICAgICAgICAgICAgICAgIHZhciBsaW5lID0gY20uZ2V0TGluZShsaW5lX251bWJlcik7CiAgICAgICAgICAgICAgICB2YXIgaW5wdXQgPSB7CiAgICAgICAgICAgICAgICAgICAgImlkIjogZG9jdW1lbnQucXVlcnlTZWxlY3RvcignLmNvZGUtY2VsbC5zZWxlY3RlZCB0ZXh0YXJlYScpLmlkLAogICAgICAgICAgICAgICAgICAgICJsaW5lIjogbGluZSwKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIHZhciBkYXRhID0gSlNPTi5zdHJpbmdpZnkoaW5wdXQpOwoKICAgICAgICAgICAgICAgICQuYWpheCh7CiAgICAgICAgICAgICAgICAgICAgdXJsOiAiL2FwaS9pbnRyb2R1Y3Rpb24iLAogICAgICAgICAgICAgICAgICAgIHR5cGU6ICJQT1NUIiwKICAgICAgICAgICAgICAgICAgICBkYXRhOiBkYXRhLAogICAgICAgICAgICAgICAgICAgIHN1Y2Nlc3M6IGZ1bmN0aW9uIChyZXN1bHQpIHsKICAgICAgICAgICAgICAgICAgICAgICAgY20uc2V0VmFsdWUocmVzdWx0WydyZXN1bHQnXSk7CiAgICAgICAgICAgICAgICAgICAgICAgIGNtLnNldEN1cnNvcihsaW5lX251bWJlciArIHJlc3VsdFsnbGluZS1kaWZmJ10sIE51bWJlci5NQVhfU0FGRV9JTlRFR0VSKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9KQogICAgICAgICAgICB9KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgbGluZV9udW1iZXIgPSBjbS5nZXRDdXJzb3IoKS5saW5lIC0gMTsKICAgICAgICAgICAgICAgICAgICB2YXIgbGluZSA9IGNtLmdldExpbmUobGluZV9udW1iZXIpOwogICAgICAgICAgICAgICAgICAgIHZhciBpbnB1dCA9IHsKICAgICAgICAgICAgICAgICAgICAgICAgImlkIjogZG9jdW1lbnQucXVlcnlTZWxlY3RvcignLmNvZGUtY2VsbC5zZWxlY3RlZCB0ZXh0YXJlYScpLmlkLAogICAgICAgICAgICAgICAgICAgICAgICAibGluZSI6IGxpbmUsCiAgICAgICAgICAgICAgICAgICAgfTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiQ3RybC1CIjogZnVuY3Rpb24gKCkgewogICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICB9</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiQ3RybC1CIjogZnVuY3Rpb24gKCkgewogICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICB9</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB0aHkgPSBCYXNpY1RoZW9yeSgK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJChkb2N1bWVudCkucmVhZHkoZnVuY3Rpb24gKCkgewogICAgICAgICAgICAgICAgICAgIHZhciBpbnB1dCA9IHt9OwogICAgICAgICAgICAgICAgICAgIHZhciBjb3VudGVyID0gMTsKICAgICAgICAgICAgICAgICAgICB2YXIgcmVnX2JsYW5rID0gL15ccyokL2c7CiAgICAgICAgICAgICAgICAgICAgdmFyIGVkaXRvciA9IGRvY3VtZW50LnF1ZXJ5U2VsZWN0b3IoJy5jb2RlLWNlbGwuc2VsZWN0ZWQgdGV4dGFyZWEgKyAuQ29kZU1pcnJvcicpLkNvZGVNaXJyb3I7CiAgICAgICAgICAgICAgICAgICAgZWRpdG9yLmVhY2hMaW5lKGxpbmUgPT4gewogICAgICAgICAgICAgICAgICAgICAgICBpZiAoIXJlZ19ibGFuay50ZXN0KGxpbmUudGV4dCkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBpbnB1dFtjb3VudGVyKytdID0gbGluZS50ZXh0OwogICAgICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgICAgIHZhciBkYXRhID0gSlNPTi5zdHJpbmdpZnkoaW5wdXQpOwoKICAgICAgICAgICAgICAgICAgICAkLmFqYXgoewogICAgICAgICAgICAgICAgICAgICAgICB1cmw6ICIvYXBpL2NoZWNrLXByb29mIiwKICAgICAgICAgICAgICAgICAgICAgICAgdHlwZTogIlBPU1QiLAogICAgICAgICAgICAgICAgICAgICAgICBkYXRhOiBkYXRhLAogICAgICAgICAgICAgICAgICAgICAgICBzdWNjZXNzOiBmdW5jdGlvbiAocmVzdWx0KSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAkKCcuY29kZS1jZWxsLnNlbGVjdGVkJykuYXBwZW5kKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICQoJzxkaXYgY2xhc3M9Im91dHB1dC13cmFwcGVyIj48ZGl2IGNsYXNzPSJvdXRwdXQiPjxkaXYgY2xhc3M9Im91dHB1dC1hcmVhIj4nICsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJzxwcmU+PC9wcmU+PC9kaXY+PC9kaXY+JykKICAgICAgICAgICAgICAgICAgICAgICAgICAgICk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBsZXQgdmFsdWUgPSAiIjsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZvciAodmFyIGkgaW4gcmVzdWx0KSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWUgKz0gcmVzdWx0W2ldICsgJ1xuJzsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRvY3VtZW50LnF1ZXJ5U2VsZWN0b3IoJy5jb2RlLWNlbGwuc2VsZWN0ZWQgLm91dHB1dCBwcmUnKS5pbm5lckhUTUwgPSB2YWx1ZTsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0pCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICkKICAgICAgICB9CgogICAgICAgIGZ1bmN0aW9uIGFkZF9saW5lX2FmdGVyKGNtKSB7CiAgICAgICAgICAgICQoZG9jdW1lbnQpLnJlYWR5KGZ1bmN0aW9uICgpIHsKICAgICAgICAgICAgICAgICAgICB2YXIgbGluZV9udW1iZXIgPSBjbS5nZXRDdXJzb3IoKS5saW5lIC0gMTsKICAgICAgICAgICAgICAgICAgICB2YXIgbGluZSA9IGNtLmdldExpbmUobGluZV9udW1iZXIpOwogICAgICAgICAgICAgICAgICAgIHZhciBpbnB1dCA9IHsKICAgICAgICAgICAgICAgICAgICAgICAgImlkIjogZG9jdW1lbnQucXVlcnlTZWxlY3RvcignLmNvZGUtY2VsbC5zZWxlY3RlZCB0ZXh0YXJlYScpLmlkLAogICAgICAgICAgICAgICAgICAgICAgICAibGluZSI6IGxpbmUsCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIHZhciBkYXRhID0gSlNPTi5zdHJpbmdpZnkoaW5wdXQpOwoKICAgICAgICAgICAgICAgICAgICAkLmFqYXgoewogICAgICAgICAgICAgICAgICAgICAgICB1cmw6ICIvYXBpL2FkZC1saW5lLWFmdGVyIiwKICAgICAgICAgICAgICAgICAgICAgICAgdHlwZTogIlBPU1QiLAogICAgICAgICAgICAgICAgICAgICAgICBkYXRhOiBkYXRhLAogICAgICAgICAgICAgICAgICAgICAgICBzdWNjZXNzOiBmdW5jdGlvbiAocmVzdWx0KSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBjbS5zZXRWYWx1ZShyZXN1bHRbJ3Jlc3VsdCddKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNtLnNldEN1cnNvcihsaW5lX251bWJlciArIDEsIE51bWJlci5NQVhfU0FGRV9JTlRFR0VSKTsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0pCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICkKICAgICAgICB9CgogICAgICAgIGZ1bmN0aW9uIGludHJvZHVjdGlvbihjbSkgewogICAgICAgICAgICAkKGRvY3VtZW50KS5yZWFkeShmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgICAgICB2YXIgbGluZV9udW1iZXIgPSBjbS5nZXRDdXJzb3IoKS5saW5lOwogICAgICAgICAgICAgICAgdmFyIGxpbmUgPSBjbS5nZXRMaW5lKGxpbmVfbnVtYmVyKTsKICAgICAgICAgICAgICAgIHZhciBpbnB1dCA9IHsKICAgICAgICAgICAgICAgICAgICAiaWQiOiBkb2N1bWVudC5xdWVyeVNlbGVjdG9yKCcuY29kZS1jZWxsLnNlbGVjdGVkIHRleHRhcmVhJykuaWQsCiAgICAgICAgICAgICAgICAgICAgImxpbmUiOiBsaW5lLAogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgdmFyIGRhdGEgPSBKU09OLnN0cmluZ2lmeShpbnB1dCk7CgogICAgICAgICAgICAgICAgJC5hamF4KHsKICAgICAgICAgICAgICAgICAgICB1cmw6ICIvYXBpL2ludHJvZHVjdGlvbiIsCiAgICAgICAgICAgICAgICAgICAgdHlwZTogIlBPU1QiLAogICAgICAgICAgICAgICAgICAgIGRhdGE6IGRhdGEsCiAgICAgICAgICAgICAgICAgICAgc3VjY2VzczogZnVuY3Rpb24gKHJlc3VsdCkgewogICAgICAgICAgICAgICAgICAgICAgICBjbS5zZXRWYWx1ZShyZXN1bHRbJ3Jlc3VsdCddKTsKICAgICAgICAgICAgICAgICAgICAgICAgY20uc2V0Q3Vyc29yKGxpbmVfbnVtYmVyICsgcmVzdWx0WydsaW5lLWRpZmYnXSwgTnVtYmVyLk1BWF9TQUZFX0lOVEVHRVIpOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0pCiAgICAgICAgICAgIH0pCiAgICAgICAgfQoKICAgICAgICBmdW5jdGlvbiBhcHBseV9iYWNrd2FyZF9zdGVwKGNtKSB7CiAgICAgICAgICAgICQoZG9jdW1lbnQpLnJlYWR5KGZ1bmN0aW9uICgpIHsKICAgICAgICAgICAgICAgIHZhciBsaW5lX251bWJlciA9IGNtLmdldEN1cnNvcigpLmxpbmU7CiAgICAgICAgICAgICAgICB2YXIgbGluZSA9IGNtLmdldExpbmUobGluZV9udW1iZXIpOwogICAgICAgICAgICAgICAgdmFyIGlucHV0ID0gewogICAgICAgICAgICAgICAgICAgICJpZCI6IGRvY3VtZW50LnF1ZXJ5U2VsZWN0b3IoJy5jb2RlLWNlbGwuc2VsZWN0ZWQgdGV4dGFyZWEnKS5pZCwKICAgICAgICAgICAgICAgICAgICAibGluZSI6IGxpbmUsCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB2YXIgZGF0YSA9IEpTT04uc3RyaW5naWZ5KGlucHV0KTsKCiAgICAgICAgICAgICAgICAkLmFqYXgoewogICAgICAgICAgICAgICAgICAgIHVybDogIi9hcGkvaW50cm9kdWN0aW9uIiwKICAgICAgICAgICAgICAgICAgICB0eXBlOiAiUE9TVCIsCiAgICAgICAgICAgICAgICAgICAgZGF0YTogZGF0YSwKICAgICAgICAgICAgICAgICAgICBzdWNjZXNzOiBmdW5jdGlvbiAocmVzdWx0KSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGNtLnNldFZhbHVlKHJlc3VsdFsncmVzdWx0J10pOwogICAgICAgICAgICAgICAgICAgICAgICBjbS5zZXRDdXJzb3IobGluZV9udW1iZXIgKyByZXN1bHRbJ2xpbmUtZGlmZiddLCBOdW1iZXIuTUFYX1NBRkVfSU5URUdFUik7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfSkKICAgICAgICAgICAgfSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ewogICAgICAgICAgICAKICAgICAgICAgICAg</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzd2FsKHsK</text>
       </register>
-      <register name="7" type="4">
-        <text>&quot;&quot;&quot;
-        if t.ty == Term.VAR:
-            return None
-        elif t.ty == Term.CONST:
-            try:
-                self.get_term_sig(t.name).match(t.T)
-            except TypeMatchException:
-                raise TheoryException()
-        elif t.ty == Term.COMB:
-            self.check_term(t.fun)
-            self.check_term(t.arg)
-        elif t.ty == Term.ABS:
-            self.check_term(t.body)
-        elif t.ty == Term.BOUND:
-            return None
-        else:
-            raise TypeError()</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGl0bGU6IGAke3Jlc3VsdC52YWx1ZS5sb2dpbn0ncyBhdmF0YXJgLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAiIiJBZGQgYSBuZXcgZGF0YSB0eXBlLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaW1hZ2VVcmw6IHJlc3VsdC52YWx1ZS5hdmF0YXJfdXJsCg==</text>
       </register>
       <register name=":" type="4">
-        <text>register</text>
+        <text>action Find</text>
       </register>
     </registers>
     <search>
@@ -232,11 +218,6 @@
         <entry encoding="base64">XDxhc3NlcnRFcXVhbFw+</entry>
       </history-search>
       <history-cmd>
-        <entry>@</entry>
-        <entry>%d</entry>
-        <entry>earlier 15m</entry>
-        <entry>:earlier 15m</entry>
-        <entry>earlier r15</entry>
         <entry>q</entry>
         <entry>g*/g#</entry>
         <entry>action FindUsages</entry>
@@ -249,14 +230,14 @@
         <entry>action SearchEverywhere</entry>
         <entry>action ShowUsages</entry>
         <entry>CloseEditor</entry>
-        <entry>action CloseEditor</entry>
         <entry>action GotoDeclaration</entry>
         <entry>pwd</entry>
         <entry>ls</entry>
         <entry>tabs</entry>
         <entry>tabfirst</entry>
-        <entry>action Find</entry>
+        <entry>action CloseEditor</entry>
         <entry>register</entry>
+        <entry>action Find</entry>
       </history-cmd>
       <history-expr />
       <history-input />
