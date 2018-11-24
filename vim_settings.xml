@@ -1,7 +1,9 @@
 <application>
   <component name="VimSettings">
     <state version="4" enabled="true" />
-    <globalmarks />
+    <globalmarks>
+      <mark key="T" line="412" column="8" filename="C:/vscodePython/holpy/app/static/js/main.js" protocol="file" />
+    </globalmarks>
     <filemarks>
       <file name="C:/vscodePython/holpy/kernel/theory.py" timestamp="1542963890617">
         <mark key="'" line="363" column="0" />
@@ -9,6 +11,9 @@
         <mark key="]" line="398" column="0" />
         <mark key="." line="398" column="0" />
         <mark key="^" line="398" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1543045864773">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/Python Console" timestamp="1543041780422">
         <mark key="[" line="0" column="0" />
@@ -27,12 +32,12 @@
         <mark key="." line="183" column="4" />
         <mark key="^" line="183" column="4" />
       </file>
-      <file name="C:/vscodePython/holpy/app/static/js/main.js" timestamp="1543043096327">
-        <mark key="'" line="250" column="21" />
-        <mark key="[" line="297" column="16" />
-        <mark key="]" line="303" column="4" />
-        <mark key="." line="297" column="16" />
-        <mark key="^" line="297" column="15" />
+      <file name="C:/vscodePython/holpy/app/static/js/main.js" timestamp="1543045504736">
+        <mark key="'" line="424" column="16" />
+        <mark key="[" line="299" column="0" />
+        <mark key="]" line="299" column="0" />
+        <mark key="." line="299" column="0" />
+        <mark key="^" line="305" column="17" />
       </file>
       <file name="C:/vscodePython/holpy/app/cell.py" timestamp="1542817951842">
         <mark key="[" line="6" column="0" />
@@ -58,20 +63,18 @@
         <mark key="." line="13" column="25" />
         <mark key="^" line="13" column="25" />
       </file>
-      <file name="C:/vscodePython/holpy/app/__init__.py" timestamp="1543042254882">
-        <mark key="'" line="70" column="39" />
-        <mark key="[" line="72" column="44" />
-        <mark key="]" line="72" column="44" />
-        <mark key="." line="72" column="44" />
-        <mark key="^" line="98" column="39" />
+      <file name="C:/vscodePython/holpy/app/__init__.py" timestamp="1543045069919">
+        <mark key="'" line="72" column="39" />
+        <mark key="[" line="52" column="30" />
+        <mark key="]" line="74" column="44" />
+        <mark key="." line="74" column="44" />
+        <mark key="^" line="100" column="39" />
       </file>
       <file name="C:/vscodePython/holpy/server/server.py" timestamp="1543041294110">
         <mark key="'" line="21" column="8" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="40" filename="C:/vscodePython/holpy/server/tactic.py" />
-      <jump line="23" column="4" filename="C:/vscodePython/holpy/server/tactic.py" />
       <jump line="26" column="6" filename="C:/vscodePython/holpy/server/tactic.py" />
       <jump line="8" column="0" filename="C:/vscodePython/holpy/server/tactic.py" />
       <jump line="79" column="4" filename="C:/vscodePython/holpy/server/tactic.py" />
@@ -165,6 +168,13 @@
       <jump line="21" column="8" filename="C:/vscodePython/holpy/server/server.py" />
       <jump line="70" column="39" filename="C:/vscodePython/holpy/app/__init__.py" />
       <jump line="76" column="0" filename="C:/vscodePython/holpy/app/__init__.py" />
+      <jump line="421" column="16" filename="C:/vscodePython/holpy/app/static/js/main.js" />
+      <jump line="420" column="16" filename="C:/vscodePython/holpy/app/static/js/main.js" />
+      <jump line="419" column="30" filename="C:/vscodePython/holpy/app/static/js/main.js" />
+      <jump line="418" column="16" filename="C:/vscodePython/holpy/app/static/js/main.js" />
+      <jump line="412" column="8" filename="C:/vscodePython/holpy/app/static/js/main.js" />
+      <jump line="340" column="16" filename="C:/vscodePython/holpy/app/static/js/main.js" />
+      <jump line="424" column="16" filename="C:/vscodePython/holpy/app/static/js/main.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -174,7 +184,7 @@
         <text encoding="base64">ZnJvbSBmbGFzay5qc29uIGltcG9ydCBqc29uaWZ5Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>introduction</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhc3NlcnRFcXVhbFw+</text>
@@ -182,35 +192,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgbGluZV9udW1iZXIgPSBjbS5nZXRDdXJzb3IoKS5saW5lIC0gMTsKICAgICAgICAgICAgICAgICAgICB2YXIgbGluZSA9IGNtLmdldExpbmUobGluZV9udW1iZXIpOwogICAgICAgICAgICAgICAgICAgIHZhciBpbnB1dCA9IHsKICAgICAgICAgICAgICAgICAgICAgICAgImlkIjogZG9jdW1lbnQucXVlcnlTZWxlY3RvcignLmNvZGUtY2VsbC5zZWxlY3RlZCB0ZXh0YXJlYScpLmlkLAogICAgICAgICAgICAgICAgICAgICAgICAibGluZSI6IGxpbmUsCiAgICAgICAgICAgICAgICAgICAgfTsK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiQ3RybC1CIjogZnVuY3Rpb24gKCkgewogICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICB9</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiQ3RybC1CIjogZnVuY3Rpb24gKCkgewogICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICB9</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlucHVjdEF0dHJpYnV0ZXM6IHsKICAgICAgICAgICAgICAgICAgICBhdXRvY2FwaXRhbGl6ZTogJ29mZicKICAgICAgICAgICAgICAgIH0s</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlucHV0OiAndGV4dCcsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aHkgPSBCYXNpY1RoZW9yeSgK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY20uc2V0VmFsdWUocmVzdWx0WydyZXN1bHQnXSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY20uc2V0Q3Vyc29yKGxpbmVfbnVtYmVyICsgcmVzdWx0WydsaW5lLWRpZmYnXSwgTnVtYmVyLk1BWF9TQUZFX0lOVEVHRVIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzd2FsKHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAibGluZSI6IGxpbmUsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGl0bGU6IGAke3Jlc3VsdC52YWx1ZS5sb2dpbn0ncyBhdmF0YXJgLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBkYXRhID0gSlNPTi5zdHJpbmdpZnkoaW5wdXQpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaW1hZ2VVcmw6IHJlc3VsdC52YWx1ZS5hdmF0YXJfdXJsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>action CloseEditor</text>
+        <text>action Find</text>
       </register>
     </registers>
     <search>
@@ -245,8 +255,8 @@
         <entry>tabs</entry>
         <entry>tabfirst</entry>
         <entry>register</entry>
-        <entry>action Find</entry>
         <entry>action CloseEditor</entry>
+        <entry>action Find</entry>
       </history-cmd>
       <history-expr />
       <history-input />

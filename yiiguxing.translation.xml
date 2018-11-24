@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="init theorem" />
       <item value="States" />
       <item value="assums" />
       <item value="assumes" />
@@ -14,7 +15,6 @@
       <item value="theorom" />
       <item value="therom" />
       <item value="init component" />
-      <item value="init theorem" />
       <item value="theory" />
       <item value="primitive" />
       <item value="requirements" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="44" />
-        <entry key="ENGLISH" value="45" />
+        <entry key="CHINESE" value="45" />
+        <entry key="ENGLISH" value="46" />
         <entry key="ESTONIAN" value="1" />
         <entry key="LATIN" value="1" />
       </map>
