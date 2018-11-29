@@ -12,6 +12,7 @@
         <mark key="." line="398" column="0" />
         <mark key="^" line="398" column="0" />
       </file>
+      <file name="C:/vscodePython/holpy/app/static/codemirror-5.41.0/mode/python/python.js" timestamp="1543485935621" />
       <file name="/Dummy.txt" timestamp="1543045864773">
         <mark key="[" line="0" column="0" />
       </file>
@@ -53,7 +54,6 @@
         <mark key="." line="299" column="0" />
         <mark key="^" line="305" column="17" />
       </file>
-      <file name="C:/PythonProject/final_exam/static/css/index.css" timestamp="1543310745226" />
       <file name="C:/vscodePython/holpy/syntax/parser.py" timestamp="1542817894402">
         <mark key="[" line="127" column="11" />
         <mark key="]" line="127" column="14" />
@@ -244,7 +244,6 @@
         <entry encoding="base64">XDxhc3NlcnRFcXVhbFw+</entry>
       </history-search>
       <history-cmd>
-        <entry>q</entry>
         <entry>g*/g#</entry>
         <entry>action FindUsages</entry>
         <entry>action GotoFile</entry>
