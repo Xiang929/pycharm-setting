@@ -1,9 +1,7 @@
 <application>
   <component name="VimSettings">
     <state version="4" enabled="true" />
-    <globalmarks>
-      <mark key="T" line="412" column="8" filename="C:/vscodePython/holpy/app/static/js/main.js" protocol="file" />
-    </globalmarks>
+    <globalmarks />
     <filemarks>
       <file name="C:/vscodePython/holpy/kernel/theory.py" timestamp="1542963890617">
         <mark key="'" line="363" column="0" />
@@ -12,7 +10,6 @@
         <mark key="." line="398" column="0" />
         <mark key="^" line="398" column="0" />
       </file>
-      <file name="C:/vscodePython/holpy/app/static/codemirror-5.41.0/mode/python/python.js" timestamp="1543485935621" />
       <file name="/Dummy.txt" timestamp="1543045864773">
         <mark key="[" line="0" column="0" />
       </file>
@@ -20,12 +17,10 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/vscodePython/holpy/server/tactic.py" timestamp="1543037692817">
-        <mark key="'" line="179" column="4" />
-        <mark key="[" line="183" column="5" />
-        <mark key="l" line="37" column="0" />
-        <mark key="]" line="183" column="4" />
-        <mark key="." line="183" column="4" />
-        <mark key="^" line="183" column="4" />
+        <mark key="[" line="2" column="5" />
+        <mark key="]" line="2" column="4" />
+        <mark key="." line="2" column="4" />
+        <mark key="^" line="2" column="4" />
       </file>
       <file name="C:/vscodePython/holpy/app/cell.py" timestamp="1542817951842">
         <mark key="[" line="6" column="0" />
@@ -47,38 +42,18 @@
         <mark key="." line="94" column="15" />
         <mark key="^" line="94" column="15" />
       </file>
-      <file name="C:/vscodePython/holpy/app/static/js/main.js" timestamp="1543045504736">
-        <mark key="'" line="424" column="16" />
-        <mark key="[" line="299" column="0" />
-        <mark key="]" line="299" column="0" />
-        <mark key="." line="299" column="0" />
-        <mark key="^" line="305" column="17" />
-      </file>
+      <file name="C:/vscodePython/holpy/app/static/js/main.js" timestamp="1543045504736" />
       <file name="C:/vscodePython/holpy/syntax/parser.py" timestamp="1542817894402">
         <mark key="[" line="127" column="11" />
         <mark key="]" line="127" column="14" />
         <mark key="^" line="127" column="14" />
         <mark key="." line="127" column="14" />
       </file>
-      <file name="C:/vscodePython/holpy/server/tests/tactic_test.py" timestamp="1543038472937">
-        <mark key="'" line="54" column="13" />
-        <mark key="[" line="48" column="25" />
-        <mark key="]" line="48" column="24" />
-        <mark key="^" line="48" column="24" />
-        <mark key="." line="48" column="24" />
-      </file>
       <file name="C:/PythonProject/final_exam/weibo/models.py" timestamp="1543387167653">
         <mark key="[" line="49" column="28" />
         <mark key="]" line="49" column="27" />
         <mark key="^" line="49" column="27" />
         <mark key="." line="49" column="27" />
-      </file>
-      <file name="C:/vscodePython/holpy/app/__init__.py" timestamp="1543045069919">
-        <mark key="'" line="72" column="39" />
-        <mark key="[" line="52" column="30" />
-        <mark key="]" line="74" column="44" />
-        <mark key="." line="74" column="44" />
-        <mark key="^" line="100" column="39" />
       </file>
     </filemarks>
     <jumps>
