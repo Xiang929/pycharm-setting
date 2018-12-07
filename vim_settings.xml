@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="C:/vscodePython/holpy/kernel/theory.py" timestamp="1542963890617">
@@ -25,6 +25,10 @@
       <file name="C:/vscodePython/holpy/app/cell.py" timestamp="1542817951842">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="59" />
+      </file>
+      <file name="C:/vscodePython/holpy/examples/problem8.json" timestamp="1544145779566">
+        <mark key="[" line="9" column="19" />
+        <mark key="]" line="9" column="35" />
       </file>
       <file name="C:/vscodePython/holpy/app/templates/index.html" timestamp="1543031431474">
         <mark key="'" line="13" column="38" />
@@ -179,8 +183,8 @@
       <register name="&quot;" type="2">
         <text encoding="base64">ICAgIHJlc3VsdF9zdHJpbmcgPSBzZXJ2ZXIuY2hlY2tfcHJvb2YoaW5wdXQpCg==</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">aW1wb3J0IHVuaXR0ZXN0CmltcG9ydCBpbwoKZnJvbSBrZXJuZWwudHlwZSBpbXBvcnQgVFZhciwgVEZ1biwgaG9sX2Jvb2wKZnJvbSBrZXJuZWwudGVybSBpbXBvcnQgVGVybSwgVmFyCmZyb20ga2VybmVsLnRobSBpbXBvcnQgVGhtCmZyb20ga2VybmVsLnByb29mIGltcG9ydCBQcm9vZgpmcm9tIGtlcm5lbC5yZXBvcnQgaW1wb3J0IFByb29mUmVwb3J0CmZyb20gbG9naWMgaW1wb3J0IGxvZ2ljCmZyb20gbG9naWMuYmFzaWMgaW1wb3J0IEJhc2ljVGhlb3J5CmZyb20gbG9naWMubmF0IGltcG9ydCBOYXQKZnJvbSBzeW50YXggaW1wb3J0IHByaW50ZXIKZnJvbSBzZXJ2ZXIgaW1wb3J0IHRhY3RpYwpmcm9tIHNlcnZlci50YWN0aWMgaW1wb3J0IFByb29mU3RhdGUKCnRoeSA9IEJhc2ljVGhlb3J5CgpBID0gVmFyKCJBIiwgaG9sX2Jvb2wpCkIgPSBWYXIoIkIiLCBob2xfYm9vbCkKY29uaiA9IGxvZ2ljLm1rX2NvbmoKZGlzaiA9IGxvZ2ljLm1rX2Rpc2oKaW1wID0gVGVybS5ta19pbXBsaWVzCm5lZyA9IGxvZ2ljLm5lZwpleGlzdHMgPSBsb2dpYy5ta19leGlzdHMK</text>
+      <register name="*" type="4">
+        <text encoding="base64">KEEgJiBCKSB8IChBICYgQyk=</text>
       </register>
       <register name="-" type="4">
         <text>introduction</text>
@@ -219,7 +223,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Find</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -245,7 +249,6 @@
         <entry>action CloseActiveTab</entry>
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>action SearchEverywhere</entry>
-        <entry>action ShowUsages</entry>
         <entry>CloseEditor</entry>
         <entry>pwd</entry>
         <entry>ls</entry>
@@ -254,8 +257,9 @@
         <entry>register</entry>
         <entry>Buffers</entry>
         <entry>action CloseEditor</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action Find</entry>
+        <entry>action ShowUsages</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
