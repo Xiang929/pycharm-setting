@@ -30,6 +30,7 @@
         <mark key="[" line="9" column="19" />
         <mark key="]" line="9" column="35" />
       </file>
+      <file name="C:/PythonProject/final_exam/weibo/forms.py" timestamp="1544172981743" />
       <file name="C:/vscodePython/holpy/app/templates/index.html" timestamp="1543031431474">
         <mark key="'" line="13" column="38" />
         <mark key="[" line="13" column="26" />
@@ -63,6 +64,7 @@
         <mark key="]" line="25" column="24" />
         <mark key="." line="316" column="5" />
       </file>
+      <file name="C:/PythonProject/venv_script/final_exam/Lib/site-packages/django/db/backends/sqlite3/base.py" timestamp="1544172037351" />
       <file name="C:/PythonProject/final_exam/weibo/models.py" timestamp="1543387167653">
         <mark key="[" line="49" column="28" />
         <mark key="]" line="49" column="27" />
@@ -231,7 +233,7 @@
       <last-offset />
       <last-pattern encoding="base64">XDxhc3NlcnRFcXVhbFw+</last-pattern>
       <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
