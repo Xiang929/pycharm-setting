@@ -79,11 +79,11 @@
         <mark key="." line="316" column="5" />
       </file>
       <file name="C:/PythonProject/venv_script/final_exam/Lib/site-packages/django/db/backends/sqlite3/base.py" timestamp="1544172037351" />
-      <file name="C:/PythonProject/final_exam/weibo/models.py" timestamp="1544173985126">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="55" column="7" />
+      <file name="C:/PythonProject/final_exam/weibo/models.py" timestamp="1544343629331">
+        <mark key="[" line="55" column="3" />
+        <mark key="]" line="55" column="4" />
         <mark key="^" line="55" column="7" />
-        <mark key="." line="55" column="7" />
+        <mark key="." line="55" column="4" />
       </file>
       <file name="C:/vscodePython/holpy/app/__init__.py" timestamp="1544143082504">
         <mark key="'" line="67" column="0" />
@@ -203,7 +203,7 @@
         <text encoding="base64">KEEgJiBCKSB8IChBICYgQyk=</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhc3NlcnRFcXVhbFw+</text>
