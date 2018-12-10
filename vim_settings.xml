@@ -26,11 +26,10 @@
         <mark key="]" line="73" column="0" />
         <mark key="." line="73" column="0" />
       </file>
-      <file name="C:/PythonProject/ContractManagement/templates/myhetong.html" timestamp="1544416516309">
-        <mark key="'" line="72" column="0" />
-        <mark key="[" line="142" column="36" />
-        <mark key="]" line="143" column="0" />
-        <mark key="." line="143" column="0" />
+      <file name="C:/PythonProject/ContractManagement/templates/myhetong.html" timestamp="1544420198188">
+        <mark key="[" line="138" column="0" />
+        <mark key="]" line="138" column="0" />
+        <mark key="." line="138" column="0" />
       </file>
       <file name="/yuehetong.html" timestamp="1544401901975">
         <mark key="'" line="110" column="4" />
@@ -142,7 +141,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="3" filename="C:/vscodePython/holpy/server/tactic.py" />
       <jump line="56" column="4" filename="C:/vscodePython/holpy/server/tactic.py" />
       <jump line="29" column="4" filename="C:/vscodePython/holpy/server/tactic.py" />
       <jump line="0" column="0" filename="C:/vscodePython/holpy/server/tactic.py" />
@@ -241,6 +239,7 @@
       <jump line="148" column="32" filename="C:/PythonProject/ContractManagement/ContractMis/views.py" />
       <jump line="100" column="24" filename="C:/PythonProject/ContractManagement/templates/myhetong.html" />
       <jump line="103" column="20" filename="C:/PythonProject/ContractManagement/templates/myhetong.html" />
+      <jump line="138" column="64" filename="C:/PythonProject/ContractManagement/templates/myhetong.html" />
       <jump line="72" column="0" filename="C:/PythonProject/ContractManagement/templates/myhetong.html" />
     </jumps>
     <registers>
@@ -260,31 +259,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRkPnt7IGNvbnRhY3QuZW1haWwgfX08L3RkPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c2NyaXB0PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkb2N1bWVudC5xdWVyeVNlbGVjdG9yQWxsKCd0ZCcpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuZm9yRWFjaChlID0+IGUuYWRkRXZlbnRMaXN0ZW5lcigiY2xpY2siLCBmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYoZS5vdXRlckhUTUwuaW5kZXhPZignLi4uJykpewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0pKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZD57eyBjb250YWN0LmNvbnRlbnR8c2xpY2U6IjA6NTAifGFkZDoiLi4uIiB9fQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC90ZD4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZS5vdXRlckhUTUwgPSB7eyBjb250YWN0LmNvbnRlbnR8c2xpY2U6IjA6NTAifGFkZDoiLi4uIiB9fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxidXR0b24+Li4uLi48L2J1dHRvbj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9ZWxzZSBpZihlLm91dGVySFRNTC5sZW5ndGggPiA1MCAmJiBlLm91dGVySFRNTC5pbmRleE9mKCcuLi4nKT09PTEpewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c2NyaXB0PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkb2N1bWVudC5xdWVyeVNlbGVjdG9yQWxsKCd0ZCcpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuZm9yRWFjaChlID0+IGUuYWRkRXZlbnRMaXN0ZW5lcigiY2xpY2siLCBmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYoZS5vdXRlckhUTUwuaW5kZXhPZignLi4uJykpewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0pKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvc2NyaXB0Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZS5vdXRlckhUTUwgPSB7eyBjb250YWN0LmNvbnRlbnQgfX0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZS5vdXRlckhUTUwgPSB7eyBjb250YWN0LmNvbnRlbnR8c2xpY2U6IjA6NTAifGFkZDoiLi4uIiB9fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyBIZXJlLCBgdGhpc2AgcmVmZXJzIHRvIHRoZSBlbGVtZW50IHRoZSBldmVudCB3YXMgaG9va2VkIG9uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9ZWxzZSBpZihlLm91dGVySFRNTC5sZW5ndGggPiA1MCAmJiBlLm91dGVySFRNTC5pbmRleE9mKCcuLi4nKT09PTEpewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZS5vdXRlckhUTUwgPSB7eyBjb250YWN0LmNvbnRlbnQgfX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyBIZXJlLCBgdGhpc2AgcmVmZXJzIHRvIHRoZSBlbGVtZW50IHRoZSBldmVudCB3YXMgaG9va2VkIG9uCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzY3JpcHQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAkKCIucGFydGlhbCIpLm9uKCJjbGljayIsIGZ1bmN0aW9uICgpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aGlzLnRleHQoe3sgY29udGFjdC5jb250ZW50IH19KQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfSk=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvc2NyaXB0Pgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxidXR0b24gY2xhc3M9InBhcnRpYWxfbCI+PC9idXR0b24+Cg==</text>
+        <text encoding="base64">ZAo=</text>
       </register>
       <register name=":" type="4">
         <text>action CloseEditor</text>
