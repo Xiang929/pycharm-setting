@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="C:/PythonProject/ContractManagement/ContractMis/models.py" timestamp="1544408591984" />
       <file name="C:/PythonProject/final_exam/templates/home.html" timestamp="1544367704378">
         <mark key="[" line="30" column="37" />
         <mark key="]" line="30" column="55" />
@@ -89,14 +90,6 @@
         <mark key="]" line="90" column="11" />
         <mark key="." line="88" column="7" />
         <mark key="^" line="88" column="7" />
-      </file>
-      <file name="C:/vscodePython/holpy/app/cell.py" timestamp="1542817951842">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="59" />
-      </file>
-      <file name="C:/vscodePython/holpy/examples/problem8.json" timestamp="1544145779566">
-        <mark key="[" line="9" column="19" />
-        <mark key="]" line="9" column="35" />
       </file>
       <file name="C:/PythonProject/ContractManagement/ContractManagement/urls.py" timestamp="1544405969513">
         <mark key="'" line="33" column="21" />
