@@ -3,8 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/PythonProject/ContractManagement/ContractMis/models.py" timestamp="1544432945539">
-        <mark key="[" line="19" column="42" />
+      <file name="C:/PythonProject/ContractManagement/ContractMis/models.py" timestamp="1544443881949">
+        <mark key="[" line="37" column="43" />
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
@@ -14,7 +14,7 @@
         <mark key="." line="30" column="55" />
         <mark key="^" line="30" column="55" />
       </file>
-      <file name="/Python Console" timestamp="1544435331079">
+      <file name="/Python Console" timestamp="1544445840735">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/vscodePython/holpy/server/tactic.py" timestamp="1544143388311">
@@ -92,7 +92,7 @@
         <mark key="." line="6" column="397" />
         <mark key="^" line="14" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544436465124">
+      <file name="/Dummy.txt" timestamp="1544446011254">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/PythonProject/ContractManagement/templates/yuehetong.html" timestamp="1544430792473">
@@ -106,21 +106,22 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="C:/PythonProject/ContractManagement/templates/gaihetong.html" timestamp="1544438498943">
-        <mark key="'" line="964" column="4" />
-        <mark key="[" line="200" column="47" />
-        <mark key="]" line="711" column="37" />
-        <mark key="." line="711" column="37" />
-        <mark key="^" line="711" column="37" />
+      <file name="C:/PythonProject/ContractManagement/templates/gaihetong.html" timestamp="1544445965198">
+        <mark key="'" line="816" column="53" />
+        <mark key="[" line="71" column="59" />
+        <mark key="]" line="67" column="28" />
+        <mark key="." line="67" column="28" />
+        <mark key="^" line="67" column="28" />
       </file>
-      <file name="C:/PythonProject/ContractManagement/ContractManagement/urls.py" timestamp="1544410838094">
-        <mark key="'" line="30" column="4" />
-        <mark key="[" line="33" column="11" />
-        <mark key="]" line="30" column="17" />
-        <mark key="." line="30" column="17" />
-        <mark key="^" line="30" column="17" />
+      <file name="C:/PythonProject/ContractManagement/ContractManagement/urls.py" timestamp="1544442956996">
+        <mark key="'" line="31" column="4" />
+        <mark key="[" line="25" column="19" />
+        <mark key="]" line="25" column="42" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="31" column="17" />
       </file>
-      <file name="C:/PythonProject/ContractManagement/static/sitemedia/js/common.js" timestamp="1544402252491">
+      <file name="C:/PythonProject/ContractManagement/static/sitemedia/js/common.js" timestamp="1544442605604">
+        <mark key="'" line="66" column="9" />
         <mark key="[" line="66" column="12" />
         <mark key="]" line="66" column="25" />
       </file>
@@ -140,26 +141,22 @@
         <mark key="^" line="60" column="34" />
         <mark key="." line="60" column="34" />
       </file>
-      <file name="C:/PythonProject/ContractManagement/ContractMis/views.py" timestamp="1544435443126">
-        <mark key="'" line="154" column="8" />
-        <mark key="[" line="39" column="28" />
-        <mark key="]" line="39" column="28" />
-        <mark key="." line="39" column="28" />
-        <mark key="^" line="39" column="54" />
+      <file name="C:/PythonProject/ContractManagement/ContractMis/views.py" timestamp="1544446078961">
+        <mark key="'" line="160" column="8" />
+        <mark key="[" line="49" column="33" />
+        <mark key="]" line="49" column="33" />
+        <mark key="." line="49" column="33" />
+        <mark key="^" line="49" column="108" />
       </file>
-      <file name="C:/PythonProject/ContractManagement/templates/xiehetong.html" timestamp="1544430764447">
+      <file name="C:/PythonProject/ContractManagement/templates/xiehetong.html" timestamp="1544444852143">
         <mark key="'" line="116" column="12" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="84" column="11" />
         <mark key="." line="29" column="0" />
         <mark key="^" line="77" column="31" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="0" filename="C:/vscodePython/holpy/app/__init__.py" />
-      <jump line="72" column="0" filename="C:/vscodePython/holpy/app/__init__.py" />
-      <jump line="81" column="16" filename="C:/vscodePython/holpy/app/__init__.py" />
-      <jump line="71" column="0" filename="C:/vscodePython/holpy/app/__init__.py" />
       <jump line="86" column="0" filename="C:/vscodePython/holpy/app/__init__.py" />
       <jump line="94" column="4" filename="C:/vscodePython/holpy/app/__init__.py" />
       <jump line="251" column="25" filename="C:/vscodePython/holpy/kernel/theory.py" />
@@ -256,49 +253,53 @@
       <jump line="31" column="33" filename="C:/PythonProject/ContractManagement/templates/myhetong.html" />
       <jump line="28" column="0" filename="C:/PythonProject/ContractManagement/templates/gaihetong.html" />
       <jump line="965" column="4" filename="C:/PythonProject/ContractManagement/templates/gaihetong.html" />
+      <jump line="75" column="24" filename="C:/PythonProject/ContractManagement/templates/gaihetong.html" />
+      <jump line="1016" column="12" filename="C:/PythonProject/ContractManagement/templates/gaihetong.html" />
+      <jump line="66" column="9" filename="C:/PythonProject/ContractManagement/static/sitemedia/js/common.js" />
+      <jump line="815" column="53" filename="C:/PythonProject/ContractManagement/templates/gaihetong.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ICAgIHJlc3VsdF9zdHJpbmcgPSBzZXJ2ZXIuY2hlY2tfcHJvb2YoaW5wdXQpCg==</text>
       </register>
       <register name="*" type="4">
-        <text>document.querySelectorAll('td')</text>
+        <text>$(&quot;#qa-form&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text>+</text>
+        <text>blogArticleForm.articleContent</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx5dWVoZXRvbmdcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnICA8bGk+PHN0cm9uZz5uYW1lOiA8L3N0cm9uZz4nICsgZ2xvYmFsX2NvbnRyYWN0c1tlLmlkXVsnbmFtZSddICsgJzwvbGk+PC91bD4nICsK</text>
+        <text encoding="base64">eyUgaWYgZXJyb3JfbXNnICV9CiAgICA8ZGl2IGlkPSdhcHAtbWFpbi13YXJuLWNvbnQnIGNsYXNzPSJhbGVydCBhbGVydC1zdWNjZXNzIj4KICAgICAgICA8c3Ryb25nPgogICAgICAgICAgICA8Y2VudGVyPnt7IGVycm9yX21zZyB9fTwvY2VudGVyPgogICAgICAgIDwvc3Ryb25nPgogICAgPC9kaXY+CnslIGVuZGlmICV9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICQoJyNxYS1mb3JtJykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGUudGV4dENvbnRlbnQubGVuZ3RoID4gNTApIHsK</text>
+        <text encoding="base64">ICAga2tkZGRkIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ1lvdSBjYW4gdXNlIDxiPmJvbGQgdGV4dDwvYj4sICcgKwogICAgICAgICAgICAgICAgICAgICAgICAnPGEgaHJlZj0iLy9naXRodWIuY29tIj5saW5rczwvYT4gJyArCiAgICAgICAgICAgICAgICAgICAgICAgICdhbmQgb3RoZXIgSFRNTCB0YWdzJywK</text>
+        <text encoding="base64">ICAgICQuYWpheCh7CiAgICAgICAgdHlwZTogIlBPU1QiLAogICAgICAgIHVybDogIi9nYWloZXRvbmcvc3VibWl0IiwKICAgICAgICBkYXRhOiAkKCcjcWEtZm9ybScpLnNlcmlhbGl6ZSgpICsgIiZpZD0iICsgaWQsCiAgICAgICAgc3VjY2VzczogZnVuY3Rpb24gKGRhdGEpIHsKICAgICAgICAgICAgd2luZG93LmxvY2F0aW9uLnJlbG9hZCgpCiAgICAgICAgfSwKICAgICAgICBlcnJvcjogZnVuY3Rpb24gKGRhdGEpIHsKICAgICAgICB9CiAgICB9KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ1lvdSBjYW4gdXNlIDxiPmJvbGQgdGV4dDwvYj4sICcgKwogICAgICAgICAgICAgICAgICAgICAgICAnPGEgaHJlZj0iLy9naXRodWIuY29tIj5saW5rczwvYT4gJyArCiAgICAgICAgICAgICAgICAgICAgICAgICdhbmQgb3RoZXIgSFRNTCB0YWdzJywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBnbG9iYWxfY29udHJhY3RzW2UuaWRdID0gZS50ZXh0Q29udGVudDsK</text>
+        <text encoding="base64">ICAgIG9iai5zYXZlKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB7I2RvY3VtZW50LnF1ZXJ5U2VsZWN0b3JBbGwoJ3RkJykjfQogICAgICAgIHsjICAgIC5mb3JFYWNoKGUgPT4geyN9CiAgICAgICAgeyMgICAgICAgIGlmIChlLmlkKSB7I30KICAgICAgICB7IyAgICAgICAgICAgIGdsb2JhbF9jb250cmFjdHNbZS5pZF0gPSBlLnRleHRDb250ZW50OyN9CiAgICAgICAgeyMgICAgICAgICAgICBpZiAoZS50ZXh0Q29udGVudC5sZW5ndGggPiA1MCkjfQogICAgICAgIHsjICAgICAgICAgICAgICAgIGUudGV4dENvbnRlbnQgPSBlLnRleHRDb250ZW50LnNsaWNlKDAsIDUwKSArICcuLi4nI30KICAgICAgICB7IyAgICAgICAgfSN9CiAgICAgICAgeyMgICAgfSk7I30K</text>
+        <text encoding="base64">ICAgIG9iai5yZXN1bHRzID0gIs2ouf0iCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjYW5jZWxCdXR0b25BcmlhTGFiZWw6ICdUaHVtYnMgZG93bicsCg==</text>
+        <text encoding="base64">ICAgICQoIiNxYS1mb3JtIikuc3VibWl0KCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJzxpIGNsYXNzPSJmYSBmYS10aHVtYnMtZG93biI+PC9pPicsCg==</text>
+        <text encoding="base64">ICAgIHsjdmFyIGFwcmljZSA9IHBhcnNlRmxvYXQoJCgiI2FwcmljZSIpLnZhbCgpKTsjfQogICAgeyNpZiAoIUNoZWNrRmlsZUV4dChkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgiZmlsZSIpKSkgeyN9CiAgICB7IyAgICB2YXIgd2FybnRpcHMgPSAix+vRodTx0qrJ87jEtcS6z82soaMiOyN9CiAgICB7IyAgICBzaG93RXJyTXNnKHdhcm50aXBzKTsjfQogICAgeyN9IGVsc2UgaWYgKGlzTmFOKGFwcmljZSkgfHwgYXByaWNlIDw9IDApIHsjfQogICAgeyMgICAgdmFyIHdhcm50aXBzID0gIsfr0aHU8brPzazX1sr9oaMiOyN9CiAgICB7IyAgICBzaG93RXJyTXNnKHdhcm50aXBzKTsjfQogICAgeyN9IGVsc2UgaWYgKGhhc0xvZ2luKSAgZWxzZSB7I30KICAgIHsjICAgICQucG9zdCgiL2dhaWhldG9uZy90ZW1wc2F2ZSIsIHsicWEiOiAkKCIjcWEtY29udCIpLnZhbCgpfSwgZnVuY3Rpb24gKGRhdGEpIHsjfQogICAgeyMgICAgfSwgJ2pzb24nKTsjfQogICAgeyMgICAgJCgiI2FsZXJ0UmVnVGlwc0NvbnQiKS5odG1sKCLUw7rPzazOwtywzOHKvqO6x+u1x8K8uvPKudPDuMO5psTcIik7I30KICAgIHsjICAgICQoIiNhbGVydFJlZ1RpcHMiKS5zaG93KCk7I30KICAgIHsjICAgIGNhbkxvZ2luQ2FsbEJhY2sgPSB0cnVlOyN9CiAgICB7IyAgICAkKCIjbW9kYWxSZWciKS5tb2RhbCgic2hvdyIpOyN9CiAgICB7I30jVn0K</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjYW5jZWxCdXR0b25UZXh0Ogo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">IHsjdmFyIGFwcmljZSA9IHBhcnNlRmxvYXQoJCgiI2FwcmljZSIpLnZhbCgpKTsjfQogICAgeyNpZiAoIUNoZWNrRmlsZUV4dChkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgiZmlsZSIpKSkgeyN9CiAgICB7IyAgICB2YXIgd2FybnRpcHMgPSAix+vRodTx0qrJ87jEtcS6z82soaMiOyN9CiAgICB7IyAgICBzaG93RXJyTXNnKHdhcm50aXBzKTsjfQogICAgeyN9IGVsc2UgaWYgKGlzTmFOKGFwcmljZSkgfHwgYXByaWNlIDw9IDApIHsjfQogICAgeyMgICAgdmFyIHdhcm50aXBzID0gIsfr0aHU8brPzazX1sr9oaMiOyN9CiAgICB7IyAgICBzaG93RXJyTXNnKHdhcm50aXBzKTsjfQogICAgeyN9IGVsc2UgaWYgKGhhc0xvZ2luKSAkKCIjcWEtZm9ybSIpLnN1Ym1pdCgpOyBlbHNlIHsjfQogICAgeyMgICAgJC5wb3N0KCIvZ2FpaGV0b25nL3RlbXBzYXZlIiwgeyJxYSI6ICQoIiNxYS1jb250IikudmFsKCl9LCBmdW5jdGlvbiAoZGF0YSkgeyN9CiAgICB7IyAgICB9LCAnanNvbicpOyN9CiAgICB7IyAgICAkKCIjYWxlcnRSZWdUaXBzQ29udCIpLmh0bWwoItTDus/NrM7C3LDM4cq+o7rH67XHwry688q508O4w7mmxNwiKTsjfQogICAgeyMgICAgJCgiI2FsZXJ0UmVnVGlwcyIpLnNob3coKTsjfQogICAgeyMgICAgY2FuTG9naW5DYWxsQmFjayA9IHRydWU7I30KICAgIHsjICAgICQoIiNtb2RhbFJlZyIpLm1vZGFsKCJzaG93Iik7I30KICAgIHsjfSN9</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
