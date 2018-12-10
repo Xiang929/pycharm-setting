@@ -14,7 +14,7 @@
         <mark key="." line="30" column="55" />
         <mark key="^" line="30" column="55" />
       </file>
-      <file name="/Python Console" timestamp="1544445840735">
+      <file name="/Python Console" timestamp="1544455589525">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/vscodePython/holpy/server/tactic.py" timestamp="1544143388311">
@@ -99,10 +99,10 @@
         <mark key="]" line="76" column="0" />
         <mark key="." line="76" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544452173182">
+      <file name="/Dummy.txt" timestamp="1544455762576">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="25" />
-        <mark key="." line="0" column="25" />
+        <mark key="]" line="0" column="13" />
+        <mark key="." line="0" column="13" />
       </file>
       <file name="C:/PythonProject/ContractManagement/templates/yuehetong.html" timestamp="1544430792473">
         <mark key="[" line="31" column="0" />
@@ -122,15 +122,15 @@
         <mark key="." line="67" column="28" />
         <mark key="^" line="67" column="28" />
       </file>
-      <file name="C:/PythonProject/ContractManagement/ContractManagement/urls.py" timestamp="1544442956996">
+      <file name="C:/PythonProject/ContractManagement/ContractManagement/urls.py" timestamp="1544455636160">
         <mark key="'" line="31" column="4" />
-        <mark key="[" line="25" column="19" />
-        <mark key="]" line="25" column="42" />
-        <mark key="." line="25" column="0" />
+        <mark key="[" line="32" column="17" />
+        <mark key="]" line="24" column="20" />
+        <mark key="." line="24" column="20" />
         <mark key="^" line="31" column="17" />
       </file>
-      <file name="C:/PythonProject/ContractManagement/static/sitemedia/js/common.js" timestamp="1544442605604">
-        <mark key="'" line="66" column="9" />
+      <file name="C:/PythonProject/ContractManagement/static/sitemedia/js/common.js" timestamp="1544455229071">
+        <mark key="'" line="1060" column="0" />
         <mark key="[" line="66" column="12" />
         <mark key="]" line="66" column="25" />
       </file>
@@ -150,11 +150,11 @@
         <mark key="^" line="60" column="34" />
         <mark key="." line="60" column="34" />
       </file>
-      <file name="C:/PythonProject/ContractManagement/ContractMis/views.py" timestamp="1544446078961">
+      <file name="C:/PythonProject/ContractManagement/ContractMis/views.py" timestamp="1544455677889">
         <mark key="'" line="160" column="8" />
-        <mark key="[" line="49" column="33" />
-        <mark key="]" line="49" column="33" />
-        <mark key="." line="49" column="33" />
+        <mark key="[" line="107" column="46" />
+        <mark key="]" line="107" column="46" />
+        <mark key="." line="107" column="46" />
         <mark key="^" line="49" column="108" />
       </file>
       <file name="C:/PythonProject/ContractManagement/templates/xiehetong.html" timestamp="1544444852143">
@@ -166,8 +166,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="0" filename="C:/vscodePython/holpy/app/__init__.py" />
-      <jump line="94" column="4" filename="C:/vscodePython/holpy/app/__init__.py" />
       <jump line="251" column="25" filename="C:/vscodePython/holpy/kernel/theory.py" />
       <jump line="74" column="8" filename="C:/vscodePython/holpy/kernel/theory.py" />
       <jump line="2" column="0" filename="C:/vscodePython/holpy/kernel/theory.py" />
@@ -266,6 +264,8 @@
       <jump line="1016" column="12" filename="C:/PythonProject/ContractManagement/templates/gaihetong.html" />
       <jump line="66" column="9" filename="C:/PythonProject/ContractManagement/static/sitemedia/js/common.js" />
       <jump line="815" column="53" filename="C:/PythonProject/ContractManagement/templates/gaihetong.html" />
+      <jump line="405" column="25" filename="C:/PythonProject/ContractManagement/static/sitemedia/js/common.js" />
+      <jump line="1060" column="0" filename="C:/PythonProject/ContractManagement/static/sitemedia/js/common.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -275,7 +275,7 @@
         <text>$(&quot;#qa-form&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text>cliccik</text>
+        <text>file</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx5dWVoZXRvbmdcPg==</text>
