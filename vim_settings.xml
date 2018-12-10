@@ -3,20 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/vscodePython/holpy/kernel/theory.py" timestamp="1542963890617">
-        <mark key="'" line="363" column="0" />
-        <mark key="[" line="398" column="0" />
-        <mark key="]" line="398" column="0" />
-        <mark key="." line="398" column="0" />
-        <mark key="^" line="398" column="0" />
-      </file>
       <file name="C:/PythonProject/final_exam/templates/home.html" timestamp="1544367704378">
         <mark key="[" line="30" column="37" />
         <mark key="]" line="30" column="55" />
         <mark key="." line="30" column="55" />
         <mark key="^" line="30" column="55" />
       </file>
-      <file name="/Python Console" timestamp="1543041780422">
+      <file name="/Python Console" timestamp="1544405562609">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/vscodePython/holpy/server/tactic.py" timestamp="1544143388311">
@@ -25,17 +18,15 @@
         <mark key="." line="220" column="17" />
         <mark key="^" line="2" column="4" />
       </file>
-      <file name="/yuehetong.html" timestamp="1544368561852">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="39" column="9" />
+      <file name="C:/PythonProject/ContractManagement/templates/service/pricing.html" timestamp="1544403752548">
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
       </file>
-      <file name="C:/PythonProject/final_exam/weibo/forms.py" timestamp="1544172981743" />
-      <file name="C:/vscodePython/holpy/app/templates/index.html" timestamp="1543031431474">
-        <mark key="'" line="13" column="38" />
-        <mark key="[" line="13" column="26" />
-        <mark key="]" line="13" column="25" />
-        <mark key="." line="13" column="25" />
-        <mark key="^" line="13" column="25" />
+      <file name="/yuehetong.html" timestamp="1544401901975">
+        <mark key="'" line="110" column="4" />
+        <mark key="[" line="110" column="0" />
+        <mark key="]" line="803" column="360" />
       </file>
       <file name="C:/PythonProject/final_exam/templates/index.html" timestamp="1544263433304">
         <mark key="[" line="208" column="61" />
@@ -46,7 +37,7 @@
         <mark key="." line="94" column="15" />
         <mark key="^" line="94" column="15" />
       </file>
-      <file name="/Django Console" timestamp="1544366257786">
+      <file name="/Django Console" timestamp="1544403933727">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/PythonProject/final_exam/static/css/index.css" timestamp="1544262578904">
@@ -60,11 +51,16 @@
         <mark key="^" line="127" column="14" />
         <mark key="." line="127" column="14" />
       </file>
-      <file name="C:/PythonProject/final_exam/templates/entrance.html" timestamp="1544368825518">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="25" column="17" />
+      <file name="C:/PythonProject/final_exam/templates/entrance.html" timestamp="1544401694201">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="36" />
         <mark key="^" line="20" column="10" />
         <mark key="." line="20" column="10" />
+      </file>
+      <file name="C:/PythonProject/ContractManagement/templates/service/agreement.html" timestamp="1544403780321">
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
       </file>
       <file name="C:/vscodePython/holpy/server/tests/tactic_test.py" timestamp="1544143597941">
         <mark key="'" line="15" column="0" />
@@ -72,12 +68,12 @@
         <mark key="]" line="25" column="24" />
         <mark key="." line="316" column="5" />
       </file>
-      <file name="C:/vscodePython/holpy/app/__init__.py" timestamp="1544143082504">
-        <mark key="'" line="67" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
+      <file name="C:/PythonProject/ContractManagement/static/sitemedia/font-awesome-4.7.0/css/font-awesome.min.css" timestamp="1544405231162">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="6" column="397" />
+        <mark key="]" line="6" column="397" />
+        <mark key="." line="6" column="397" />
+        <mark key="^" line="14" column="21" />
       </file>
       <file name="C:/PythonProject/final_exam/weibo/views.py" timestamp="1544367843387">
         <mark key="'" line="99" column="0" />
@@ -88,12 +84,11 @@
       <file name="/Dummy.txt" timestamp="1543045864773">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/PythonProject/ContractManagement/templates/yuehetong.html" timestamp="1544370281082">
-        <mark key="'" line="639" column="41" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="42" column="13" />
-        <mark key="^" line="695" column="21" />
-        <mark key="." line="38" column="0" />
+      <file name="C:/PythonProject/ContractManagement/templates/yuehetong.html" timestamp="1544404277061">
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="90" column="11" />
+        <mark key="." line="88" column="7" />
+        <mark key="^" line="88" column="7" />
       </file>
       <file name="C:/vscodePython/holpy/app/cell.py" timestamp="1542817951842">
         <mark key="[" line="6" column="0" />
@@ -103,46 +98,42 @@
         <mark key="[" line="9" column="19" />
         <mark key="]" line="9" column="35" />
       </file>
-      <file name="C:/PythonProject/ContractManagement/ContractManagement/urls.py" timestamp="1544369796004">
-        <mark key="[" line="22" column="27" />
+      <file name="C:/PythonProject/ContractManagement/ContractManagement/urls.py" timestamp="1544405969513">
+        <mark key="'" line="33" column="21" />
+        <mark key="[" line="33" column="11" />
+        <mark key="]" line="33" column="11" />
+        <mark key="." line="33" column="11" />
+        <mark key="^" line="26" column="42" />
+      </file>
+      <file name="C:/PythonProject/ContractManagement/static/sitemedia/js/common.js" timestamp="1544402252491">
+        <mark key="[" line="66" column="12" />
+        <mark key="]" line="66" column="25" />
       </file>
       <file name="C:/vscodePython/holpy/app/static/js/main.js" timestamp="1544142670549">
         <mark key="[" line="260" column="0" />
         <mark key="]" line="260" column="0" />
         <mark key="." line="260" column="0" />
       </file>
-      <file name="C:/PythonProject/venv_script/final_exam/Lib/site-packages/django/db/backends/sqlite3/base.py" timestamp="1544172037351" />
       <file name="C:/PythonProject/final_exam/weibo/models.py" timestamp="1544368294325">
         <mark key="[" line="51" column="4" />
         <mark key="]" line="60" column="34" />
         <mark key="^" line="60" column="34" />
         <mark key="." line="60" column="34" />
       </file>
-      <file name="C:/PythonProject/ContractManagement/ContractMis/views.py" timestamp="1544368904073">
-        <mark key="'" line="73" column="38" />
-        <mark key="[" line="171" column="0" />
-        <mark key="]" line="171" column="0" />
-        <mark key="." line="171" column="0" />
+      <file name="C:/PythonProject/ContractManagement/ContractMis/views.py" timestamp="1544406328214">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="." line="85" column="0" />
       </file>
-      <file name="C:/PythonProject/ContractManagement/templates/xiehetong.html" timestamp="1544368591901">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="37" column="13" />
-        <mark key="." line="30" column="0" />
+      <file name="C:/PythonProject/ContractManagement/templates/xiehetong.html" timestamp="1544404281786">
+        <mark key="'" line="111" column="12" />
+        <mark key="[" line="73" column="3" />
+        <mark key="]" line="73" column="3" />
+        <mark key="." line="73" column="3" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="136" column="0" filename="C:/vscodePython/holpy/server/tactic.py" />
-      <jump line="131" column="0" filename="C:/vscodePython/holpy/server/tactic.py" />
-      <jump line="126" column="0" filename="C:/vscodePython/holpy/server/tactic.py" />
-      <jump line="118" column="0" filename="C:/vscodePython/holpy/server/tactic.py" />
-      <jump line="116" column="0" filename="C:/vscodePython/holpy/server/tactic.py" />
-      <jump line="107" column="0" filename="C:/vscodePython/holpy/server/tactic.py" />
-      <jump line="98" column="0" filename="C:/vscodePython/holpy/server/tactic.py" />
-      <jump line="93" column="0" filename="C:/vscodePython/holpy/server/tactic.py" />
-      <jump line="86" column="0" filename="C:/vscodePython/holpy/server/tactic.py" />
-      <jump line="78" column="0" filename="C:/vscodePython/holpy/server/tactic.py" />
-      <jump line="76" column="0" filename="C:/vscodePython/holpy/server/tactic.py" />
-      <jump line="68" column="0" filename="C:/vscodePython/holpy/server/tactic.py" />
       <jump line="63" column="0" filename="C:/vscodePython/holpy/server/tactic.py" />
       <jump line="36" column="0" filename="C:/vscodePython/holpy/server/tactic.py" />
       <jump line="61" column="0" filename="C:/vscodePython/holpy/server/tactic.py" />
@@ -231,66 +222,79 @@
       <jump line="32" column="12" filename="C:/PythonProject/ContractManagement/templates/yuehetong.html" />
       <jump line="31" column="18" filename="C:/PythonProject/ContractManagement/templates/yuehetong.html" />
       <jump line="639" column="41" filename="C:/PythonProject/ContractManagement/templates/yuehetong.html" />
+      <jump line="786" column="52" filename="C:/PythonProject/ContractManagement/templates/yuehetong.html" />
+      <jump line="110" column="4" filename="/yuehetong.html" />
+      <jump line="128" column="5" filename="C:/PythonProject/ContractManagement/templates/yuehetong.html" />
+      <jump line="73" column="5" filename="C:/PythonProject/ContractManagement/templates/service/agreement.html" />
+      <jump line="19" column="29" filename="C:/PythonProject/ContractManagement/ContractMis/views.py" />
+      <jump line="165" column="0" filename="C:/PythonProject/ContractManagement/ContractMis/views.py" />
+      <jump line="178" column="4" filename="C:/PythonProject/ContractManagement/ContractMis/views.py" />
+      <jump line="105" column="12" filename="C:/PythonProject/ContractManagement/templates/xiehetong.html" />
+      <jump line="10" column="0" filename="C:/PythonProject/ContractManagement/static/sitemedia/font-awesome-4.7.0/css/font-awesome.min.css" />
+      <jump line="86" column="27" filename="C:/PythonProject/ContractManagement/ContractMis/views.py" />
+      <jump line="0" column="0" filename="C:/PythonProject/ContractManagement/ContractMis/views.py" />
+      <jump line="33" column="21" filename="C:/PythonProject/ContractManagement/ContractManagement/urls.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ICAgIHJlc3VsdF9zdHJpbmcgPSBzZXJ2ZXIuY2hlY2tfcHJvb2YoaW5wdXQpCg==</text>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQ+CiAgICAgICAgd2luZG93LnNldFRpbWVvdXQoZnVuY3Rpb24gKCkgewogICAgICAgICAgICAkKCIuYWxlcnQiKS5mYWRlVG8oNTAwLCAwKS5zbGlkZVVwKDUwMCwgZnVuY3Rpb24gKCkgewogICAgICAgICAgICAgICAgJCh0aGlzKS5yZW1vdmUoKTsKICAgICAgICAgICAgfSk7CiAgICAgICAgfSwgMjAwMCk7CiAgICA8L3NjcmlwdD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7JSBjc3JmX3Rva2VuICV9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>M</text>
+        <text>xiehetong/</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhc3NlcnRFcXVhbFw+</text>
+        <text encoding="base64">XDx5dWVoZXRvbmdcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhIHJvbGU9ImJ1dHRvbiIgaHJlZj0iL2xvZ2luIiBjbGFzcz0iYnRuIGJ0bi1sb2dpbiIKICAgICAgICAgICAgICAgICAgIGRhdGEtbG9hZGluZy10ZXh0PSLR6dak1tAuLi4iPrXHwrw8L2E+Cg==</text>
+      <register name="0" type="4">
+        <text>/static/sitemedia/font-awesome-4.7.0/fonts</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBkZWYgY3JlYXRlX3dhcm4od2FybnRpcHMpOgojICAgICBodG1sID0gIjxkaXYgY2xhc3M9J2FsZXJ0IGFsZXJ0LWRhbmdlcicgcm9sZT0nYWxlcnQnIGlkPSdhbGVydG1zZyc+PGJ1dHRvbiB0eXBlPSdidXR0b24nIGNsYXNzPSdjbG9zZScgZGF0YS1kaXNtaXNzPSdhbGVydCcgYXJpYS1sYWJlbD0nQ2xvc2UnPjxzcGFuIGFyaWEtaGlkZGVuPSd0cnVlJz4mdGltZXM7PC9zcGFuPjwvYnV0dG9uPjxzcGFuIGlkPSdhbGVydG1zZy1jb250Jz4iICsgd2FybnRpcHMgKyAiPC9zcGFuPjwvZGl2PiIKIyAgICAgcmV0dXJuIGh0bWwK</text>
+        <text encoding="base64">ICAgIGlmICcuaHRtbCcgaW4gcmVxdWVzdC5wYXRoOgogICAgICAgIHJldHVybiByZWRpcmVjdCgnLycpCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQ+CiAgICAgICAgd2luZG93LnNldFRpbWVvdXQoZnVuY3Rpb24gKCkgewogICAgICAgICAgICAkKCIuYWxlcnQiKS5mYWRlVG8oNTAwLCAwKS5zbGlkZVVwKDUwMCwgZnVuY3Rpb24gKCkgewogICAgICAgICAgICAgICAgJCh0aGlzKS5yZW1vdmUoKTsKICAgICAgICAgICAgfSk7CiAgICAgICAgfSwgMjAwMCk7CiAgICA8L3NjcmlwdD4K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQ+CiAgICAgICAgd2luZG93LnNldFRpbWVvdXQoZnVuY3Rpb24gKCkgewogICAgICAgICAgICAkKCIuYWxlcnQiKS5mYWRlVG8oNTAwLCAwKS5zbGlkZVVwKDUwMCwgZnVuY3Rpb24gKCkgewogICAgICAgICAgICAgICAgJCh0aGlzKS5yZW1vdmUoKTsKICAgICAgICAgICAgfSk7CiAgICAgICAgfSwgMjAwMCk7CiAgICA8L3NjcmlwdD4K</text>
+        <text encoding="base64">IH19PC9jZW50ZXI+PC9zdHJvbmc+PC9kaXY+ICV9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBib3JkZXI6IDJweCBkb3R0ZWQgI0RDRTZGNDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJSZXNwb25kL3Jlc3BvbmQucHJveHkuanMiPjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">ICAgIEEuYXBwbGluazpob3ZlciB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQ+dmFyIF9obXQgPSBfaG10IHx8IFtdOwogICAgKGZ1bmN0aW9uICgpIHsKICAgICAgICBzLnBhcmVudE5vZGUuaW5zZXJ0QmVmb3JlKGhtLCBzKTsKICAgICAgICB3aW5kb3cuc2V0VGltZW91dChmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgICQoIi5hbGVydCIpLmZhZGVUbyg1MDAsIDApLnNsaWRlVXAoNTAwLCBmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgICAgICAkKHRoaXMpLnJlbW92ZSgpOwogICAgICAgICAgICB9KTsKICAgICAgICB9LCAyMDAwKTsKICAgIH0pKCk7CiAgICA8L3NjcmlwdD4K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">CTxkaXYKCQlzdHlsZT0nQk9SREVSOiAxcHggc29saWQgI0RDRTZGNDsgTUFSR0lOLVRPUDogMjBweDsgTUFSR0lOLUJPVFRPTTogMjBweDsgTUFSR0lOLUxFRlQ6IDVweDsgTUFSR0lOLVJJR0hUOiA1cHg7IFBBRERJTkc6IDVweDsgQkFDS0dST1VORC1DT0xPUjogI2VlZjhmZjtsaW5lLWhlaWdodDoxODAlOyBDT0xPUjogIzAwMDAwMDsgZm9udC1mYW1pbHk6IEFyaWFsOyBmb250LXNpemU6IDhwdDsgd2lkdGg9MTAwJTsgRklMVEVSOiBwcm9naWQ6RFhJbWFnZVRyYW5zZm9ybS5NaWNyb3NvZnQuR3JhZGllbnQoR3JhZGllbnRUeXBlPTAsIFN0YXJ0Q29sb3JTdHI9IiNGRkZGRkZGRiIsIEVuZENvbG9yU3RyPSIjRjJGNUZBRkYiKTsnPgoJCVRoaXMgcGFnZSB3YXMgc2F2ZWQgdXNpbmcgPGEgY2xhc3M9ImFwcGxpbmsiCgkJCWhyZWY9Imh0dHA6Ly93d3cuc3BpZGVyc29mdC5jb20iPjxiPldlYlpJUCA3LjEuMi4xMDUyPC9iPjwvYT4gPGEKCQkJY2xhc3M9ImFwcGxpbmsiIGhyZWY9Imh0dHA6Ly93d3cuc3BpZGVyc29mdC5jb20iPjxiPm9mZmxpbmUKCQkJCWJyb3dzZXI8L2I+PC9hPiBvbiAxMS8yMi8xOCAyMzoxOToyNC48YnI+IDxiPkFkZHJlc3M6PC9iPiA8YQoJCQljbGFzcz0iaW5mbyIgaHJlZj0iaHR0cHM6Ly95dWVoZXRvbmcuY29tL3NlcnZpY2UvYWdyZWVtZW50Ij5odHRwczovL3l1ZWhldG9uZy5jb20vc2VydmljZS9hZ3JlZW1lbnQ8L2E+PGJyPgoJCTxiPlRpdGxlOjwvYj4g1MO6z82st/7O8dCt0ulf1MO6z82sX9eo0rW6z82st/7O8cnMICZuYnNwOyZidWxsOyZuYnNwOyA8Yj5TaXplOjwvYj4KCQkzMzYzNTxicj4KCTwvZGl2PgoJPCEtLSAvQ29weXJpZ2h0ID8gMjAwOC4gU3BpZGVyc29mdCBMdGQgLS0+Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CX0pKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhc3NlcnRFcXVhbFw+</last-search>
+      <last-search encoding="base64">XDx5dWVoZXRvbmdcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhc3NlcnRFcXVhbFw+</last-pattern>
-      <last-dir>-1</last-dir>
-      <show-last>false</show-last>
+      <last-pattern encoding="base64">XDx5dWVoZXRvbmdcPg==</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
         <entry encoding="base64">XDxhcHBseV9iYWNrd2FyZF9zdGVwXD4=</entry>
         <entry>assertEqual</entry>
         <entry encoding="base64">XDxhc3NlcnRFcXVhbFw+</entry>
+        <entry encoding="base64">XDx5dWVoZXRvbmdcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>g*/g#</entry>
@@ -307,11 +311,11 @@
         <entry>ls</entry>
         <entry>tabs</entry>
         <entry>tabfirst</entry>
-        <entry>register</entry>
         <entry>Buffers</entry>
         <entry>action CloseEditor</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action ShowUsages</entry>
+        <entry>register</entry>
         <entry>action Find</entry>
       </history-cmd>
       <history-expr />
