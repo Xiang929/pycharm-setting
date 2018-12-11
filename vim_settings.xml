@@ -50,12 +50,12 @@
         <mark key="." line="94" column="15" />
         <mark key="^" line="94" column="15" />
       </file>
-      <file name="C:/PythonProject/final_exam/final_exam/settings.py" timestamp="1544518526109">
+      <file name="C:/PythonProject/final_exam/final_exam/settings.py" timestamp="1544521276621">
         <mark key="'" line="119" column="0" />
-        <mark key="[" line="128" column="0" />
-        <mark key="]" line="128" column="0" />
+        <mark key="[" line="129" column="0" />
+        <mark key="]" line="129" column="44" />
         <mark key="^" line="128" column="1" />
-        <mark key="." line="128" column="0" />
+        <mark key="." line="129" column="0" />
       </file>
       <file name="/Django Console" timestamp="1544403933727">
         <mark key="[" line="0" column="0" />
@@ -151,11 +151,11 @@
         <mark key="]" line="1560" column="1" />
         <mark key="." line="1560" column="1" />
       </file>
-      <file name="C:/PythonProject/final_exam/weibo/models.py" timestamp="1544518644548">
-        <mark key="[" line="57" column="32" />
-        <mark key="]" line="57" column="32" />
-        <mark key="^" line="57" column="30" />
-        <mark key="." line="57" column="32" />
+      <file name="C:/PythonProject/final_exam/weibo/models.py" timestamp="1544521998896">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="61" column="0" />
       </file>
       <file name="C:/PythonProject/ContractManagement/ContractMis/views.py" timestamp="1544455677889">
         <mark key="'" line="160" column="8" />
@@ -173,7 +173,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="C:/vscodePython/holpy/kernel/theory.py" />
       <jump line="195" column="22" filename="C:/vscodePython/holpy/kernel/theory.py" />
       <jump line="211" column="8" filename="C:/vscodePython/holpy/kernel/theory.py" />
       <jump line="210" column="8" filename="C:/vscodePython/holpy/kernel/theory.py" />
@@ -273,6 +272,7 @@
       <jump line="1060" column="0" filename="C:/PythonProject/ContractManagement/static/sitemedia/js/common.js" />
       <jump line="128" column="0" filename="C:/PythonProject/final_exam/final_exam/settings.py" />
       <jump line="119" column="0" filename="C:/PythonProject/final_exam/final_exam/settings.py" />
+      <jump line="57" column="27" filename="C:/PythonProject/final_exam/weibo/models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -282,7 +282,7 @@
         <text>$(&quot;#qa-form&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text>max_length=100)</text>
+        <text>.ImageField(upload_to='')</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx5dWVoZXRvbmdcPg==</text>
@@ -290,33 +290,33 @@
       <register name="0" type="2">
         <text encoding="base64">eyUgaWYgZXJyb3JfbXNnICV9CiAgICA8ZGl2IGlkPSdhcHAtbWFpbi13YXJuLWNvbnQnIGNsYXNzPSJhbGVydCBhbGVydC1zdWNjZXNzIj4KICAgICAgICA8c3Ryb25nPgogICAgICAgICAgICA8Y2VudGVyPnt7IGVycm9yX21zZyB9fTwvY2VudGVyPgogICAgICAgIDwvc3Ryb25nPgogICAgPC9kaXY+CnslIGVuZGlmICV9Cg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ZnJvbSBkamFuZ29fdGh1bWJzLmRiLm1vZGVscyBpbXBvcnQgSW1hZ2VXaXRoVGh1bWJzRmllbGQK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGltZyA9IG1vZGVscy5JbWFnZUZpZWxkKCkK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZnJvbSBkamFuZ29fdGh1bWJzCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">TUVESUFfVVJMID0gJy9waWNfZm9sZGVyJwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">TUVESUFfVVJMID0gJy9waWNfZm9sZGVyJwo=</text>
+      </register>
+      <register name="6" type="4">
         <text>ion 
 bind Ctrl + I (undone)</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFYK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAic3VjY2Vzc19tc2ciOiAiVXBkYXRlIHN1Y2Nlc3NmdWxseSEiLAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiByZW5kZXIocmVxdWVzdCwgInByb2ZpbGUuaHRtbCIsIHsicHJvZmlsZV9mb3JtIjogcHJvZmlsZV9mb3JtLAo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFVzZXIub2JqZWN0cy5maWx0ZXIodXNlcm5hbWU9dXNlcm5hbWUpLnVwZGF0ZShlbWFpbD1lbWFpbCwgcGFzc3dvcmQ9cGFzc3dvcmQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICQoJyNxYS1mb3JtJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAga2tkZGRkIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFYK</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
