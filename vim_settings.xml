@@ -144,11 +144,11 @@
         <mark key="]" line="1560" column="1" />
         <mark key="." line="1560" column="1" />
       </file>
-      <file name="C:/PythonProject/final_exam/weibo/models.py" timestamp="1544368294325">
-        <mark key="[" line="51" column="4" />
-        <mark key="]" line="60" column="34" />
-        <mark key="^" line="60" column="34" />
-        <mark key="." line="60" column="34" />
+      <file name="C:/PythonProject/final_exam/weibo/models.py" timestamp="1544511456249">
+        <mark key="[" line="57" column="21" />
+        <mark key="]" line="57" column="30" />
+        <mark key="^" line="57" column="30" />
+        <mark key="." line="57" column="30" />
       </file>
       <file name="C:/PythonProject/ContractManagement/ContractMis/views.py" timestamp="1544455677889">
         <mark key="'" line="160" column="8" />
@@ -275,7 +275,7 @@
         <text>$(&quot;#qa-form&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text>file</text>
+        <text>CharField</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx5dWVoZXRvbmdcPg==</text>
