@@ -94,12 +94,12 @@
         <mark key="." line="6" column="397" />
         <mark key="^" line="14" column="21" />
       </file>
-      <file name="C:/PythonProject/final_exam/weibo/views.py" timestamp="1544530718335">
-        <mark key="'" line="7" column="35" />
-        <mark key="[" line="109" column="29" />
-        <mark key="]" line="109" column="29" />
-        <mark key="." line="109" column="29" />
-        <mark key="^" line="109" column="39" />
+      <file name="C:/PythonProject/final_exam/weibo/views.py" timestamp="1544536773008">
+        <mark key="'" line="8" column="35" />
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="118" column="0" />
+        <mark key="^" line="115" column="0" />
+        <mark key="." line="118" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1544455762576">
         <mark key="[" line="0" column="0" />
@@ -146,11 +146,11 @@
         <mark key="]" line="1560" column="1" />
         <mark key="." line="1560" column="1" />
       </file>
-      <file name="C:/PythonProject/final_exam/weibo/models.py" timestamp="1544528312658">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="9" column="15" />
-        <mark key="." line="9" column="15" />
-        <mark key="^" line="9" column="15" />
+      <file name="C:/PythonProject/final_exam/weibo/models.py" timestamp="1544536307131">
+        <mark key="'" line="47" column="4" />
+        <mark key="[" line="65" column="32" />
+        <mark key="]" line="65" column="44" />
+        <mark key="." line="65" column="22" />
       </file>
       <file name="C:/PythonProject/ContractManagement/ContractMis/views.py" timestamp="1544455677889">
         <mark key="'" line="160" column="8" />
@@ -166,16 +166,13 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="77" column="31" />
       </file>
-      <file name="C:/PythonProject/final_exam/weibo/serializers.py" timestamp="1544529721642">
-        <mark key="[" line="17" column="4" />
-        <mark key="^" line="11" column="45" />
+      <file name="C:/PythonProject/final_exam/weibo/serializers.py" timestamp="1544536440768">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="25" column="75" />
+        <mark key="." line="17" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="210" column="8" filename="C:/vscodePython/holpy/kernel/theory.py" />
-      <jump line="227" column="0" filename="C:/vscodePython/holpy/kernel/theory.py" />
-      <jump line="209" column="0" filename="C:/vscodePython/holpy/kernel/theory.py" />
-      <jump line="204" column="0" filename="C:/vscodePython/holpy/kernel/theory.py" />
       <jump line="192" column="0" filename="C:/vscodePython/holpy/kernel/theory.py" />
       <jump line="187" column="0" filename="C:/vscodePython/holpy/kernel/theory.py" />
       <jump line="215" column="27" filename="C:/vscodePython/holpy/kernel/theory.py" />
@@ -272,6 +269,10 @@
       <jump line="57" column="27" filename="C:/PythonProject/final_exam/weibo/models.py" />
       <jump line="0" column="0" filename="C:/PythonProject/final_exam/weibo/serializers.py" />
       <jump line="7" column="35" filename="C:/PythonProject/final_exam/weibo/views.py" />
+      <jump line="46" column="39" filename="C:/PythonProject/final_exam/weibo/models.py" />
+      <jump line="2" column="0" filename="C:/PythonProject/final_exam/weibo/models.py" />
+      <jump line="40" column="24" filename="C:/PythonProject/final_exam/weibo/models.py" />
+      <jump line="50" column="4" filename="C:/PythonProject/final_exam/weibo/models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -281,43 +282,43 @@
         <text>SerializerMethodField</text>
       </register>
       <register name="-" type="4">
-        <text>RetrieveUpiwteAPIView</text>
+        <text>ForeignKey(User)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx5dWVoZXRvbmdcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y2xhc3MgVXNlclNlcmlhbGl6ZXIoc2VyaWFsaXplcnMuTW9kZWxTZXJpYWxpemVyKToKICAgIGNsYXNzIE1ldGE6CiAgICAgICAgbW9kZWwgPSBVc2VyCiAgICAgICAgZmllbGRzID0gKCd1c2VybmFtZScsKQo=</text>
+        <text encoding="base64">Y2xhc3MgRHluYW1pY1NlcmlhbGl6ZXIoc2VyaWFsaXplcnMuTW9kZWxTZXJpYWxpemVyKToKICAgIHVzZXIgPSBVc2VyU2VyaWFsaXplcihtYW55PVRydWUpCiAgICBjb21tZW50ID0gQ29tbWVudFNlcmlhbGl6ZXIobWFueT1UcnVlKQoKICAgIGNsYXNzIE1ldGE6CiAgICAgICAgbW9kZWwgPSBEeW5hbWljCiAgICAgICAgZmllbGRzID0gKCdjb250ZW50JywgJ3B1Ymxpc2hfdGltZScsICd1c2VyJywgJ2NvbW1lbnQnLCAnaXNfbGlrZWQnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGVmIGR5bmFtaWNfbGlzdF9vZl91c2VyKCkK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gRHluYW1pYy5vYmplY3RzLmZpbHRlcigpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRvdGFsX2xpa2VkID0gc2VyaWFsaXplcnMuU2VyaWFsaXplck1ldGhvZEZpZWxkKCdnZXRfdG90YWxfbGlrZWQnKQo=</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRfcXVlcnlzZXQoc2VsZik6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xhc3MgRHluYW1pY1NlcmlhbGl6ZXIoc2VyaWFsaXplcnMuTW9kZWxTZXJpYWxpemVyKToKICAgIHVzZXIgPSBVc2VyU2VyaWFsaXplcihtYW55PVRydWUpCiAgICBjb21tZW50ID0gQ29tbWVudFNlcmlhbGl6ZXIobWFueT1UcnVlKQoKICAgIGNsYXNzIE1ldGE6CiAgICAgICAgbW9kZWwgPSBEeW5hbWljCiAgICAgICAgZmllbGRzID0gKCdjb250ZW50JywgJ3B1Ymxpc2hfdGltZScsICd1c2VyJywgJ2NvbW1lbnQnLCAnaXNfbGlrZWQnKQo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfdG90YWxfbGlrZWQoc2VsZiwgb2JqKToK</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICBmb2xsb3dlciA9IG1vZGVscy5NYW55VG9NYW55RmllbGQoVXNlcikKICAgIGZvbGxvd2luZyA9IG1vZGVscy5NYW55VG9NYW55RmllbGQoVXNlcik=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ctf31d+jukVhcnRoQ2hlbgrBtL3To7podHRwczovL3d3dy5qaWFuc2h1LmNvbS9wLzI1MzhlOGFhMWVhZAqB7dS0o7q88srpCrzyyunW+Nf3yKi56df31d/L+dPQo6zIzrrO0M7KvbXE16rU2La8x+vBqs+11/fV37vxtcPK2siosqLXosP3s/a0pqGjCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ29fdGh1bWJzLmRiLm1vZGVscyBpbXBvcnQgSW1hZ2VXaXRoVGh1bWJzRmllbGQK</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgIGR5bmFtaWMgPSBtb2RlbHMuTWFueVRvTWFueUZpZWxkKHdlaWJvLm1vZGVscy5EeW5hbWljKQogICAgY29tbWVudCA9IG1vZGVscy5NYW55VG9NYW55RmllbGQod2VpYm8ubW9kZWxzLkNvbW1lbnQp</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGltZyA9IG1vZGVscy5JbWFnZUZpZWxkKCkK</text>
+        <text encoding="base64">ICAgIHVzZXIgPSBtb2RlbHMuTWFueVRvTWFueUZpZWxkKFVzZXIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ29fdGh1bWJzCg==</text>
+        <text encoding="base64">ICAgIHVzZXIgPSBtb2RlbHMuTWFueVRvTWFueUZpZWxkKFVzZXIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">TUVESUFfVVJMID0gJy9waWNfZm9sZGVyJwo=</text>
+        <text encoding="base64">Y2xhc3MgQ29tbWVudChtb2RlbHMuTW9kZWwpOgogICAgY29udGVudCA9IG1vZGVscy5DaGFyRmllbGQobWF4X2xlbmd0aD0yMDApCiAgICB1c2VyID0gbW9kZWxzLk1hbnlUb01hbnlGaWVsZChVc2VyKQogICAgY29tbWVudF90aW1lID0gbW9kZWxzLkRhdGVUaW1lRmllbGQoYXV0b19ub3dfYWRkPVRydWUpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action CloseEditor</text>
+        <text>action OptimizeImports</text>
       </register>
     </registers>
     <search>
@@ -325,7 +326,7 @@
       <last-offset />
       <last-pattern encoding="base64">XDx5dWVoZXRvbmdcPg==</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -355,6 +356,7 @@
         <entry>action ShowUsages</entry>
         <entry>action Find</entry>
         <entry>action CloseEditor</entry>
+        <entry>action OptimizeImports</entry>
       </history-cmd>
       <history-expr />
       <history-input />
