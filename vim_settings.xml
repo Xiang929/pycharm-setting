@@ -50,12 +50,12 @@
         <mark key="." line="94" column="15" />
         <mark key="^" line="94" column="15" />
       </file>
-      <file name="C:/PythonProject/final_exam/final_exam/settings.py" timestamp="1544521276621">
-        <mark key="'" line="119" column="0" />
-        <mark key="[" line="129" column="0" />
-        <mark key="]" line="129" column="44" />
-        <mark key="^" line="128" column="1" />
-        <mark key="." line="129" column="0" />
+      <file name="C:/PythonProject/final_exam/final_exam/settings.py" timestamp="1544528403026">
+        <mark key="'" line="125" column="0" />
+        <mark key="[" line="37" column="20" />
+        <mark key="]" line="135" column="44" />
+        <mark key="^" line="134" column="1" />
+        <mark key="." line="135" column="0" />
       </file>
       <file name="/Django Console" timestamp="1544403933727">
         <mark key="[" line="0" column="0" />
@@ -87,12 +87,6 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="C:/vscodePython/holpy/server/tests/tactic_test.py" timestamp="1544143597941">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="25" column="24" />
-        <mark key="." line="316" column="5" />
-      </file>
       <file name="C:/PythonProject/ContractManagement/static/sitemedia/font-awesome-4.7.0/css/font-awesome.min.css" timestamp="1544405231162">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="6" column="397" />
@@ -100,11 +94,12 @@
         <mark key="." line="6" column="397" />
         <mark key="^" line="14" column="21" />
       </file>
-      <file name="C:/PythonProject/final_exam/weibo/views.py" timestamp="1544447329464">
-        <mark key="'" line="99" column="0" />
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="0" />
-        <mark key="." line="76" column="0" />
+      <file name="C:/PythonProject/final_exam/weibo/views.py" timestamp="1544530718335">
+        <mark key="'" line="7" column="35" />
+        <mark key="[" line="109" column="29" />
+        <mark key="]" line="109" column="29" />
+        <mark key="." line="109" column="29" />
+        <mark key="^" line="109" column="39" />
       </file>
       <file name="/Dummy.txt" timestamp="1544455762576">
         <mark key="[" line="0" column="0" />
@@ -151,11 +146,11 @@
         <mark key="]" line="1560" column="1" />
         <mark key="." line="1560" column="1" />
       </file>
-      <file name="C:/PythonProject/final_exam/weibo/models.py" timestamp="1544521998896">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="61" column="0" />
+      <file name="C:/PythonProject/final_exam/weibo/models.py" timestamp="1544528312658">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="9" column="15" />
+        <mark key="." line="9" column="15" />
+        <mark key="^" line="9" column="15" />
       </file>
       <file name="C:/PythonProject/ContractManagement/ContractMis/views.py" timestamp="1544455677889">
         <mark key="'" line="160" column="8" />
@@ -171,10 +166,12 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="77" column="31" />
       </file>
+      <file name="C:/PythonProject/final_exam/weibo/serializers.py" timestamp="1544529721642">
+        <mark key="[" line="17" column="4" />
+        <mark key="^" line="11" column="45" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="195" column="22" filename="C:/vscodePython/holpy/kernel/theory.py" />
-      <jump line="211" column="8" filename="C:/vscodePython/holpy/kernel/theory.py" />
       <jump line="210" column="8" filename="C:/vscodePython/holpy/kernel/theory.py" />
       <jump line="227" column="0" filename="C:/vscodePython/holpy/kernel/theory.py" />
       <jump line="209" column="0" filename="C:/vscodePython/holpy/kernel/theory.py" />
@@ -273,53 +270,54 @@
       <jump line="128" column="0" filename="C:/PythonProject/final_exam/final_exam/settings.py" />
       <jump line="119" column="0" filename="C:/PythonProject/final_exam/final_exam/settings.py" />
       <jump line="57" column="27" filename="C:/PythonProject/final_exam/weibo/models.py" />
+      <jump line="0" column="0" filename="C:/PythonProject/final_exam/weibo/serializers.py" />
+      <jump line="7" column="35" filename="C:/PythonProject/final_exam/weibo/views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ICAgIHJlc3VsdF9zdHJpbmcgPSBzZXJ2ZXIuY2hlY2tfcHJvb2YoaW5wdXQpCg==</text>
       </register>
       <register name="*" type="4">
-        <text>$(&quot;#qa-form&quot;)</text>
+        <text>SerializerMethodField</text>
       </register>
       <register name="-" type="4">
-        <text>.ImageField(upload_to='')</text>
+        <text>RetrieveUpiwteAPIView</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx5dWVoZXRvbmdcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">eyUgaWYgZXJyb3JfbXNnICV9CiAgICA8ZGl2IGlkPSdhcHAtbWFpbi13YXJuLWNvbnQnIGNsYXNzPSJhbGVydCBhbGVydC1zdWNjZXNzIj4KICAgICAgICA8c3Ryb25nPgogICAgICAgICAgICA8Y2VudGVyPnt7IGVycm9yX21zZyB9fTwvY2VudGVyPgogICAgICAgIDwvc3Ryb25nPgogICAgPC9kaXY+CnslIGVuZGlmICV9Cg==</text>
+        <text encoding="base64">Y2xhc3MgVXNlclNlcmlhbGl6ZXIoc2VyaWFsaXplcnMuTW9kZWxTZXJpYWxpemVyKToKICAgIGNsYXNzIE1ldGE6CiAgICAgICAgbW9kZWwgPSBVc2VyCiAgICAgICAgZmllbGRzID0gKCd1c2VybmFtZScsKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ29fdGh1bWJzLmRiLm1vZGVscyBpbXBvcnQgSW1hZ2VXaXRoVGh1bWJzRmllbGQK</text>
+        <text encoding="base64">ZGVmIGR5bmFtaWNfbGlzdF9vZl91c2VyKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGltZyA9IG1vZGVscy5JbWFnZUZpZWxkKCkK</text>
+        <text encoding="base64">ICAgIHRvdGFsX2xpa2VkID0gc2VyaWFsaXplcnMuU2VyaWFsaXplck1ldGhvZEZpZWxkKCdnZXRfdG90YWxfbGlrZWQnKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ29fdGh1bWJzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">TUVESUFfVVJMID0gJy9waWNfZm9sZGVyJwo=</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRfdG90YWxfbGlrZWQoc2VsZiwgb2JqKToK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">TUVESUFfVVJMID0gJy9waWNfZm9sZGVyJwo=</text>
+        <text encoding="base64">Ctf31d+jukVhcnRoQ2hlbgrBtL3To7podHRwczovL3d3dy5qaWFuc2h1LmNvbS9wLzI1MzhlOGFhMWVhZAqB7dS0o7q88srpCrzyyunW+Nf3yKi56df31d/L+dPQo6zIzrrO0M7KvbXE16rU2La8x+vBqs+11/fV37vxtcPK2siosqLXosP3s/a0pqGjCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>ion 
-bind Ctrl + I (undone)</text>
+      <register name="6" type="2">
+        <text encoding="base64">ZnJvbSBkamFuZ29fdGh1bWJzLmRiLm1vZGVscyBpbXBvcnQgSW1hZ2VXaXRoVGh1bWJzRmllbGQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIGltZyA9IG1vZGVscy5JbWFnZUZpZWxkKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ZnJvbSBkamFuZ29fdGh1bWJzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFYK</text>
+        <text encoding="base64">TUVESUFfVVJMID0gJy9waWNfZm9sZGVyJwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Find</text>
+        <text>action CloseEditor</text>
       </register>
     </registers>
     <search>
@@ -355,8 +353,8 @@ bind Ctrl + I (undone)</text>
         <entry>register</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action ShowUsages</entry>
-        <entry>action CloseEditor</entry>
         <entry>action Find</entry>
+        <entry>action CloseEditor</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -430,6 +428,9 @@ bind Ctrl + I (undone)</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
