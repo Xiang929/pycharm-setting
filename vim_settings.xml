@@ -8,7 +8,7 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1544548894139">
+      <file name="/Python Console" timestamp="1544585936639">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/PythonProject/ContractManagement/templates/service/pricing.html" timestamp="1544430807000">
@@ -42,7 +42,7 @@
         <mark key="^" line="39" column="19" />
         <mark key="." line="39" column="19" />
       </file>
-      <file name="/Django Console" timestamp="1544547980260">
+      <file name="/Django Console" timestamp="1544585491693">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/PythonProject/ContractManagement/templates/hetongfanben.html" timestamp="1544430774612">
@@ -67,12 +67,11 @@
         <mark key="." line="6" column="397" />
         <mark key="^" line="14" column="21" />
       </file>
-      <file name="C:/PythonProject/final_exam/weibo/views.py" timestamp="1544582058356">
-        <mark key="'" line="11" column="35" />
-        <mark key="[" line="129" column="23" />
-        <mark key="]" line="129" column="22" />
-        <mark key="^" line="129" column="22" />
-        <mark key="." line="129" column="22" />
+      <file name="C:/PythonProject/final_exam/weibo/views.py" timestamp="1544587082944">
+        <mark key="'" line="120" column="8" />
+        <mark key="[" line="125" column="33" />
+        <mark key="]" line="122" column="0" />
+        <mark key="." line="122" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1544537771787">
         <mark key="[" line="0" column="0" />
@@ -113,7 +112,7 @@
         <mark key="]" line="1560" column="1" />
         <mark key="." line="1560" column="1" />
       </file>
-      <file name="C:/PythonProject/final_exam/weibo/models.py" timestamp="1544547175741">
+      <file name="C:/PythonProject/final_exam/weibo/models.py" timestamp="1544583288291">
         <mark key="e" line="81" column="45" />
         <mark key="'" line="30" column="35" />
         <mark key="[" line="81" column="4" />
@@ -135,16 +134,14 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="77" column="31" />
       </file>
-      <file name="C:/PythonProject/final_exam/weibo/serializers.py" timestamp="1544581277408">
-        <mark key="[" line="22" column="30" />
-        <mark key="]" line="22" column="50" />
-        <mark key="." line="26" column="58" />
+      <file name="C:/PythonProject/final_exam/weibo/serializers.py" timestamp="1544587347979">
+        <mark key="'" line="37" column="6" />
+        <mark key="[" line="14" column="30" />
+        <mark key="]" line="14" column="30" />
+        <mark key="." line="14" column="30" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="187" column="0" filename="C:/vscodePython/holpy/kernel/theory.py" />
-      <jump line="215" column="27" filename="C:/vscodePython/holpy/kernel/theory.py" />
-      <jump line="123" column="8" filename="C:/vscodePython/holpy/kernel/theory.py" />
       <jump line="216" column="28" filename="C:/vscodePython/holpy/kernel/theory.py" />
       <jump line="402" column="0" filename="C:/vscodePython/holpy/kernel/theory.py" />
       <jump line="386" column="0" filename="C:/vscodePython/holpy/kernel/theory.py" />
@@ -242,6 +239,9 @@
       <jump line="40" column="24" filename="C:/PythonProject/final_exam/weibo/models.py" />
       <jump line="50" column="4" filename="C:/PythonProject/final_exam/weibo/models.py" />
       <jump line="29" column="35" filename="C:/PythonProject/final_exam/weibo/models.py" />
+      <jump line="120" column="8" filename="C:/PythonProject/final_exam/weibo/views.py" />
+      <jump line="146" column="7" filename="C:/PythonProject/final_exam/weibo/views.py" />
+      <jump line="38" column="6" filename="C:/PythonProject/final_exam/weibo/serializers.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -251,43 +251,40 @@
         <text>SerializerMethodField</text>
       </register>
       <register name="-" type="4">
-        <text>HTTP_200_OiwK</text>
+        <text>'is_liked'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx5dWVoZXRvbmdcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHF1ZXJ5c2V0ID0gRHluYW1pYy5vYmplY3RzLmFsbCgpCiAgICBzZXJpYWxpemVyX2NsYXNzID0gRHluYW1pY1NlcmlhbGl6ZXIKICAgIGxvb2t1cF9maWVsZCA9ICd1c2VyJwo=</text>
+        <text encoding="base64">ICAgICAgICB4ID0gTGlrZWQub2JqZWN0cy5maWx0ZXIoZHluYW1pY19faWQ9b2JqLmlkKS5maWx0ZXIoaXNfbGlrZWQ9VHJ1ZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHF1ZXJ5c2V0ID0gVlYK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHRvdGFsX2xpa2VkID0gc2VyaWFsaXplcnMuU2VyaWFsaXplck1ldGhvZEZpZWxkKCkK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gRHluYW1pYy5zaGlwLmZpbHRlcihkeW5hbWljX2lkPW9iai5pZCkuZmlsdGVyKGlzX2xpa2VkPVRydWUpLmNvdW50KCkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfdG90YWxfbGlrZWQoc2VsZiwgb2JqKToK</text>
-      </register>
-      <register name="5" type="4">
-        <text>class Liked(models.Model):
-    user = models.ForeignKey(User, on_delete=models.CASCADE)
-    dynamic = models.ForeignKey(Dynamic, on_delete=models.CASCADE)
-    is_liked = models.BooleanField(default=False)</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGlzX2xpa2VkID0gc2VyaWFsaXplcnMuU2VyaWFsaXplck1ldGhvZEZpZWxkKCkK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">VlZqalYgICAgZGVmIGdldF9pc19saWtlZChzZWxmLCBvYmopOgogICAgICAgIHJldHVybiBMaWtlZC5vYmplY3RzLmdldCgpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBxdWVyeXNldF9saWtlZCA9IExpa2VkLm9iamVjdHMuZmlsdGVyKHVzZXJfX3VzZXJuYW1lPWt3YXJnc1snbmFtZSddKQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlzX2xpa2VkID0gbW9kZWxzLkJvb2xlYW5GaWVsZChkZWZhdWx0PUZhbHNlKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZXJpYWxpemVyX2xpa2VkID0gTGlrZWRTZXJpYWxpemVyKHF1ZXJ5c2V0X2xpa2VkLCBtYW55PVRydWUpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2xhc3MgVXNlckFuZER5bmFtaWNTaGlwKG1vZGVscy5Nb2RlbAogICAgdXNlciA9IG1vZGVscy5Gb3JlaWduS2V5KFVzZXIsIG9uX2RlbGV0ZT1tb2RlbHMuQ0FTQ0FERSkKICAgIGR5bmFtaWMgPSBtb2RlbHMuRm9yZWlnbktleShEeW5hbWljLCBvbl9kZWxldGU9bW9kZWxzLkNBU0NBREUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlbGF0ZWRfbmFtZT0idXNlcl9keW5hbWljIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>register</text>
@@ -326,8 +323,8 @@
         <entry>action Find</entry>
         <entry>action CloseEditor</entry>
         <entry>action OptimizeImports</entry>
-        <entry>register</entry>
         <entry>alskd</entry>
+        <entry>register</entry>
       </history-cmd>
       <history-expr />
       <history-input />
