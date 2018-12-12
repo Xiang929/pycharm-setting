@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="cancel" />
+      <item value="disable" />
       <item value="feed" />
       <item value="abstract" />
       <item value="init theorem" />
@@ -49,13 +51,11 @@
       <item value="duplicate " />
       <item value="success" />
       <item value="DEPARTURECITY" />
-      <item value="target" />
-      <item value="referer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="47" />
-        <entry key="ENGLISH" value="48" />
+        <entry key="CHINESE" value="49" />
+        <entry key="ENGLISH" value="50" />
         <entry key="ESTONIAN" value="1" />
         <entry key="LATIN" value="1" />
       </map>
