@@ -81,6 +81,12 @@
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="26" />
       </file>
+      <file name="C:/PythonProject/final_exam/templates/feed.html" timestamp="1544623244426">
+        <mark key="[" line="259" column="86" />
+        <mark key="]" line="259" column="86" />
+        <mark key="." line="259" column="86" />
+        <mark key="^" line="259" column="107" />
+      </file>
       <file name="C:/PythonProject/final_exam/.gitignore" timestamp="1544604963699">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="0" />
@@ -120,12 +126,12 @@
         <mark key="]" line="1560" column="1" />
         <mark key="." line="1560" column="1" />
       </file>
-      <file name="C:/PythonProject/final_exam/weibo/models.py" timestamp="1544621929781">
+      <file name="C:/PythonProject/final_exam/weibo/models.py" timestamp="1544623405048">
         <mark key="e" line="81" column="45" />
         <mark key="'" line="30" column="35" />
-        <mark key="[" line="66" column="44" />
-        <mark key="]" line="66" column="44" />
-        <mark key="." line="66" column="40" />
+        <mark key="[" line="61" column="4" />
+        <mark key="]" line="61" column="4" />
+        <mark key="." line="61" column="4" />
         <mark key="^" line="68" column="0" />
       </file>
       <file name="C:/PythonProject/ContractManagement/ContractMis/views.py" timestamp="1544455677889">
@@ -142,12 +148,12 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="77" column="31" />
       </file>
-      <file name="C:/PythonProject/final_exam/weibo/serializers.py" timestamp="1544619491350">
+      <file name="C:/PythonProject/final_exam/weibo/serializers.py" timestamp="1544623646356">
         <mark key="'" line="53" column="85" />
-        <mark key="[" line="16" column="18" />
-        <mark key="]" line="16" column="18" />
-        <mark key="." line="16" column="18" />
-        <mark key="^" line="13" column="38" />
+        <mark key="[" line="64" column="4" />
+        <mark key="]" line="64" column="14" />
+        <mark key="." line="64" column="14" />
+        <mark key="^" line="64" column="14" />
       </file>
     </filemarks>
     <jumps>
@@ -260,7 +266,7 @@
         <text>SerializerMethodField</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGNvbW1lbnQub2JqZWN0cy5maWx0ZXIoY29tbWVudF9fZHluYW1pYz1keW5hbWljKQ==</text>
+        <text>collection = models.ManyToManyField(User, related_name='colletion')</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx5dWVoZXRvbmdcPg==</text>
@@ -268,35 +274,35 @@
       <register name="0" type="4">
         <text>result = [x.get('following_user') for x in serializer.data]</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB4ID0gc2VyaWFsaXplci5kYXRkYQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgICB4ID0gc2VyaWFsaXplci5kYXRkYQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgogICAgICAgICAgICByZXR1cm4gUmVzcG9uc2UoewogICAgICAgICAgICAgICAgJ3N0YXR1cyc6IHN0YXR1cy5IVFRQXzQwNF9OT1RfRk9VTkQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBkeW5hbWljOgo=</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgogICAgICAgICAgICByZXR1cm4gUmVzcG9uc2UoewogICAgICAgICAgICAgICAgJ3N0YXR1cyc6IHN0YXR1cy5IVFRQXzQwNF9OT1RfRk9VTkQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgICBpZiBkeW5hbWljOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdzdGF0dXMnOiBzdGF0dXMuSFRUUF80MDRfTk9UX0ZPVU5ECg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFJlc3BvbnNlKHsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgfSkK</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdzdGF0dXMnOiBzdGF0dXMuSFRUUF80MDRfTk9UX0ZPVU5ECg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFJlc3BvbnNlKHsK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+      </register>
       <register name=":" type="4">
-        <text>register</text>
+        <text>action Find</text>
       </register>
     </registers>
     <search>
@@ -328,12 +334,12 @@
         <entry>Buffers</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action ShowUsages</entry>
-        <entry>action Find</entry>
         <entry>action CloseEditor</entry>
         <entry>action OptimizeImports</entry>
         <entry>alskd</entry>
         <entry>nohl</entry>
         <entry>register</entry>
+        <entry>action Find</entry>
       </history-cmd>
       <history-expr />
       <history-input />
