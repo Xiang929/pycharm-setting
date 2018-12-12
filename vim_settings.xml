@@ -42,7 +42,7 @@
         <mark key="^" line="39" column="19" />
         <mark key="." line="39" column="19" />
       </file>
-      <file name="/Django Console" timestamp="1544598625606">
+      <file name="/Django Console" timestamp="1544601983394">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/PythonProject/ContractManagement/templates/hetongfanben.html" timestamp="1544430774612">
@@ -71,14 +71,14 @@
         <mark key="." line="6" column="397" />
         <mark key="^" line="14" column="21" />
       </file>
-      <file name="C:/PythonProject/final_exam/weibo/views.py" timestamp="1544601022833">
-        <mark key="'" line="151" column="59" />
-        <mark key="[" line="185" column="7" />
-        <mark key="]" line="185" column="8" />
-        <mark key="." line="185" column="8" />
-        <mark key="^" line="153" column="23" />
+      <file name="C:/PythonProject/final_exam/weibo/views.py" timestamp="1544602197977">
+        <mark key="'" line="180" column="13" />
+        <mark key="[" line="217" column="7" />
+        <mark key="]" line="217" column="8" />
+        <mark key="^" line="186" column="53" />
+        <mark key="." line="217" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544537771787">
+      <file name="/Dummy.txt" timestamp="1544602177076">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="13" />
@@ -148,7 +148,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="386" column="0" filename="C:/vscodePython/holpy/kernel/theory.py" />
       <jump line="382" column="0" filename="C:/vscodePython/holpy/kernel/theory.py" />
       <jump line="370" column="0" filename="C:/vscodePython/holpy/kernel/theory.py" />
       <jump line="366" column="0" filename="C:/vscodePython/holpy/kernel/theory.py" />
@@ -248,6 +247,7 @@
       <jump line="126" column="39" filename="C:/PythonProject/final_exam/weibo/views.py" />
       <jump line="38" column="85" filename="C:/PythonProject/final_exam/weibo/serializers.py" />
       <jump line="151" column="59" filename="C:/PythonProject/final_exam/weibo/views.py" />
+      <jump line="180" column="13" filename="C:/PythonProject/final_exam/weibo/views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -263,18 +263,24 @@
         <text encoding="base64">XDx5dWVoZXRvbmdcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHBhdGgoJzxzdHI6dXNlcm5hbWU+L2ZvbGxvd2VyJywgdmlld3MuRm9sbG93ZXJMaXN0LmFzX3ZpZXcoKSksCg==</text>
+        <text encoding="base64">ICAgICAgICB1c2VybmFtZSA9IGt3YXJnc1sndXNlcm5hbWUnXQogICAgICAgIHF1ZXJ5c2V0ID0gRm9sbG93U2hpcC5vYmplY3RzLmZpbHRlcihmb2xsb3dlcl91c2VybmFtZT11c2VybmFtZSkKICAgICAgICBzZXJpYWxpemVyID0gRm9sbG93U2hpcFNlcmlhbGl6ZXIocXVlcnlzZXQsIG1hbnk9VHJ1ZSkKICAgICAgICBpZiBzZXJpYWxpemVyOgogICAgICAgICAgICByZXR1cm4gUmVzcG9uc2UoewogICAgICAgICAgICAgICAgJ3N0YXR1cyc6IHN0YXR1cy5IVFRQXzIwMF9PSywKICAgICAgICAgICAgICAgICdkYXRhJzogc2VyaWFsaXplci5kYXRhCiAgICAgICAgICAgIH0pCiAgICAgICAgZWxzZToKICAgICAgICAgICAgcmV0dXJuIFJlc3BvbnNlKHsKICAgICAgICAgICAgICAgICdzdGF0dXMnOiBzdGF0dXMuSFRUUF80MDRfTk9UX0ZPVU5ECiAgICAgICAgICAgIH0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y2xhc3MgCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxvb2t1cF9maWVsZCA9ICd1c2VyJwo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Y2xhc3MgCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGxvb2t1cF9maWVsZCA9ICd1c2VyJwo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICByZXN1bHQgPSBbaXRlbS5nZXQoJ3VzZXInKS5dCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>class DynamicOfUser(generics.ListCreateAPIView):
     queryset = Dynamic.objects.all()
     serializer_class = DynamicSerializer
@@ -293,20 +299,14 @@
                 'status': status.HTTP_404_NOT_FOUND
             })</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGlzX2xpa2VkID0gc2VyaWFsaXplcnMuU2VyaWFsaXplck1ldGhvZEZpZWxkKCkK</text>
-      </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlzX2xpa2VkID0gc2VyaWFsaXplcnMuU2VyaWFsaXplck1ldGhvZEZpZWxkKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">VlZqalYgICAgZGVmIGdldF9pc19saWtlZChzZWxmLCBvYmopOgogICAgICAgIHJldHVybiBMaWtlZC5vYmplY3RzLmdldCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
