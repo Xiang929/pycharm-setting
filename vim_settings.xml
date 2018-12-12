@@ -70,9 +70,9 @@
         <mark key="." line="6" column="397" />
         <mark key="^" line="14" column="21" />
       </file>
-      <file name="C:/PythonProject/final_exam/weibo/views.py" timestamp="1544620745356">
+      <file name="C:/PythonProject/final_exam/weibo/views.py" timestamp="1544625684791">
         <mark key="'" line="324" column="0" />
-        <mark key="[" line="290" column="18" />
+        <mark key="[" line="363" column="0" />
         <mark key="]" line="290" column="18" />
         <mark key="." line="290" column="18" />
       </file>
@@ -80,12 +80,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="26" />
-      </file>
-      <file name="C:/PythonProject/final_exam/templates/feed.html" timestamp="1544623244426">
-        <mark key="[" line="259" column="86" />
-        <mark key="]" line="259" column="86" />
-        <mark key="." line="259" column="86" />
-        <mark key="^" line="259" column="107" />
       </file>
       <file name="C:/PythonProject/final_exam/.gitignore" timestamp="1544604963699">
         <mark key="[" line="0" column="0" />
@@ -126,12 +120,12 @@
         <mark key="]" line="1560" column="1" />
         <mark key="." line="1560" column="1" />
       </file>
-      <file name="C:/PythonProject/final_exam/weibo/models.py" timestamp="1544623405048">
+      <file name="C:/PythonProject/final_exam/weibo/models.py" timestamp="1544625184099">
         <mark key="e" line="81" column="45" />
         <mark key="'" line="30" column="35" />
-        <mark key="[" line="61" column="4" />
-        <mark key="]" line="61" column="4" />
-        <mark key="." line="61" column="4" />
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="0" />
+        <mark key="." line="82" column="0" />
         <mark key="^" line="68" column="0" />
       </file>
       <file name="C:/PythonProject/ContractManagement/ContractMis/views.py" timestamp="1544455677889">
@@ -266,7 +260,7 @@
         <text>SerializerMethodField</text>
       </register>
       <register name="-" type="4">
-        <text>collection = models.ManyToManyField(User, related_name='colletion')</text>
+        <text>models.fie</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx5dWVoZXRvbmdcPg==</text>
