@@ -23,11 +23,11 @@
         <mark key="." line="166" column="64" />
         <mark key="^" line="166" column="64" />
       </file>
-      <file name="C:/PythonProject/final_exam/final_exam/urls.py" timestamp="1544599213615">
-        <mark key="[" line="29" column="48" />
-        <mark key="]" line="29" column="48" />
+      <file name="C:/PythonProject/final_exam/final_exam/urls.py" timestamp="1544600894734">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="66" />
         <mark key="^" line="29" column="48" />
-        <mark key="." line="29" column="48" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="C:/PythonProject/venv_script/final_exam/Lib/site-packages/django_thumbs/db/models.py" timestamp="1544544803304">
         <mark key="[" line="76" column="34" />
@@ -71,12 +71,12 @@
         <mark key="." line="6" column="397" />
         <mark key="^" line="14" column="21" />
       </file>
-      <file name="C:/PythonProject/final_exam/weibo/views.py" timestamp="1544598731792">
-        <mark key="'" line="126" column="39" />
-        <mark key="[" line="182" column="0" />
-        <mark key="]" line="182" column="0" />
-        <mark key="." line="182" column="0" />
-        <mark key="^" line="182" column="5" />
+      <file name="C:/PythonProject/final_exam/weibo/views.py" timestamp="1544601022833">
+        <mark key="'" line="151" column="59" />
+        <mark key="[" line="185" column="7" />
+        <mark key="]" line="185" column="8" />
+        <mark key="." line="185" column="8" />
+        <mark key="^" line="153" column="23" />
       </file>
       <file name="/Dummy.txt" timestamp="1544537771787">
         <mark key="[" line="0" column="0" />
@@ -117,7 +117,7 @@
         <mark key="]" line="1560" column="1" />
         <mark key="." line="1560" column="1" />
       </file>
-      <file name="C:/PythonProject/final_exam/weibo/models.py" timestamp="1544598840939">
+      <file name="C:/PythonProject/final_exam/weibo/models.py" timestamp="1544601187910">
         <mark key="e" line="81" column="45" />
         <mark key="'" line="30" column="35" />
         <mark key="[" line="66" column="44" />
@@ -148,7 +148,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="402" column="0" filename="C:/vscodePython/holpy/kernel/theory.py" />
       <jump line="386" column="0" filename="C:/vscodePython/holpy/kernel/theory.py" />
       <jump line="382" column="0" filename="C:/vscodePython/holpy/kernel/theory.py" />
       <jump line="370" column="0" filename="C:/vscodePython/holpy/kernel/theory.py" />
@@ -248,6 +247,7 @@
       <jump line="146" column="7" filename="C:/PythonProject/final_exam/weibo/views.py" />
       <jump line="126" column="39" filename="C:/PythonProject/final_exam/weibo/views.py" />
       <jump line="38" column="85" filename="C:/PythonProject/final_exam/weibo/serializers.py" />
+      <jump line="151" column="59" filename="C:/PythonProject/final_exam/weibo/views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -257,13 +257,13 @@
         <text>SerializerMethodField</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx5dWVoZXRvbmdcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyX2lkID0gcmVxdWVzdC5xdWVyeV9wYXJhbXNbJ3VzZXJfaWQnXQo=</text>
+        <text encoding="base64">ICAgIHBhdGgoJzxzdHI6dXNlcm5hbWU+L2ZvbGxvd2VyJywgdmlld3MuRm9sbG93ZXJMaXN0LmFzX3ZpZXcoKSksCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Y2xhc3MgCg==</text>
