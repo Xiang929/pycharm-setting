@@ -8,7 +8,7 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1544595640945">
+      <file name="/Python Console" timestamp="1544598251674">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/PythonProject/ContractManagement/templates/service/pricing.html" timestamp="1544430807000">
@@ -23,11 +23,11 @@
         <mark key="." line="166" column="64" />
         <mark key="^" line="166" column="64" />
       </file>
-      <file name="C:/PythonProject/final_exam/final_exam/urls.py" timestamp="1544595843693">
-        <mark key="[" line="29" column="17" />
-        <mark key="]" line="24" column="35" />
-        <mark key="^" line="28" column="13" />
-        <mark key="." line="24" column="0" />
+      <file name="C:/PythonProject/final_exam/final_exam/urls.py" timestamp="1544599213615">
+        <mark key="[" line="29" column="48" />
+        <mark key="]" line="29" column="48" />
+        <mark key="^" line="29" column="48" />
+        <mark key="." line="29" column="48" />
       </file>
       <file name="C:/PythonProject/venv_script/final_exam/Lib/site-packages/django_thumbs/db/models.py" timestamp="1544544803304">
         <mark key="[" line="76" column="34" />
@@ -42,7 +42,7 @@
         <mark key="^" line="39" column="19" />
         <mark key="." line="39" column="19" />
       </file>
-      <file name="/Django Console" timestamp="1544585491693">
+      <file name="/Django Console" timestamp="1544598625606">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/PythonProject/ContractManagement/templates/hetongfanben.html" timestamp="1544430774612">
@@ -71,11 +71,12 @@
         <mark key="." line="6" column="397" />
         <mark key="^" line="14" column="21" />
       </file>
-      <file name="C:/PythonProject/final_exam/weibo/views.py" timestamp="1544597162985">
+      <file name="C:/PythonProject/final_exam/weibo/views.py" timestamp="1544598731792">
         <mark key="'" line="126" column="39" />
-        <mark key="[" line="162" column="7" />
-        <mark key="]" line="149" column="0" />
-        <mark key="." line="149" column="0" />
+        <mark key="[" line="182" column="0" />
+        <mark key="]" line="182" column="0" />
+        <mark key="." line="182" column="0" />
+        <mark key="^" line="182" column="5" />
       </file>
       <file name="/Dummy.txt" timestamp="1544537771787">
         <mark key="[" line="0" column="0" />
@@ -116,12 +117,12 @@
         <mark key="]" line="1560" column="1" />
         <mark key="." line="1560" column="1" />
       </file>
-      <file name="C:/PythonProject/final_exam/weibo/models.py" timestamp="1544583288291">
+      <file name="C:/PythonProject/final_exam/weibo/models.py" timestamp="1544598840939">
         <mark key="e" line="81" column="45" />
         <mark key="'" line="30" column="35" />
-        <mark key="[" line="81" column="4" />
-        <mark key="]" line="81" column="4" />
-        <mark key="." line="81" column="4" />
+        <mark key="[" line="66" column="44" />
+        <mark key="]" line="66" column="44" />
+        <mark key="." line="66" column="40" />
         <mark key="^" line="68" column="0" />
       </file>
       <file name="C:/PythonProject/ContractManagement/ContractMis/views.py" timestamp="1544455677889">
@@ -138,11 +139,12 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="77" column="31" />
       </file>
-      <file name="C:/PythonProject/final_exam/weibo/serializers.py" timestamp="1544595545038">
-        <mark key="'" line="37" column="6" />
-        <mark key="[" line="14" column="30" />
-        <mark key="]" line="14" column="30" />
-        <mark key="." line="14" column="30" />
+      <file name="C:/PythonProject/final_exam/weibo/serializers.py" timestamp="1544599207069">
+        <mark key="'" line="44" column="85" />
+        <mark key="[" line="7" column="16" />
+        <mark key="]" line="6" column="14" />
+        <mark key="." line="6" column="14" />
+        <mark key="^" line="7" column="21" />
       </file>
     </filemarks>
     <jumps>
@@ -244,8 +246,8 @@
       <jump line="29" column="35" filename="C:/PythonProject/final_exam/weibo/models.py" />
       <jump line="120" column="8" filename="C:/PythonProject/final_exam/weibo/views.py" />
       <jump line="146" column="7" filename="C:/PythonProject/final_exam/weibo/views.py" />
-      <jump line="38" column="6" filename="C:/PythonProject/final_exam/weibo/serializers.py" />
       <jump line="126" column="39" filename="C:/PythonProject/final_exam/weibo/views.py" />
+      <jump line="38" column="85" filename="C:/PythonProject/final_exam/weibo/serializers.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -255,42 +257,24 @@
         <text>SerializerMethodField</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx5dWVoZXRvbmdcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>class DynamicOfUser(generics.ListCreateAPIView):
-    queryset = Dynamic.objects.all()
-    serializer_class = DynamicSerializer
-    lookup_field = 'user'
-
-    def get(self, request, *args, **kwargs):
-        queryset = Dynamic.objects.filter(user__username=kwargs['name'])
-        serializer = DynamicSerializer(queryset, many=True)
-        queryset_liked = Liked.objects.filter(user__username=kwargs['name'])
-        serializer_liked = LikedSerializer(queryset_liked, many=True)
-        serializer_list = list(serializer.data)
-        serializer_liked_list = list(serializer_liked.data)
-        result = [item.get('user').]
-        if serializer:
-            return Response({
-                'status': status.HTTP_200_OK,
-                'data': serializer.data
-            })
-        else:
-            return Response({
-                'status': status.HTTP_404_NOT_FOUND
-            })</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICB1c2VyX2lkID0gcmVxdWVzdC5xdWVyeV9wYXJhbXNbJ3VzZXJfaWQnXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxvb2t1cF9maWVsZCA9ICd1c2VyJwo=</text>
+        <text encoding="base64">Y2xhc3MgCg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIGxvb2t1cF9maWVsZCA9ICd1c2VyJwo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICByZXN1bHQgPSBbaXRlbS5nZXQoJ3VzZXInKS5dCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>class DynamicOfUser(generics.ListCreateAPIView):
     queryset = Dynamic.objects.all()
     serializer_class = DynamicSerializer
@@ -309,23 +293,20 @@
                 'status': status.HTTP_404_NOT_FOUND
             })</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlzX2xpa2VkID0gc2VyaWFsaXplcnMuU2VyaWFsaXplck1ldGhvZEZpZWxkKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlzX2xpa2VkID0gc2VyaWFsaXplcnMuU2VyaWFsaXplck1ldGhvZEZpZWxkKCkK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">VlZqalYgICAgZGVmIGdldF9pc19saWtlZChzZWxmLCBvYmopOgogICAgICAgIHJldHVybiBMaWtlZC5vYmplY3RzLmdldCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBxdWVyeXNldF9saWtlZCA9IExpa2VkLm9iamVjdHMuZmlsdGVyKHVzZXJfX3VzZXJuYW1lPWt3YXJnc1snbmFtZSddKQo=</text>
+        <text encoding="base64">VlZqalYgICAgZGVmIGdldF9pc19saWtlZChzZWxmLCBvYmopOgogICAgICAgIHJldHVybiBMaWtlZC5vYmplY3RzLmdldCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
