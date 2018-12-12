@@ -8,7 +8,7 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1544585936639">
+      <file name="/Python Console" timestamp="1544595640945">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/PythonProject/ContractManagement/templates/service/pricing.html" timestamp="1544430807000">
@@ -23,8 +23,8 @@
         <mark key="." line="166" column="64" />
         <mark key="^" line="166" column="64" />
       </file>
-      <file name="C:/PythonProject/final_exam/final_exam/urls.py" timestamp="1544544471150">
-        <mark key="[" line="24" column="0" />
+      <file name="C:/PythonProject/final_exam/final_exam/urls.py" timestamp="1544595843693">
+        <mark key="[" line="29" column="17" />
         <mark key="]" line="24" column="35" />
         <mark key="^" line="28" column="13" />
         <mark key="." line="24" column="0" />
@@ -60,6 +60,10 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
+      <file name="/views.py" timestamp="1544595057307">
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="135" column="13" />
+      </file>
       <file name="C:/PythonProject/ContractManagement/static/sitemedia/font-awesome-4.7.0/css/font-awesome.min.css" timestamp="1544405231162">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="6" column="397" />
@@ -67,11 +71,12 @@
         <mark key="." line="6" column="397" />
         <mark key="^" line="14" column="21" />
       </file>
-      <file name="C:/PythonProject/final_exam/weibo/views.py" timestamp="1544587082944">
-        <mark key="'" line="120" column="8" />
-        <mark key="[" line="125" column="33" />
-        <mark key="]" line="122" column="0" />
-        <mark key="." line="122" column="0" />
+      <file name="C:/PythonProject/final_exam/weibo/views.py" timestamp="1544595913465">
+        <mark key="'" line="126" column="39" />
+        <mark key="[" line="152" column="33" />
+        <mark key="]" line="152" column="34" />
+        <mark key="." line="152" column="34" />
+        <mark key="^" line="152" column="35" />
       </file>
       <file name="/Dummy.txt" timestamp="1544537771787">
         <mark key="[" line="0" column="0" />
@@ -134,7 +139,7 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="77" column="31" />
       </file>
-      <file name="C:/PythonProject/final_exam/weibo/serializers.py" timestamp="1544587347979">
+      <file name="C:/PythonProject/final_exam/weibo/serializers.py" timestamp="1544595545038">
         <mark key="'" line="37" column="6" />
         <mark key="[" line="14" column="30" />
         <mark key="]" line="14" column="30" />
@@ -142,7 +147,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="216" column="28" filename="C:/vscodePython/holpy/kernel/theory.py" />
       <jump line="402" column="0" filename="C:/vscodePython/holpy/kernel/theory.py" />
       <jump line="386" column="0" filename="C:/vscodePython/holpy/kernel/theory.py" />
       <jump line="382" column="0" filename="C:/vscodePython/holpy/kernel/theory.py" />
@@ -242,6 +246,7 @@
       <jump line="120" column="8" filename="C:/PythonProject/final_exam/weibo/views.py" />
       <jump line="146" column="7" filename="C:/PythonProject/final_exam/weibo/views.py" />
       <jump line="38" column="6" filename="C:/PythonProject/final_exam/weibo/serializers.py" />
+      <jump line="126" column="39" filename="C:/PythonProject/final_exam/weibo/views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -251,40 +256,77 @@
         <text>SerializerMethodField</text>
       </register>
       <register name="-" type="4">
-        <text>'is_liked'</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx5dWVoZXRvbmdcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB4ID0gTGlrZWQub2JqZWN0cy5maWx0ZXIoZHluYW1pY19faWQ9b2JqLmlkKS5maWx0ZXIoaXNfbGlrZWQ9VHJ1ZSkK</text>
+      <register name="0" type="4">
+        <text>class DynamicOfUser(generics.ListCreateAPIView):
+    queryset = Dynamic.objects.all()
+    serializer_class = DynamicSerializer
+    lookup_field = 'user'
+
+    def get(self, request, *args, **kwargs):
+        queryset = Dynamic.objects.filter(user__username=kwargs['name'])
+        serializer = DynamicSerializer(queryset, many=True)
+        queryset_liked = Liked.objects.filter(user__username=kwargs['name'])
+        serializer_liked = LikedSerializer(queryset_liked, many=True)
+        serializer_list = list(serializer.data)
+        serializer_liked_list = list(serializer_liked.data)
+        result = [item.get('user').]
+        if serializer:
+            return Response({
+                'status': status.HTTP_200_OK,
+                'data': serializer.data
+            })
+        else:
+            return Response({
+                'status': status.HTTP_404_NOT_FOUND
+            })</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQgPSBbaXRlbS5nZXQoJ3VzZXInKS5dCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGlzX2xpa2VkID0gc2VyaWFsaXplcnMuU2VyaWFsaXplck1ldGhvZEZpZWxkKCkK</text>
+      <register name="2" type="4">
+        <text>class DynamicOfUser(generics.ListCreateAPIView):
+    queryset = Dynamic.objects.all()
+    serializer_class = DynamicSerializer
+    lookup_field = 'user'
+
+    def get(self, request, *args, **kwargs):
+        queryset = Dynamic.objects.filter(user__username=kwargs['name'])
+        serializer = DynamicSerializer(queryset, many=True)
+        if serializer:
+            return Response({
+                'status': status.HTTP_200_OK,
+                'data': serializer.data
+            })
+        else:
+            return Response({
+                'status': status.HTTP_404_NOT_FOUND
+            })</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlzX2xpa2VkID0gc2VyaWFsaXplcnMuU2VyaWFsaXplck1ldGhvZEZpZWxkKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">VlZqalYgICAgZGVmIGdldF9pc19saWtlZChzZWxmLCBvYmopOgogICAgICAgIHJldHVybiBMaWtlZC5vYmplY3RzLmdldCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBxdWVyeXNldF9saWtlZCA9IExpa2VkLm9iamVjdHMuZmlsdGVyKHVzZXJfX3VzZXJuYW1lPWt3YXJnc1snbmFtZSddKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJpYWxpemVyX2xpa2VkID0gTGlrZWRTZXJpYWxpemVyKHF1ZXJ5c2V0X2xpa2VkLCBtYW55PVRydWUpCg==</text>
+        <text encoding="base64">VlZqalYgICAgZGVmIGdldF9pc19saWtlZChzZWxmLCBvYmopOgogICAgICAgIHJldHVybiBMaWtlZC5vYmplY3RzLmdldCgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBxdWVyeXNldF9saWtlZCA9IExpa2VkLm9iamVjdHMuZmlsdGVyKHVzZXJfX3VzZXJuYW1lPWt3YXJnc1snbmFtZSddKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZXJpYWxpemVyX2xpa2VkID0gTGlrZWRTZXJpYWxpemVyKHF1ZXJ5c2V0X2xpa2VkLCBtYW55PVRydWUpCg==</text>
       </register>
       <register name=":" type="4">
         <text>register</text>
