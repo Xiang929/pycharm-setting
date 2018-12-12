@@ -71,12 +71,11 @@
         <mark key="." line="6" column="397" />
         <mark key="^" line="14" column="21" />
       </file>
-      <file name="C:/PythonProject/final_exam/weibo/views.py" timestamp="1544595913465">
+      <file name="C:/PythonProject/final_exam/weibo/views.py" timestamp="1544597162985">
         <mark key="'" line="126" column="39" />
-        <mark key="[" line="152" column="33" />
-        <mark key="]" line="152" column="34" />
-        <mark key="." line="152" column="34" />
-        <mark key="^" line="152" column="35" />
+        <mark key="[" line="162" column="7" />
+        <mark key="]" line="149" column="0" />
+        <mark key="." line="149" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1544537771787">
         <mark key="[" line="0" column="0" />
@@ -286,9 +285,12 @@
             })</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgIGxvb2t1cF9maWVsZCA9ICd1c2VyJwo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICByZXN1bHQgPSBbaXRlbS5nZXQoJ3VzZXInKS5dCg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>class DynamicOfUser(generics.ListCreateAPIView):
     queryset = Dynamic.objects.all()
     serializer_class = DynamicSerializer
@@ -307,29 +309,26 @@
                 'status': status.HTTP_404_NOT_FOUND
             })</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlzX2xpa2VkID0gc2VyaWFsaXplcnMuU2VyaWFsaXplck1ldGhvZEZpZWxkKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlzX2xpa2VkID0gc2VyaWFsaXplcnMuU2VyaWFsaXplck1ldGhvZEZpZWxkKCkK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">VlZqalYgICAgZGVmIGdldF9pc19saWtlZChzZWxmLCBvYmopOgogICAgICAgIHJldHVybiBMaWtlZC5vYmplY3RzLmdldCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBxdWVyeXNldF9saWtlZCA9IExpa2VkLm9iamVjdHMuZmlsdGVyKHVzZXJfX3VzZXJuYW1lPWt3YXJnc1snbmFtZSddKQo=</text>
+        <text encoding="base64">VlZqalYgICAgZGVmIGdldF9pc19saWtlZChzZWxmLCBvYmopOgogICAgICAgIHJldHVybiBMaWtlZC5vYmplY3RzLmdldCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJpYWxpemVyX2xpa2VkID0gTGlrZWRTZXJpYWxpemVyKHF1ZXJ5c2V0X2xpa2VkLCBtYW55PVRydWUpCg==</text>
+        <text encoding="base64">ICAgICAgICBxdWVyeXNldF9saWtlZCA9IExpa2VkLm9iamVjdHMuZmlsdGVyKHVzZXJfX3VzZXJuYW1lPWt3YXJnc1snbmFtZSddKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>register</text>
+        <text>nohl</text>
       </register>
     </registers>
     <search>
@@ -347,7 +346,6 @@
         <entry encoding="base64">XDx5dWVoZXRvbmdcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>action GotoFile</entry>
         <entry>action CommentByLineComment</entry>
         <entry>action GotoAction</entry>
         <entry>action ShowFilePath</entry>
@@ -367,6 +365,7 @@
         <entry>action OptimizeImports</entry>
         <entry>alskd</entry>
         <entry>register</entry>
+        <entry>nohl</entry>
       </history-cmd>
       <history-expr />
       <history-input />
