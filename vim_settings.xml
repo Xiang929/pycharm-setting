@@ -8,7 +8,7 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1544605534071">
+      <file name="/Python Console" timestamp="1544619996729">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/PythonProject/ContractManagement/templates/service/pricing.html" timestamp="1544430807000">
@@ -23,11 +23,10 @@
         <mark key="." line="166" column="64" />
         <mark key="^" line="166" column="64" />
       </file>
-      <file name="C:/PythonProject/final_exam/final_exam/urls.py" timestamp="1544612470021">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="52" />
-        <mark key="^" line="29" column="48" />
-        <mark key="." line="38" column="0" />
+      <file name="C:/PythonProject/final_exam/final_exam/urls.py" timestamp="1544618242919">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="61" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="C:/PythonProject/venv_script/final_exam/Lib/site-packages/django_thumbs/db/models.py" timestamp="1544544803304">
         <mark key="[" line="76" column="34" />
@@ -42,7 +41,7 @@
         <mark key="^" line="39" column="19" />
         <mark key="." line="39" column="19" />
       </file>
-      <file name="/Django Console" timestamp="1544601983394">
+      <file name="/Django Console" timestamp="1544619089147">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/PythonProject/ContractManagement/templates/hetongfanben.html" timestamp="1544430774612">
@@ -71,13 +70,13 @@
         <mark key="." line="6" column="397" />
         <mark key="^" line="14" column="21" />
       </file>
-      <file name="C:/PythonProject/final_exam/weibo/views.py" timestamp="1544613471437">
-        <mark key="[" line="317" column="51" />
-        <mark key="]" line="314" column="14" />
-        <mark key="." line="314" column="14" />
-        <mark key="^" line="314" column="14" />
+      <file name="C:/PythonProject/final_exam/weibo/views.py" timestamp="1544620745356">
+        <mark key="'" line="324" column="0" />
+        <mark key="[" line="290" column="18" />
+        <mark key="]" line="290" column="18" />
+        <mark key="." line="290" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544607624506">
+      <file name="/Dummy.txt" timestamp="1544620814862">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="26" />
@@ -143,17 +142,15 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="77" column="31" />
       </file>
-      <file name="C:/PythonProject/final_exam/weibo/serializers.py" timestamp="1544599207069">
-        <mark key="'" line="44" column="85" />
-        <mark key="[" line="7" column="16" />
-        <mark key="]" line="6" column="14" />
-        <mark key="." line="6" column="14" />
-        <mark key="^" line="7" column="21" />
+      <file name="C:/PythonProject/final_exam/weibo/serializers.py" timestamp="1544619491350">
+        <mark key="'" line="53" column="85" />
+        <mark key="[" line="16" column="18" />
+        <mark key="]" line="16" column="18" />
+        <mark key="." line="16" column="18" />
+        <mark key="^" line="13" column="38" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="366" column="0" filename="C:/vscodePython/holpy/kernel/theory.py" />
-      <jump line="359" column="0" filename="C:/vscodePython/holpy/kernel/theory.py" />
       <jump line="0" column="0" filename="C:/vscodePython/holpy/kernel/theory.py" />
       <jump line="403" column="24" filename="C:/vscodePython/holpy/kernel/theory.py" />
       <jump line="398" column="0" filename="C:/vscodePython/holpy/kernel/theory.py" />
@@ -252,6 +249,8 @@
       <jump line="180" column="13" filename="C:/PythonProject/final_exam/weibo/views.py" />
       <jump line="219" column="26" filename="C:/PythonProject/final_exam/weibo/views.py" />
       <jump line="138" column="13" filename="C:/PythonProject/final_exam/weibo/views.py" />
+      <jump line="265" column="12" filename="C:/PythonProject/final_exam/weibo/views.py" />
+      <jump line="319" column="0" filename="C:/PythonProject/final_exam/weibo/views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -261,43 +260,43 @@
         <text>SerializerMethodField</text>
       </register>
       <register name="-" type="4">
-        <text>SearchUser</text>
+        <text encoding="base64">IGNvbW1lbnQub2JqZWN0cy5maWx0ZXIoY29tbWVudF9fZHluYW1pYz1keW5hbWljKQ==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx5dWVoZXRvbmdcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHBhdGgoJ2NvbW1lbnQvYWRkJywgdmlld3MuQ29tbWVudEFkZC5hc192aWV3KCkpLAo=</text>
+      <register name="0" type="4">
+        <text>result = [x.get('following_user') for x in serializer.data]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICB4ID0gc2VyaWFsaXplci5kYXRkYQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBhdGgoJ2ZvbGxvd2VyJywgdmlld3MuUG9zdEZvbGxvdy5hc192aWV3KCkpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgogICAgICAgICAgICByZXR1cm4gUmVzcG9uc2UoewogICAgICAgICAgICAgICAgJ3N0YXR1cyc6IHN0YXR1cy5IVFRQXzQwNF9OT1RfRk9VTkQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBkeW5hbWljOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y2xhc3MgUG9zdEZvbGxvdyhnZW5lcmljcy5DcmVhdGVBUElWaWV3KToKICAgIGRlZiBwb3N0KHNlbGYsIHJlcXVlc3QsICphcmdzLCAqKmt3YXJncyk6CiAgICAgICAgdXNlcm5hbWUgPSByZXF1ZXN0LnF1ZXJ5X3BhcmFtc1sndXNlcm5hbWUnXQogICAgICAgIG9wZXJhdGlvbiA9IHJlcXVlc3QucXVlcnlfcGFyYW1zWydvcGVyYXRpb24nXQogICAgICAgIGZvbGxvd2luZ19uYW1lID0gcmVxdWVzdC5xdWVyeV9wYXJhbXNbJ2ZvbGxvd2luZ19uYW1lJ10KICAgICAgICBpZiBvcGVyYXRpb24gPT0gJ2FkZCc6CiAgICAgICAgICAgIHVzZXIgPSBVc2VyLm9iamVjdHMuZ2V0KHVzZXJuYW1lPXVzZXJuYW1lKQogICAgICAgICAgICBmb2xsb3dpbmcgPSBVc2VyLm9iamVjdHMuZ2V0KHVzZXJuYW1lPWZvbGxvd2luZ19uYW1lKQogICAgICAgICAgICBmb2xsb3dfc2hpcCA9IEZvbGxvd1NoaXAub2JqZWN0cy5jcmVhdGUoZm9sbG93ZXI9dXNlciwgZm9sbG93aW5nPWZvbGxvd2luZykKICAgICAgICAgICAgaWYgZm9sbG93X3NoaXA6CiAgICAgICAgICAgICAgICByZXR1cm4gUmVzcG9uc2UoewogICAgICAgICAgICAgICAgICAgICdzdGF0dXMnOiBzdGF0dXMuSFRUUF8yMDFfQ1JFQVRFRAogICAgICAgICAgICAgICAgfSkKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIHJldHVybiBSZXNwb25zZSh7CiAgICAgICAgICAgICAgICAgICAgJ3N0YXR1cyc6IHN0YXR1cy5IVFRQXzQwNF9OT1RfRk9VTkQKICAgICAgICAgICAgICAgIH0pCiAgICAgICAgZWxzZToKICAgICAgICAgICAgdXNlciA9IFVzZXIub2JqZWN0cy5nZXQodXNlcm5hbWU9dXNlcm5hbWUpCiAgICAgICAgICAgIGZvbGxvd2luZyA9IFVzZXIub2JqZWN0cy5nZXQodXNlcm5hbWU9Zm9sbG93aW5nX25hbWUpCiAgICAgICAgICAgIGZvbGxvd19zaGlwID0gRm9sbG93U2hpcC5vYmplY3RzLmdldChmb2xsb3dlcj11c2VyLCBmb2xsb3dpbmc9Zm9sbG93aW5nKS5kZWxldGUoKQogICAgICAgICAgICBpZiBmb2xsb3dfc2hpcDoKICAgICAgICAgICAgICAgIHJldHVybiBSZXNwb25zZSh7CiAgICAgICAgICAgICAgICAgICAgJ3N0YXR1cyc6IHN0YXR1cy5IVFRQXzIwMV9DUkVBVEVECiAgICAgICAgICAgICAgICB9KQogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgcmV0dXJuIFJlc3BvbnNlKHsKICAgICAgICAgICAgICAgICAgICAnc3RhdHVzJzogc3RhdHVzLkhUVFBfNDA0X05PVF9GT1VORAogICAgICAgICAgICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdzdGF0dXMnOiBzdGF0dXMuSFRUUF80MDRfTk9UX0ZPVU5ECg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBvcGVyYXRpb24gPT0gJ2FkZCc6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFJlc3BvbnNlKHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBvcGVyYXRpb24gPSByZXF1ZXN0LnF1ZXJ5X3BhcmFtc1snb3BlcmF0aW9uJ10K</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSkK</text>
       </register>
       <register name=":" type="4">
-        <text>nohl</text>
+        <text>register</text>
       </register>
     </registers>
     <search>
@@ -333,8 +332,8 @@
         <entry>action CloseEditor</entry>
         <entry>action OptimizeImports</entry>
         <entry>alskd</entry>
-        <entry>register</entry>
         <entry>nohl</entry>
+        <entry>register</entry>
       </history-cmd>
       <history-expr />
       <history-input />
