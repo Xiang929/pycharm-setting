@@ -71,11 +71,11 @@
         <mark key="." line="6" column="397" />
         <mark key="^" line="14" column="21" />
       </file>
-      <file name="C:/PythonProject/final_exam/weibo/views.py" timestamp="1544612746133">
-        <mark key="[" line="309" column="44" />
-        <mark key="]" line="315" column="0" />
-        <mark key="." line="315" column="0" />
-        <mark key="^" line="308" column="18" />
+      <file name="C:/PythonProject/final_exam/weibo/views.py" timestamp="1544613471437">
+        <mark key="[" line="317" column="51" />
+        <mark key="]" line="314" column="14" />
+        <mark key="." line="314" column="14" />
+        <mark key="^" line="314" column="14" />
       </file>
       <file name="/Dummy.txt" timestamp="1544607624506">
         <mark key="[" line="0" column="0" />
@@ -261,7 +261,7 @@
         <text>SerializerMethodField</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>SearchUser</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx5dWVoZXRvbmdcPg==</text>

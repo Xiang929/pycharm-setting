@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Search" />
       <item value="Delete" />
       <item value="cancel" />
       <item value="disable" />
@@ -50,12 +51,11 @@
       <item value="profile" />
       <item value="duration" />
       <item value="duplicate " />
-      <item value="success" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="50" />
-        <entry key="ENGLISH" value="51" />
+        <entry key="CHINESE" value="51" />
+        <entry key="ENGLISH" value="52" />
         <entry key="ESTONIAN" value="1" />
         <entry key="LATIN" value="1" />
       </map>
