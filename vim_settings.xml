@@ -71,11 +71,11 @@
         <mark key="." line="6" column="397" />
         <mark key="^" line="14" column="21" />
       </file>
-      <file name="C:/PythonProject/final_exam/weibo/views.py" timestamp="1544607537685">
-        <mark key="[" line="274" column="3" />
-        <mark key="]" line="274" column="4" />
-        <mark key="." line="274" column="4" />
-        <mark key="^" line="265" column="36" />
+      <file name="C:/PythonProject/final_exam/weibo/views.py" timestamp="1544609958798">
+        <mark key="[" line="295" column="18" />
+        <mark key="]" line="295" column="18" />
+        <mark key="." line="295" column="18" />
+        <mark key="^" line="295" column="18" />
       </file>
       <file name="/Dummy.txt" timestamp="1544607624506">
         <mark key="[" line="0" column="0" />
@@ -266,8 +266,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDx5dWVoZXRvbmdcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VybmFtZSA9IHJlcXVlc3QucXVlcnlfcGFyYW1zWyd1c2VybmFtZSddCiAgICAgICAgZm9sbG93aW5nX25hbWUgPSByZXF1ZXN0LnF1ZXJ5X3BhcmFtc1snZm9sbG93aW5nX25hbWUnXQogICAgICAgIHVzZXIgPSBVc2VyLm9iamVjdHMuZ2V0KHVzZXJuYW1lPXVzZXJuYW1lKQogICAgICAgIGZvbGxvd2luZyA9IFVzZXIub2JqZWN0cy5nZXQodXNlcm5hbWU9Zm9sbG93aW5nX25hbWUpCiAgICAgICAgZm9sbG93X3NoaXAgPSBGb2xsb3dTaGlwLm9iamVjdHMuY3JlYXRlKGZvbGxvd2VyPXVzZXIsIGZvbGxvd2luZz1mb2xsb3dpbmcpCiAgICAgICAgaWYgZm9sbG93X3NoaXA6CiAgICAgICAgICAgIHJldHVybiBSZXNwb25zZSh7CiAgICAgICAgICAgICAgICAnc3RhdHVzJzogc3RhdHVzLkhUVFBfMjAxX0NSRUFURUQKICAgICAgICAgICAgfSkKICAgICAgICBlbHNlOgogICAgICAgICAgICByZXR1cm4gUmVzcG9uc2UoewogICAgICAgICAgICAgICAgJ3N0YXR1cyc6IHN0YXR1cy5IVFRQXzQwNF9OT1RfRk9VTkQKICAgICAgICAgICAgfSkK</text>
+      <register name="0" type="4">
+        <text>Delete</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHBhdGgoJ2ZvbGxvd2VyJywgdmlld3MuUG9zdEZvbGxvdy5hc192aWV3KCkpLAo=</text>
