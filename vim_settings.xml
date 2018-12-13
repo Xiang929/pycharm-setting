@@ -8,8 +8,12 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
+      <file name="C:/vscodePython/holpy/kernel/theory.py" timestamp="1544690226999" />
       <file name="/Python Console" timestamp="1544632705559">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/vscodePython/holpy/server/tactic.py" timestamp="1544689282728">
+        <mark key="'" line="292" column="20" />
       </file>
       <file name="C:/PythonProject/ContractManagement/templates/service/pricing.html" timestamp="1544430807000">
         <mark key="[" line="30" column="0" />
@@ -126,6 +130,7 @@
         <mark key="]" line="215" column="13" />
         <mark key="." line="215" column="0" />
       </file>
+      <file name="C:/vscodePython/holpy/logic/basic.json" timestamp="1544690022257" />
       <file name="C:/PythonProject/ContractManagement/static/sitemedia/css/sweetalert2.min.css" timestamp="1544429898156">
         <mark key="[" line="1560" column="1" />
         <mark key="]" line="1560" column="1" />
@@ -162,8 +167,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="C:/vscodePython/holpy/kernel/theory.py" />
-      <jump line="403" column="24" filename="C:/vscodePython/holpy/kernel/theory.py" />
       <jump line="398" column="0" filename="C:/vscodePython/holpy/kernel/theory.py" />
       <jump line="399" column="16" filename="C:/vscodePython/holpy/kernel/theory.py" />
       <jump line="363" column="0" filename="C:/vscodePython/holpy/kernel/theory.py" />
@@ -262,6 +265,8 @@
       <jump line="138" column="13" filename="C:/PythonProject/final_exam/weibo/views.py" />
       <jump line="265" column="12" filename="C:/PythonProject/final_exam/weibo/views.py" />
       <jump line="319" column="0" filename="C:/PythonProject/final_exam/weibo/views.py" />
+      <jump line="292" column="20" filename="C:/vscodePython/holpy/server/tactic.py" />
+      <jump line="0" column="0" filename="C:/vscodePython/holpy/server/tactic.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
