@@ -120,10 +120,10 @@
         <mark key="." line="24" column="20" />
         <mark key="^" line="31" column="17" />
       </file>
-      <file name="C:/vscodePython/holpy/app/static/js/main.js" timestamp="1544692631955">
-        <mark key="[" line="215" column="13" />
-        <mark key="]" line="215" column="13" />
-        <mark key="." line="215" column="0" />
+      <file name="C:/vscodePython/holpy/app/static/js/main.js" timestamp="1544693981008">
+        <mark key="[" line="561" column="30" />
+        <mark key="]" line="561" column="30" />
+        <mark key="." line="561" column="30" />
       </file>
       <file name="C:/vscodePython/holpy/logic/basic.json" timestamp="1544690022257" />
       <file name="C:/PythonProject/ContractManagement/static/sitemedia/css/sweetalert2.min.css" timestamp="1544429898156">
@@ -280,32 +280,33 @@
       <register name="0" type="4">
         <text>result = [x.get('following_user') for x in serializer.data]</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>,
+            foldGutter</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSIuLi9zdGF0aWMvanMvaW5kZXgudnVlIj48L3NjcmlwdD4K</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">CiAgICBuZXcgVnVlKHsKICAgICAgICBlbAogICAgfSk=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICB4ID0gc2VyaWFsaXplci5kYXRkYQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSkK</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgogICAgICAgICAgICByZXR1cm4gUmVzcG9uc2UoewogICAgICAgICAgICAgICAgJ3N0YXR1cyc6IHN0YXR1cy5IVFRQXzQwNF9OT1RfRk9VTkQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBkeW5hbWljOgo=</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgogICAgICAgICAgICByZXR1cm4gUmVzcG9uc2UoewogICAgICAgICAgICAgICAgJ3N0YXR1cyc6IHN0YXR1cy5IVFRQXzQwNF9OT1RfRk9VTkQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgICBpZiBkeW5hbWljOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdzdGF0dXMnOiBzdGF0dXMuSFRUUF80MDRfTk9UX0ZPVU5ECg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSkK</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
