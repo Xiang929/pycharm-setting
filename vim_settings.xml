@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="C:/PythonProject/ContractManagement/ContractMis/models.py" timestamp="1544443881949">
@@ -31,8 +31,8 @@
       <file name="C:/PythonProject/venv_script/final_exam/Lib/site-packages/django_thumbs/db/models.py" timestamp="1544544803304">
         <mark key="[" line="76" column="34" />
       </file>
-      <file name="C:/PythonProject/final_exam/templates/index.html" timestamp="1544448710275">
-        <mark key="[" line="208" column="61" />
+      <file name="C:/PythonProject/final_exam/templates/index.html" timestamp="1544668740146">
+        <mark key="[" line="6" column="58" />
       </file>
       <file name="C:/PythonProject/final_exam/final_exam/settings.py" timestamp="1544545032327">
         <mark key="'" line="126" column="0" />
@@ -70,11 +70,12 @@
         <mark key="." line="6" column="397" />
         <mark key="^" line="14" column="21" />
       </file>
-      <file name="C:/PythonProject/final_exam/weibo/views.py" timestamp="1544633516928">
+      <file name="C:/PythonProject/final_exam/weibo/views.py" timestamp="1544667406729">
         <mark key="'" line="324" column="0" />
         <mark key="[" line="363" column="0" />
-        <mark key="]" line="290" column="18" />
-        <mark key="." line="290" column="18" />
+        <mark key="]" line="232" column="5" />
+        <mark key="." line="232" column="5" />
+        <mark key="^" line="232" column="5" />
       </file>
       <file name="/Dummy.txt" timestamp="1544620814862">
         <mark key="[" line="0" column="0" />
@@ -90,6 +91,9 @@
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
+      </file>
+      <file name="C:/PythonProject/final_exam/static/js/index.vue" timestamp="1544669097778">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/PythonProject/ContractManagement/templates/gaihetong.html" timestamp="1544445965198">
         <mark key="'" line="816" column="53" />
