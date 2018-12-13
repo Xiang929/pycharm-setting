@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Email Validator(email)" />
       <item value="Search" />
       <item value="Delete" />
       <item value="cancel" />
@@ -50,7 +51,6 @@
       <item value="用户已存在" />
       <item value="profile" />
       <item value="duration" />
-      <item value="duplicate " />
     </histories>
     <option name="languageScores">
       <map>
