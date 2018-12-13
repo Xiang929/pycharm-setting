@@ -12,7 +12,7 @@
       <file name="/Python Console" timestamp="1544632705559">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/vscodePython/holpy/server/tactic.py" timestamp="1544689282728">
+      <file name="C:/vscodePython/holpy/server/tactic.py" timestamp="1544690864619">
         <mark key="'" line="292" column="20" />
       </file>
       <file name="C:/PythonProject/ContractManagement/templates/service/pricing.html" timestamp="1544430807000">
@@ -120,11 +120,6 @@
         <mark key="." line="24" column="20" />
         <mark key="^" line="31" column="17" />
       </file>
-      <file name="C:/PythonProject/ContractManagement/static/sitemedia/js/common.js" timestamp="1544455229071">
-        <mark key="'" line="1060" column="0" />
-        <mark key="[" line="66" column="12" />
-        <mark key="]" line="66" column="25" />
-      </file>
       <file name="C:/vscodePython/holpy/app/static/js/main.js" timestamp="1544451969356">
         <mark key="[" line="215" column="13" />
         <mark key="]" line="215" column="13" />
@@ -144,6 +139,7 @@
         <mark key="." line="57" column="6" />
         <mark key="^" line="68" column="0" />
       </file>
+      <file name="C:/vscodePython/holpy/kernel/proof.py" timestamp="1544691638198" />
       <file name="C:/PythonProject/ContractManagement/ContractMis/views.py" timestamp="1544455677889">
         <mark key="'" line="160" column="8" />
         <mark key="[" line="107" column="46" />
