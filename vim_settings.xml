@@ -35,18 +35,18 @@
       <file name="C:/PythonProject/final_exam/weibo/forms.py" timestamp="1544721503624">
         <mark key="[" line="7" column="26" />
       </file>
-      <file name="C:/vscodePython/holpy/app/templates/index.html" timestamp="1544840266005">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="71" />
-        <mark key="^" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-      </file>
+      <file name="C:/vscodePython/holpy/app/templates/index.html" timestamp="1544843832501" />
       <file name="C:/PythonProject/final_exam/templates/index.html" timestamp="1544721024046">
         <mark key="'" line="240" column="101" />
         <mark key="[" line="267" column="62" />
         <mark key="]" line="267" column="62" />
         <mark key="." line="267" column="62" />
         <mark key="^" line="184" column="109" />
+      </file>
+      <file name="C:/vscodePython/holpy/app/static/css/index.css" timestamp="1544843677120">
+        <mark key="[" line="133" column="11" />
+        <mark key="]" line="133" column="11" />
+        <mark key="." line="133" column="11" />
       </file>
       <file name="C:/PythonProject/final_exam/final_exam/settings.py" timestamp="1544719286673">
         <mark key="'" line="129" column="0" />
@@ -101,7 +101,11 @@
       <file name="C:/PythonProject/final_exam/static/js/index.vue" timestamp="1544670118960">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/vscodePython/holpy/app/static/js/main.js" timestamp="1544840126615" />
+      <file name="C:/vscodePython/holpy/app/static/js/main.js" timestamp="1544843792671">
+        <mark key="[" line="574" column="0" />
+        <mark key="]" line="574" column="0" />
+        <mark key="." line="574" column="0" />
+      </file>
       <file name="C:/PythonProject/final_exam/static/js/crf.js" timestamp="1544711315130">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="28" column="2" />
@@ -129,8 +133,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="38" filename="C:/vscodePython/holpy/app/templates/index.html" />
-      <jump line="2" column="0" filename="C:/vscodePython/holpy/app/templates/index.html" />
       <jump line="288" column="37" filename="C:/vscodePython/holpy/app/static/js/main.js" />
       <jump line="289" column="11" filename="C:/vscodePython/holpy/app/static/js/main.js" />
       <jump line="307" column="13" filename="C:/vscodePython/holpy/app/static/js/main.js" />
@@ -229,16 +231,18 @@
       <jump line="0" column="0" filename="C:/PythonProject/final_exam/static/js/index.js" />
       <jump line="25" column="23" filename="C:/PythonProject/final_exam/static/js/index.js" />
       <jump line="240" column="101" filename="C:/PythonProject/final_exam/templates/index.html" />
+      <jump line="54" column="0" filename="C:/vscodePython/holpy/app/templates/index.html" />
+      <jump line="574" column="0" filename="C:/vscodePython/holpy/app/static/js/main.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ICAgIHJlc3VsdF9zdHJpbmcgPSBzZXJ2ZXIuY2hlY2tfcHJvb2YoaW5wdXQpCg==</text>
       </register>
       <register name="*" type="4">
-        <text>$('#publish').</text>
+        <text encoding="base64">PHNjcmlwdCBzcmM9Imh0dHBzOi8vY2RuanMuY2xvdWRmbGFyZS5jb20vYWpheC9saWJzL3NwbGl0LmpzLzEuNS45L3NwbGl0Lm1pbi5qcyI+PC9zY3JpcHQ+</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>10px</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxib2R5XD4=</text>
@@ -247,34 +251,36 @@
         <text encoding="base64">ZnVuY3Rpb24gZ2V0Q29va2llKG5hbWUpIHsKICAgIHZhciBjb29raWVWYWx1ZSA9IG51bGw7CiAgICBpZiAoZG9jdW1lbnQuY29va2llICYmIGRvY3VtZW50LmNvb2tpZSAhPSAnJykgewogICAgICAgIHZhciBjb29raWVzID0gZG9jdW1lbnQuY29va2llLnNwbGl0KCc7Jyk7CiAgICAgICAgZm9yICh2YXIgaSA9IDA7IGkgPCBjb29raWVzLmxlbmd0aDsgaSsrKSB7CiAgICAgICAgICAgIHZhciBjb29raWUgPSBqUXVlcnkudHJpbShjb29raWVzW2ldKTsKICAgICAgICAgICAgLy8gRG9lcyB0aGlzIGNvb2tpZSBzdHJpbmcgYmVnaW4gd2l0aCB0aGUgbmFtZSB3ZSB3YW50PwogICAgICAgICAgICBpZiAoY29va2llLnN1YnN0cmluZygwLCBuYW1lLmxlbmd0aCArIDEpID09IChuYW1lICsgJz0nKSkgewogICAgICAgICAgICAgICAgY29va2llVmFsdWUgPSBkZWNvZGVVUklDb21wb25lbnQoY29va2llLnN1YnN0cmluZyhuYW1lLmxlbmd0aCArIDEpKTsKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQogICAgcmV0dXJuIGNvb2tpZVZhbHVlOwp9CgpmdW5jdGlvbiBjc3JmU2FmZU1ldGhvZChtZXRob2QpIHsKICAgIC8vIHRoZXNlIEhUVFAgbWV0aG9kcyBkbyBub3QgcmVxdWlyZSBDU1JGIHByb3RlY3Rpb24KICAgIHJldHVybiAoL14oR0VUfEhFQUR8T1BUSU9OU3xUUkFDRSkkLy50ZXN0KG1ldGhvZCkpOwp9CgokLmFqYXhTZXR1cCh7CiAgICBiZWZvcmVTZW5kOiBmdW5jdGlvbiAoeGhyLCBzZXR0aW5ncykgewogICAgICAgIHZhciBjc3JmdG9rZW4gPSBnZXRDb29raWUoJ2NzcmZ0b2tlbicpOwogICAgICAgIGlmICghY3NyZlNhZmVNZXRob2Qoc2V0dGluZ3MudHlwZSkgJiYgIXRoaXMuY3Jvc3NEb21haW4pIHsKICAgICAgICAgICAgeGhyLnNldFJlcXVlc3RIZWFkZXIoIlgtQ1NSRlRva2VuIiwgY3NyZnRva2VuKTsKICAgICAgICB9CiAgICB9Cn0pOw==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgIFNwbGl0KFsnLmNvZGUtcGFuJywgJy5pbnB1dC1hcmVhJ10sIHsKICAgICAgICBkaXJlY3Rpb246ICd2ZXJ0aWNhbCcsCiAgICAgICAgZWxlbWVudFN0eWxlOiBmdW5jdGlvbiAoZGltZW5zaW9uLCBzaXplLCBndXR0ZXJTaXplKSB7CiAgICAgICAgICAgIHJldHVybiB7CiAgICAgICAgICAgICAgICAnZmxleC1iYXNpcyc6ICdjYWxjKCcgKyBzaXplICsgJyUgLSAnICsgZ3V0dGVyU2l6ZSArICdweCknLAogICAgICAgICAgICB9CiAgICAgICAgfSwKICAgICAgICBndXR0ZXJTdHlsZTogZnVuY3Rpb24gKGRpbWVuc2lvbiwgZ3V0dGVyU2l6ZSkgewogICAgICAgICAgICByZXR1cm4gewogICAgICAgICAgICAgICAgJ2ZsZXgtYmFzaXMnOiBndXR0ZXJTaXplICsgJ3B4JywKICAgICAgICAgICAgfQogICAgICAgIH0sCiAgICB9KQo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">PHNjcmlwdCBzcmM9Imh0dHBzOi8vY2RuanMuY2xvdWRmbGFyZS5jb20vYWpheC9saWJzL3NwbGl0LmpzLzEuNS45L3NwbGl0Lm1pbi5qcyI+PC9zY3JpcHQ+Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgIFNwbGl0KFsnLmNvZGUtcGFuJywgJy5pbnB1dC1hcmVhJ10sIHsKICAgICAgICBzaXplczogWzUwLCA1MF0sCiAgICB9KTs=</text>
-      </register>
       <register name="3" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9Imh0dHBzOi8vdW5wa2cuY29tL3NwbGl0LWdyaWQvZGlzdC9zcGxpdC1ncmlkLmpzIj48L3NjcmlwdD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICBjb25zdCBzcGxpdCA9IFNwbGl0KCk7CiAgICBjb25zdCBncmlkID0gZG9jdW1lbnQucXVlcnlTZWxlY3RvcignLmdyaWQnKTsKICAgIGNvbnN0IGd1dHRlciA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoJ2RpdicpOwogICAgZ3V0dGVyLmFwcGVuZENoaWxkKGd1dHRlcik7CiAgICBzcGxpdC5hZGRSb3dHdXR0ZXIoZ3V0dGVyLCAxKTs=</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkKCcucm9vdC1sYXlvdXQnKS5wcmVwZW5kKAogICAgICAgICAgICAgICAgICAgICAgICAkKGA8ZGl2IGNsYXNzPSJhbGVydCBhbGVydC1zdWNjZXNzIiByb2xlPSJhbGVydCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBQdWJsaXNoIHN1Y2Nlc3NmdWxseTwvZGl2PmApCiAgICAgICAgICAgICAgICAgICAgKQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">PHNjcmlwdD4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VybmFtZSA9IHJlcXVlc3QuZGF0YVsndXNlcm5hbWUnXQo=</text>
+        <text encoding="base64">PC9zY3JpcHQ+Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7JSBjc3JmX3Rva2VuICV9Cg==</text>
+      <register name="7" type="4">
+        <text>Split(['.code-pan', '.input-area'], {
+    direction: 'vertical',
+})</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICB2YXIgZGF0YSA9IHsKICAgICAgICAgICAgJ3VzZXJuYW1lJzogdXNlcm5hbWUsCiAgICAgICAgICAgICdjb250ZW50JzogY29udGVudCwKICAgICAgICB9Ow==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJyb3ctMSI+PC9kaXY+Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ZnVuY3Rpb24gZ2V0Q29va2llKG5hbWUpIHsKICAgIHZhciBjb29raWVWYWx1ZSA9IG51bGw7CiAgICBpZiAoZG9jdW1lbnQuY29va2llICYmIGRvY3VtZW50LmNvb2tpZSAhPSAnJykgewogICAgICAgIHZhciBjb29raWVzID0gZG9jdW1lbnQuY29va2llLnNwbGl0KCc7Jyk7CiAgICAgICAgZm9yICh2YXIgaSA9IDA7IGkgPCBjb29raWVzLmxlbmd0aDsgaSsrKSB7CiAgICAgICAgICAgIHZhciBjb29raWUgPSBqUXVlcnkudHJpbShjb29raWVzW2ldKTsKICAgICAgICAgICAgLy8gRG9lcyB0aGlzIGNvb2tpZSBzdHJpbmcgYmVnaW4gd2l0aCB0aGUgbmFtZSB3ZSB3YW50PwogICAgICAgICAgICBpZiAoY29va2llLnN1YnN0cmluZygwLCBuYW1lLmxlbmd0aCArIDEpID09IChuYW1lICsgJz0nKSkgewogICAgICAgICAgICAgICAgY29va2llVmFsdWUgPSBkZWNvZGVVUklDb21wb25lbnQoY29va2llLnN1YnN0cmluZyhuYW1lLmxlbmd0aCArIDEpKTsKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQogICAgcmV0dXJuIGNvb2tpZVZhbHVlOwp9CgpmdW5jdGlvbiBjc3JmU2FmZU1ldGhvZChtZXRob2QpIHsKICAgIC8vIHRoZXNlIEhUVFAgbWV0aG9kcyBkbyBub3QgcmVxdWlyZSBDU1JGIHByb3RlY3Rpb24KICAgIHJldHVybiAoL14oR0VUfEhFQUR8T1BUSU9OU3xUUkFDRSkkLy50ZXN0KG1ldGhvZCkpOwp9CgokLmFqYXhTZXR1cCh7CiAgICBiZWZvcmVTZW5kOiBmdW5jdGlvbiAoeGhyLCBzZXR0aW5ncykgewogICAgICAgIHZhciBjc3JmdG9rZW4gPSBnZXRDb29raWUoJ2NzcmZ0b2tlbicpOwogICAgICAgIGlmICghY3NyZlNhZmVNZXRob2Qoc2V0dGluZ3MudHlwZSkgJiYgIXRoaXMuY3Jvc3NEb21haW4pIHsKICAgICAgICAgICAgeGhyLnNldFJlcXVlc3RIZWFkZXIoIlgtQ1NSRlRva2VuIiwgY3NyZnRva2VuKTsKICAgICAgICB9CiAgICB9Cn0pOw==</text>
+      <register name="9" type="2">
+        <text encoding="base64">PHNjcmlwdCBzcmM9Imh0dHBzOi8vY2RuanMuY2xvdWRmbGFyZS5jb20vYWpheC9saWJzL3NwbGl0LmpzLzEuNS45L3NwbGl0Lm1pbi5qcyI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Find</text>
+        <text>register</text>
       </register>
     </registers>
     <search>
@@ -310,9 +316,9 @@
         <entry>action CloseEditor</entry>
         <entry>alskd</entry>
         <entry>nohl</entry>
-        <entry>register</entry>
         <entry>action OptimizeImports</entry>
         <entry>action Find</entry>
+        <entry>register</entry>
       </history-cmd>
       <history-expr />
       <history-input />
