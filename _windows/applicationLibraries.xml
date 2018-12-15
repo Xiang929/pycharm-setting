@@ -70,6 +70,17 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="split" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_split.js_1.5.9_split.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_split.js_1.5.9_split.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="split-grid" type="javaScript">
       <properties>
         <sourceFilesUrls>
