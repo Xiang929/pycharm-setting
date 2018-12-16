@@ -88,12 +88,12 @@
         <mark key="." line="365" column="22" />
         <mark key="^" line="363" column="3" />
       </file>
-      <file name="C:/PythonProject/final_exam/weibo/views.py" timestamp="1544960064493">
+      <file name="C:/PythonProject/final_exam/weibo/views.py" timestamp="1544961696662">
         <mark key="'" line="273" column="16" />
-        <mark key="[" line="441" column="39" />
-        <mark key="]" line="176" column="0" />
+        <mark key="[" line="174" column="19" />
+        <mark key="]" line="174" column="20" />
         <mark key="^" line="176" column="0" />
-        <mark key="." line="176" column="0" />
+        <mark key="." line="174" column="20" />
       </file>
       <file name="/Dummy.txt" timestamp="1544620814862">
         <mark key="[" line="0" column="0" />
@@ -254,7 +254,7 @@
         <text encoding="base64">PHNjcmlwdCBzcmM9Imh0dHBzOi8vY2RuanMuY2xvdWRmbGFyZS5jb20vYWpheC9saWJzL3NwbGl0LmpzLzEuNS45L3NwbGl0Lm1pbi5qcyI+PC9zY3JpcHQ+</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICdmb2xsb3dlcl9udW0nLCAnZm9sbG93aW5nX251bSc=</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxydG9wXD4=</text>
