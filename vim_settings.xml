@@ -59,7 +59,7 @@
         <mark key="^" line="46" column="7" />
         <mark key="." line="46" column="7" />
       </file>
-      <file name="/Django Console" timestamp="1544619089147">
+      <file name="/Django Console" timestamp="1544962596846">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/PythonProject/ContractManagement/templates/hetongfanben.html" timestamp="1544430774612">
@@ -88,7 +88,7 @@
         <mark key="." line="365" column="22" />
         <mark key="^" line="363" column="3" />
       </file>
-      <file name="C:/PythonProject/final_exam/weibo/views.py" timestamp="1544961696662">
+      <file name="C:/PythonProject/final_exam/weibo/views.py" timestamp="1544962490103">
         <mark key="'" line="273" column="16" />
         <mark key="[" line="174" column="19" />
         <mark key="]" line="174" column="20" />
@@ -136,11 +136,11 @@
         <mark key="." line="57" column="6" />
         <mark key="^" line="68" column="0" />
       </file>
-      <file name="C:/PythonProject/final_exam/weibo/serializers.py" timestamp="1544959905310">
+      <file name="C:/PythonProject/final_exam/weibo/serializers.py" timestamp="1544962615366">
         <mark key="'" line="62" column="85" />
-        <mark key="[" line="32" column="35" />
-        <mark key="]" line="32" column="35" />
-        <mark key="." line="32" column="35" />
+        <mark key="[" line="34" column="12" />
+        <mark key="]" line="34" column="12" />
+        <mark key="." line="34" column="12" />
         <mark key="^" line="73" column="14" />
       </file>
     </filemarks>
@@ -254,13 +254,13 @@
         <text encoding="base64">PHNjcmlwdCBzcmM9Imh0dHBzOi8vY2RuanMuY2xvdWRmbGFyZS5jb20vYWpheC9saWJzL3NwbGl0LmpzLzEuNS45L3NwbGl0Lm1pbi5qcyI+PC9zY3JpcHQ+</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>follower_num</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxydG9wXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9Ii4uL3N0YXRpYy9qcy9tYWluLmpzIj48L3NjcmlwdD4K</text>
+      <register name="0" type="4">
+        <text />
       </register>
       <register name="1" type="4">
         <text encoding="base64">ICAgIGZvbGxvd2VyX251bSA9IHNlcmlhbGl6ZXJzLlNlcmlhbGl6ZXJNZXRob2RGaWVsZCgpCiAgICBmb2xsb3dpbmdfbnVtID0gc2VyaWFsaXplcnMuU2VyaWFsaXplck1ldGhvZEZpZWxkKCk=</text>
