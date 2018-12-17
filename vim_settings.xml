@@ -53,6 +53,11 @@
         <mark key="." line="267" column="62" />
         <mark key="^" line="184" column="109" />
       </file>
+      <file name="C:/vscodePython/holpy/app/static/css/index.css" timestamp="1545046819100">
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
+      </file>
       <file name="C:/PythonProject/final_exam/final_exam/settings.py" timestamp="1545011039919">
         <mark key="'" line="129" column="0" />
         <mark key="[" line="144" column="26" />
@@ -91,10 +96,12 @@
         <mark key="." line="365" column="22" />
         <mark key="^" line="363" column="3" />
       </file>
-      <file name="C:/PythonProject/final_exam/weibo/views.py" timestamp="1545038772435">
-        <mark key="[" line="456" column="0" />
-        <mark key="]" line="456" column="12" />
-        <mark key="." line="456" column="0" />
+      <file name="C:/PythonProject/final_exam/weibo/views.py" timestamp="1545047222355">
+        <mark key="'" line="457" column="45" />
+        <mark key="[" line="259" column="40" />
+        <mark key="]" line="262" column="65" />
+        <mark key="." line="262" column="65" />
+        <mark key="^" line="262" column="44" />
       </file>
       <file name="/Dummy.txt" timestamp="1544620814862">
         <mark key="[" line="0" column="0" />
@@ -114,10 +121,10 @@
       <file name="C:/PythonProject/final_exam/static/js/index.vue" timestamp="1544670118960">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/vscodePython/holpy/app/static/js/main.js" timestamp="1545045070970">
-        <mark key="[" line="665" column="4" />
-        <mark key="]" line="239" column="23" />
-        <mark key="." line="239" column="23" />
+      <file name="C:/vscodePython/holpy/app/static/js/main.js" timestamp="1545046893630">
+        <mark key="[" line="334" column="27" />
+        <mark key="]" line="334" column="28" />
+        <mark key="." line="334" column="0" />
       </file>
       <file name="C:/PythonProject/final_exam/static/js/crf.js" timestamp="1544711315130">
         <mark key="[" line="0" column="0" />
@@ -129,12 +136,12 @@
         <mark key="]" line="1560" column="1" />
         <mark key="." line="1560" column="1" />
       </file>
-      <file name="C:/PythonProject/final_exam/weibo/models.py" timestamp="1545040433381">
-        <mark key="e" line="81" column="45" />
-        <mark key="'" line="30" column="35" />
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="83" column="0" />
-        <mark key="." line="83" column="0" />
+      <file name="C:/PythonProject/final_exam/weibo/models.py" timestamp="1545047485706">
+        <mark key="'" line="55" column="61" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="48" column="60" />
+        <mark key="." line="41" column="0" />
+        <mark key="^" line="68" column="45" />
       </file>
       <file name="C:/PythonProject/final_exam/weibo/serializers.py" timestamp="1545011226410">
         <mark key="'" line="81" column="85" />
@@ -145,7 +152,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="243" column="1" filename="C:/vscodePython/holpy/app/static/js/main.js" />
       <jump line="237" column="16" filename="C:/vscodePython/holpy/app/static/js/main.js" />
       <jump line="225" column="32" filename="C:/vscodePython/holpy/app/static/js/main.js" />
       <jump line="213" column="28" filename="C:/vscodePython/holpy/app/static/js/main.js" />
@@ -219,7 +225,6 @@
       <jump line="57" column="27" filename="C:/PythonProject/final_exam/weibo/models.py" />
       <jump line="0" column="0" filename="C:/PythonProject/final_exam/weibo/serializers.py" />
       <jump line="7" column="35" filename="C:/PythonProject/final_exam/weibo/views.py" />
-      <jump line="46" column="39" filename="C:/PythonProject/final_exam/weibo/models.py" />
       <jump line="2" column="0" filename="C:/PythonProject/final_exam/weibo/models.py" />
       <jump line="40" column="24" filename="C:/PythonProject/final_exam/weibo/models.py" />
       <jump line="50" column="4" filename="C:/PythonProject/final_exam/weibo/models.py" />
@@ -245,6 +250,8 @@
       <jump line="577" column="13" filename="C:/vscodePython/holpy/app/static/js/main.js" />
       <jump line="2" column="0" filename="C:/PythonProject/final_exam/weibo/views.py" />
       <jump line="272" column="16" filename="C:/PythonProject/final_exam/weibo/views.py" />
+      <jump line="453" column="45" filename="C:/PythonProject/final_exam/weibo/views.py" />
+      <jump line="46" column="61" filename="C:/PythonProject/final_exam/weibo/models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -254,7 +261,7 @@
         <text encoding="base64">PHNjcmlwdCBzcmM9Imh0dHBzOi8vY2RuanMuY2xvdWRmbGFyZS5jb20vYWpheC9saWJzL3NwbGl0LmpzLzEuNS45L3NwbGl0Lm1pbi5qcyI+PC9zY3JpcHQ+</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>, defaults={&quot;is_like&quot;: is_like}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxydG9wXD4=</text>
@@ -263,37 +270,31 @@
         <text encoding="base64">ICAgICAgICB1c2VybmFtZSA9IHJlcXVlc3QudXNlci51c2VybmFtZQogICAgICAgIHF1ZXJ5c2V0ID0gVXNlci5vYmplY3RzLmdldCh1c2VybmFtZT11c2VybmFtZSkKICAgICAgICBzZXJpYWxpemVyID0gVXNlclNlcmlhbGl6ZXIocXVlcnlzZXQpCiAgICAgICAgc2VyaWFsaXplci5kZWxldGVfZmllbGRzKGZpZWxkcz1bJ2lkJ10pCiAgICAgICAgcmV0dXJuIFJlc3BvbnNlKHsKICAgICAgICAgICAgJ3N0YXR1cyc6IHN0YXR1cy5IVFRQXzIwMF9PSywKICAgICAgICAgICAgJ2RhdGEnOiBzZXJpYWxpemVyLmRhdGEKICAgICAgICB9KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xhc3MgSW1hZ2UobW9kZWxzLk1vZGVsKToKICAgIFNJWkVTID0gKAogICAgICAgIHsnY29kZSc6ICdhdmF0YXInLCAnd3hoJzogJzEyNXgxMjUnLCAncmVzaXplJzogJ2Nyb3AnfSwKICAgICAgICB7J2NvZGUnOiAnbScsICd3eGgnOiAnNjQweDQ4MCcsICdyZXNpemUnOiAnc2NhbGUnfSwKICAgICAgICB7J2NvZGUnOiAnMTUwJywgJ3d4aCc6ICcxNTB4MTUwJ30sICAjICdyZXNpemUnIGRlZmF1bHRzIHRvICdzY2FsZScKICAgICkKICAgIGltYWdlID0gSW1hZ2VUaHVtYnNGaWVsZCh1cGxvYWRfdG89J21lZGlhJywgc2l6ZXM9U0laRVMpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiBkZWxldGUoc2VsZiwgKmFyZ3MsICoqaykK</text>
+        <text encoding="base64">ICAgICAgICBpc19saWtlID0gcmVxdWVzdC5kYXRhWydpc19saWtlJ10K</text>
       </register>
-      <register name="3" type="4">
-        <text>:
-        # You have to prepare what you need before delete the model
-        storage, path = self.image.storage, self.image.path
-        # Delete the model before the file
-        super(Image, self).delete(*args, **kwargs)
-        # Delete the file after the model
-        storage.delete(path)</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmlld3BvcnRNYXJnaW46IAo=</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">ICAgIGRlZiBkZWxldGUoc2VsZiwgKmFyZ3MsICoqa3dhcmdzKToKICAgICAgICAjIFlvdSBoYXZlIHRvIHByZXBhcmUgd2hhdCB5b3UgbmVlZCBiZWZvcmUgZGVsZXRlIHRoZSBtb2RlbAogICAgICAgIHN0b3JhZ2UsIHBhdGggPSBzZWxmLmltYWdlLnN0b3JhZ2UsIHNlbGYuaW1hZ2UucGF0aAogICAgICAgICMgRGVsZXRlIHRoZSBtb2RlbCBiZWZvcmUgdGhlIGZpbGUKICAgICAgICBzdXBlcihJbWFnZSwgc2VsZikuZGVsZXRlKCphcmdzLCAqKmt3YXJncykKICAgICAgICAjIERlbGV0ZSB0aGUgZmlsZSBhZnRlciB0aGUgbW9kZWwKICAgICAgICBzdG9yYWdlLmRlbGV0ZShwYXRoKQ==</text>
+        <text encoding="base64">Ci5Db2RlTWlycm9yIHsKICAgIHdpZHRoOiAxMDAlOwogICAgYm9yZGVyOiAxcHggc29saWQgI2VlZTsKICAgIGhlaWdodDogYXV0bzsKfQ==</text>
       </register>
-      <register name="5" type="8">
-        <text>)</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlZGlyZWN0KCdob21lJykK</text>
+        <text encoding="base64">LkNvZGVNaXJyb3Itc2Nyb2xsIHsKICAgIGhlaWdodDogYXV0bzsKICAgIG92ZXJmbG93LXk6IGhpZGRlbjsKICAgIG92ZXJmbG93LXg6IGF1dG87Cn0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9ybS5zYXZlKCkK</text>
+        <text encoding="base64">LS0tLS0tLS0tLS0tLS0tLS0tLS0tIArX99Xfo7qw6/PP4d3h5SAKwLTUtKO6Q1NETiAK1K3OxKO6aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dhbmc3MDQ5ODc1NjIvYXJ0aWNsZS9kZXRhaWxzLzU0Mzc5MTMyIAqw5sioyfnD96O6sb7OxM6qsqnW99SttLTOxNXCo6zXqtTYx+u4vcnPsqnOxMG0vdOjoQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBmb3JtLmlzX3ZhbGlkKCk6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIHJlcXVlc3QubWV0aG9kID09ICdQT1NUJyBhbmQgcmVxdWVzdC5GSUxFU1snbXlmaWxlJ106CiAgICAgICAgbXlmaWxlID0gcmVxdWVzdC5GSUxFU1snbXlmaWxlJ10KICAgICAgICBmcyA9IEltYWdlKCkKICAgICAgICBmaWxlbmFtZSA9IGZzLnNhdmUobXlmaWxlKQogICAgICAgIHVwbG9hZGVkX2ZpbGVfdXJsID0gZnMudXJsKGZpbGVuYW1lKQo=</text>
+        <text encoding="base64">ICAgIGRlZiBkZWxldGUoc2VsZiwgKmFyZ3MsICoqaykK</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
