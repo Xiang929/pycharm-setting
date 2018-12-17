@@ -60,8 +60,8 @@
         <mark key="^" line="46" column="7" />
         <mark key="." line="144" column="26" />
       </file>
-      <file name="/Django Console" timestamp="1545038867038">
-        <mark key="[" line="0" column="31" />
+      <file name="/Django Console" timestamp="1545040437611">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="42" />
         <mark key="." line="0" column="31" />
       </file>
@@ -129,13 +129,12 @@
         <mark key="]" line="1560" column="1" />
         <mark key="." line="1560" column="1" />
       </file>
-      <file name="C:/PythonProject/final_exam/weibo/models.py" timestamp="1545038776213">
+      <file name="C:/PythonProject/final_exam/weibo/models.py" timestamp="1545040433381">
         <mark key="e" line="81" column="45" />
         <mark key="'" line="30" column="35" />
-        <mark key="[" line="81" column="59" />
-        <mark key="]" line="57" column="12" />
-        <mark key="." line="57" column="6" />
-        <mark key="^" line="68" column="0" />
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="." line="83" column="0" />
       </file>
       <file name="C:/PythonProject/final_exam/weibo/serializers.py" timestamp="1545011226410">
         <mark key="'" line="81" column="85" />
@@ -255,7 +254,7 @@
         <text encoding="base64">PHNjcmlwdCBzcmM9Imh0dHBzOi8vY2RuanMuY2xvdWRmbGFyZS5jb20vYWpheC9saWJzL3NwbGl0LmpzLzEuNS45L3NwbGl0Lm1pbi5qcyI+PC9zY3JpcHQ+</text>
       </register>
       <register name="-" type="4">
-        <text>@csrf</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxydG9wXD4=</text>
@@ -263,32 +262,38 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB1c2VybmFtZSA9IHJlcXVlc3QudXNlci51c2VybmFtZQogICAgICAgIHF1ZXJ5c2V0ID0gVXNlci5vYmplY3RzLmdldCh1c2VybmFtZT11c2VybmFtZSkKICAgICAgICBzZXJpYWxpemVyID0gVXNlclNlcmlhbGl6ZXIocXVlcnlzZXQpCiAgICAgICAgc2VyaWFsaXplci5kZWxldGVfZmllbGRzKGZpZWxkcz1bJ2lkJ10pCiAgICAgICAgcmV0dXJuIFJlc3BvbnNlKHsKICAgICAgICAgICAgJ3N0YXR1cyc6IHN0YXR1cy5IVFRQXzIwMF9PSywKICAgICAgICAgICAgJ2RhdGEnOiBzZXJpYWxpemVyLmRhdGEKICAgICAgICB9KQo=</text>
       </register>
-      <register name="1" type="8">
-        <text>)</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlZGlyZWN0KCdob21lJykK</text>
+        <text encoding="base64">ICAgIGRlZiBkZWxldGUoc2VsZiwgKmFyZ3MsICoqaykK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9ybS5zYXZlKCkK</text>
+      <register name="3" type="4">
+        <text>:
+        # You have to prepare what you need before delete the model
+        storage, path = self.image.storage, self.image.path
+        # Delete the model before the file
+        super(Image, self).delete(*args, **kwargs)
+        # Delete the file after the model
+        storage.delete(path)</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBmb3JtLmlzX3ZhbGlkKCk6Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgIGRlZiBkZWxldGUoc2VsZiwgKmFyZ3MsICoqa3dhcmdzKToKICAgICAgICAjIFlvdSBoYXZlIHRvIHByZXBhcmUgd2hhdCB5b3UgbmVlZCBiZWZvcmUgZGVsZXRlIHRoZSBtb2RlbAogICAgICAgIHN0b3JhZ2UsIHBhdGggPSBzZWxmLmltYWdlLnN0b3JhZ2UsIHNlbGYuaW1hZ2UucGF0aAogICAgICAgICMgRGVsZXRlIHRoZSBtb2RlbCBiZWZvcmUgdGhlIGZpbGUKICAgICAgICBzdXBlcihJbWFnZSwgc2VsZikuZGVsZXRlKCphcmdzLCAqKmt3YXJncykKICAgICAgICAjIERlbGV0ZSB0aGUgZmlsZSBhZnRlciB0aGUgbW9kZWwKICAgICAgICBzdG9yYWdlLmRlbGV0ZShwYXRoKQ==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIHJlcXVlc3QubWV0aG9kID09ICdQT1NUJyBhbmQgcmVxdWVzdC5GSUxFU1snbXlmaWxlJ106CiAgICAgICAgbXlmaWxlID0gcmVxdWVzdC5GSUxFU1snbXlmaWxlJ10KICAgICAgICBmcyA9IEltYWdlKCkKICAgICAgICBmaWxlbmFtZSA9IGZzLnNhdmUobXlmaWxlKQogICAgICAgIHVwbG9hZGVkX2ZpbGVfdXJsID0gZnMudXJsKGZpbGVuYW1lKQo=</text>
+      <register name="5" type="8">
+        <text>)</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHggPSByZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlZGlyZWN0KCdob21lJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhdGgoJzxzdHI6dXNlcm5hbWU+L2ZvbGxvd2VycycsIHZpZXdzLkZvbGxvd2VyTGlzdC5hc192aWV3KCkpLAogICAgcGF0aCgnPHN0cjp1c2VybmFtZT4vZm9sbG93aW5nJywgdmlld3MuRm9sbG93aW5nTGlzdC5hc192aWV3KCkpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9ybS5zYXZlKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhdGgoJ3VzZXJzLzxzdHI6dXNlcm5hbWU+Jywgdmlld3MuVXNlclByb2ZpbGUuYXNfdmlldygpKSwK</text>
+        <text encoding="base64">ICAgICAgICBpZiBmb3JtLmlzX3ZhbGlkKCk6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhdGgoJ3VzZXJzL21lJywgdmlld3MuTXlQcm9maWxlLmFzX3ZpZXcoKSksCg==</text>
+        <text encoding="base64">ICAgIGlmIHJlcXVlc3QubWV0aG9kID09ICdQT1NUJyBhbmQgcmVxdWVzdC5GSUxFU1snbXlmaWxlJ106CiAgICAgICAgbXlmaWxlID0gcmVxdWVzdC5GSUxFU1snbXlmaWxlJ10KICAgICAgICBmcyA9IEltYWdlKCkKICAgICAgICBmaWxlbmFtZSA9IGZzLnNhdmUobXlmaWxlKQogICAgICAgIHVwbG9hZGVkX2ZpbGVfdXJsID0gZnMudXJsKGZpbGVuYW1lKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
