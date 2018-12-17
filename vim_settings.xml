@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="C:/PythonProject/ContractManagement/ContractMis/models.py" timestamp="1544443881949">
@@ -27,12 +27,7 @@
         <mark key="]" line="114" column="15" />
         <mark key="." line="114" column="15" />
       </file>
-      <file name="C:/PythonProject/final_exam/final_exam/urls.py" timestamp="1545011367303">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="45" column="68" />
-        <mark key="." line="44" column="0" />
-        <mark key="^" line="32" column="14" />
-      </file>
+      <file name="C:/PythonProject/final_exam/final_exam/urls.py" timestamp="1545013468504" />
       <file name="C:/PythonProject/venv_script/final_exam/Lib/site-packages/django_thumbs/db/models.py" timestamp="1544544803304">
         <mark key="[" line="76" column="34" />
       </file>
@@ -89,12 +84,10 @@
         <mark key="." line="365" column="22" />
         <mark key="^" line="363" column="3" />
       </file>
-      <file name="C:/PythonProject/final_exam/weibo/views.py" timestamp="1545011319822">
-        <mark key="'" line="271" column="16" />
-        <mark key="[" line="440" column="55" />
-        <mark key="]" line="442" column="25" />
-        <mark key="^" line="442" column="25" />
-        <mark key="." line="442" column="25" />
+      <file name="C:/PythonProject/final_exam/weibo/views.py" timestamp="1545014494909">
+        <mark key="[" line="164" column="0" />
+        <mark key="]" line="164" column="0" />
+        <mark key="." line="164" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1544620814862">
         <mark key="[" line="0" column="0" />
@@ -255,7 +248,7 @@
         <text encoding="base64">PHNjcmlwdCBzcmM9Imh0dHBzOi8vY2RuanMuY2xvdWRmbGFyZS5jb20vYWpheC9saWJzL3NwbGl0LmpzLzEuNS45L3NwbGl0Lm1pbi5qcyI+PC9zY3JpcHQ+</text>
       </register>
       <register name="-" type="4">
-        <text>R</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RhdHVzOiA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxydG9wXD4=</text>
