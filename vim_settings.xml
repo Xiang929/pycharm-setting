@@ -8,7 +8,7 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1545118205665">
+      <file name="/Python Console" timestamp="1545128479377">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/PythonProject/ContractManagement/templates/service/pricing.html" timestamp="1544430807000">
@@ -78,11 +78,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/PythonProject/final_exam/static/js/index.js" timestamp="1545128259627">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
+      <file name="C:/PythonProject/final_exam/static/js/index.js" timestamp="1545128321367" />
       <file name="C:/PythonProject/ContractManagement/templates/service/agreement.html" timestamp="1544430811385">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
@@ -152,12 +148,12 @@
         <mark key="]" line="58" column="13" />
         <mark key="." line="58" column="13" />
       </file>
-      <file name="C:/PythonProject/final_exam/weibo/serializers.py" timestamp="1545011226410">
-        <mark key="'" line="81" column="85" />
-        <mark key="[" line="49" column="17" />
-        <mark key="]" line="49" column="17" />
-        <mark key="." line="49" column="17" />
-        <mark key="^" line="49" column="20" />
+      <file name="C:/PythonProject/final_exam/weibo/serializers.py" timestamp="1545128580181">
+        <mark key="'" line="84" column="85" />
+        <mark key="[" line="48" column="61" />
+        <mark key="]" line="45" column="11" />
+        <mark key="." line="45" column="11" />
+        <mark key="^" line="45" column="11" />
       </file>
     </filemarks>
     <jumps>
@@ -275,8 +271,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxydG9wXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgIFNJWkVTID0gKAogICAgICAgIHsnY29kZSc6ICdhdmF0YXInLCAnd3hoJzogJzEyNXgxMjUnLCAncmVzaXplJzogJ2Nyb3AnfSwKICAgICAgICB7J2NvZGUnOiAnbScsICd3eGgnOiAnNjQweDQ4MCcsICdyZXNpemUnOiAnc2NhbGUnfSwKICAgICAgICB7J2NvZGUnOiAnMTUwJywgJ3d4aCc6ICcxNTB4MTUwJ30sICAjICdyZXNpemUnIGRlZmF1bHRzIHRvICdzY2FsZScKICAgICk=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRvY3VtZW50LnF1ZXJ5U2VsZWN0b3IoJyNmb2xsb3dpbmcgPiBzcGFuOm50aC1jaGlsZCgyKScpLmlubmVySFRNTCA9IHJlc3VsdFsnZGF0YSddWydmb2xsb3dpbmdfbnVtJ107Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
