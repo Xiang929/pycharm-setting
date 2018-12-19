@@ -80,14 +80,14 @@
         <mark key="." line="38" column="0" />
       </file>
       <file name="/views.py" timestamp="1545231587783" />
-      <file name="C:/PythonProject/final_exam/weibo/views.py" timestamp="1545232460070">
+      <file name="C:/PythonProject/final_exam/weibo/views.py" timestamp="1545234504431">
         <mark key="'" line="443" column="0" />
-        <mark key="[" line="206" column="85" />
-        <mark key="]" line="206" column="85" />
-        <mark key="." line="206" column="85" />
-        <mark key="^" line="206" column="85" />
+        <mark key="[" line="52" column="52" />
+        <mark key="]" line="52" column="74" />
+        <mark key="." line="52" column="52" />
+        <mark key="^" line="52" column="51" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545232478870">
+      <file name="/Dummy.txt" timestamp="1545234510697">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -276,8 +276,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxydG9wXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBxdWVyeXNldCA9IExpa2Uub2JqZWN0cy5maWx0ZXIodXNlcl9fdXNlcm5hbWU9dXNlcm5hbWUpLmZpbHRlcihpc19saWtlPVRydWUpCiAgICAgICAgbGlrZV9wb3N0X2lkID0gbGlzdChtYXAobGFtYmRhIHg6IHgucG9zdF9pZCwgcXVlcnlzZXQpKQogICAgICAgIHJlc3VsdC51cGRhdGUoeydsaWtlX3Bvc3RfaWQnOiBsaWtlX3Bvc3RfaWR9KQo=</text>
+      <register name="0" type="4">
+        <text>{'username': username}</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
