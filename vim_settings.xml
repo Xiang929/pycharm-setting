@@ -43,11 +43,11 @@
         <mark key="^" line="103" column="71" />
         <mark key="." line="140" column="13" />
       </file>
-      <file name="C:/PythonProject/final_exam/templates/index.html" timestamp="1545127294589">
+      <file name="C:/PythonProject/final_exam/templates/index.html" timestamp="1545201523557">
         <mark key="'" line="240" column="101" />
-        <mark key="[" line="267" column="62" />
-        <mark key="]" line="267" column="62" />
-        <mark key="." line="267" column="62" />
+        <mark key="[" line="159" column="100" />
+        <mark key="]" line="159" column="100" />
+        <mark key="." line="159" column="100" />
         <mark key="^" line="184" column="109" />
       </file>
       <file name="C:/vscodePython/holpy/app/static/css/index.css" timestamp="1545121961776">
@@ -113,13 +113,14 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="30" />
       </file>
-      <file name="C:/PythonProject/final_exam/weibo/views.py" timestamp="1545192440384">
-        <mark key="'" line="94" column="75" />
-        <mark key="[" line="279" column="27" />
-        <mark key="]" line="282" column="0" />
-        <mark key="." line="282" column="0" />
+      <file name="C:/PythonProject/final_exam/weibo/views.py" timestamp="1545201245896">
+        <mark key="'" line="220" column="27" />
+        <mark key="[" line="469" column="0" />
+        <mark key="]" line="172" column="24" />
+        <mark key="." line="172" column="24" />
+        <mark key="^" line="172" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545121539542">
+      <file name="/Dummy.txt" timestamp="1545200982175">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="26" />
@@ -128,6 +129,9 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="C:/PythonProject/final_exam/static/js/profile.js" timestamp="1545201564588">
+        <mark key="[" line="46" column="1" />
       </file>
       <file name="C:/PythonProject/ContractManagement/templates/diy/zhuanlijishuxukehetong.html" timestamp="1544430782799">
         <mark key="[" line="36" column="0" />
@@ -142,6 +146,12 @@
         <mark key="]" line="111" column="6" />
         <mark key="^" line="101" column="3" />
         <mark key="." line="102" column="0" />
+      </file>
+      <file name="C:/PythonProject/final_exam/templates/profile.html" timestamp="1545201606345">
+        <mark key="[" line="182" column="120" />
+        <mark key="]" line="184" column="71" />
+        <mark key="^" line="227" column="67" />
+        <mark key="." line="184" column="71" />
       </file>
       <file name="C:/vscodePython/holpy/app/static/js/main.js" timestamp="1545118008079">
         <mark key="[" line="334" column="26" />
@@ -170,17 +180,15 @@
         <mark key="]" line="58" column="13" />
         <mark key="." line="58" column="13" />
       </file>
-      <file name="C:/PythonProject/final_exam/weibo/serializers.py" timestamp="1545137554364">
+      <file name="C:/PythonProject/final_exam/weibo/serializers.py" timestamp="1545201112141">
         <mark key="'" line="84" column="85" />
-        <mark key="[" line="48" column="61" />
+        <mark key="[" line="34" column="81" />
         <mark key="]" line="45" column="11" />
         <mark key="." line="45" column="11" />
         <mark key="^" line="45" column="11" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="420" column="16" filename="C:/vscodePython/holpy/app/static/js/main.js" />
-      <jump line="419" column="30" filename="C:/vscodePython/holpy/app/static/js/main.js" />
       <jump line="418" column="16" filename="C:/vscodePython/holpy/app/static/js/main.js" />
       <jump line="412" column="8" filename="C:/vscodePython/holpy/app/static/js/main.js" />
       <jump line="340" column="16" filename="C:/vscodePython/holpy/app/static/js/main.js" />
@@ -279,6 +287,8 @@
       <jump line="0" column="0" filename="C:/PythonProject/final_exam/templates/entrance.html" />
       <jump line="94" column="75" filename="C:/PythonProject/final_exam/weibo/views.py" />
       <jump line="78" column="62" filename="C:/PythonProject/final_exam/static/js/index.js" />
+      <jump line="308" column="32" filename="C:/PythonProject/final_exam/weibo/views.py" />
+      <jump line="220" column="27" filename="C:/PythonProject/final_exam/weibo/views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -288,7 +298,7 @@
         <text encoding="base64">ZnJvbSBmbGFzay5qc29uIGltcG9ydCBqc29uaWZ5Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>element.find('a')[0].innerText = result['total_like']</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxydG9wXD4=</text>
@@ -297,13 +307,13 @@
         <text encoding="base64">ICAgICAgICBxdWVyeXNldF9saWtlZCA9IExpa2Uub2JqZWN0cy5maWx0ZXIodXNlcl9fdXNlcm5hbWU9a3dhcmdzWyduYW1lJ10pCiAgICAgICAgc2VyaWFsaXplcl9saWtlZCA9IExpa2VTZXJpYWxpemVyKHF1ZXJ5c2V0X2xpa2VkLCBtYW55PVRydWUpCiAgICAgICAgc2VyaWFsaXplcl9saXN0ID0gbGlzdChzZXJpYWxpemVyLmRhdGEpCiAgICAgICAgc2VyaWFsaXplcl9saWtlZF9saXN0ID0gbGlzdChzZXJpYWxpemVyX2xpa2VkLmRhdGEpCiAgICAgICAgW3kudXBkYXRlKHsnaXNfbGlrZSc6IHouZ2V0KCdpc19saWtlJyl9KSBmb3IgeCBpbiBzZXJpYWxpemVyX2xpc3QgZm9yIHkgaW4geC5nZXQoJ3VzZXInKSBmb3IgeiBpbgogICAgICAgICBzZXJpYWxpemVyX2xpa2VkX2xpc3QgaWYgei5nZXQoJ3VzZXInKSA9PSB5LmdldCgnaWQnKSBhbmQgei5nZXQoJ3Bvc3QnKSA9PSB4LmdldCgnaWQnKV0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICd0b3RhbF9saWtlJwo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkKCcubWVzc2FnZS1jYXJkLWNvbnRhaW5lcicpLmVhY2goZnVuY3Rpb24gKCkgewogICAgICAgICAgIGlmKGxpa2VfcG9zdF9pZC5pbikgCiAgICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICd0b3RhbF9saWtlJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBMaWtlLm9iamVjdHMuY3JlYXRlKHVzZXI9dXNlciwgcG9zdD1wb3N0KQo=</text>
+        <text encoding="base64">ICAgICAgICAkKCcubWVzc2FnZS1jYXJkLWNvbnRhaW5lcicpLmVhY2goZnVuY3Rpb24gKCkgewogICAgICAgICAgIGlmKGxpa2VfcG9zdF9pZC5pbikgCiAgICAgICAgfSkK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBMaWtlLm9iamVjdHMuY3JlYXRlKHVzZXI9dXNlciwgcG9zdD1wb3N0KQo=</text>
@@ -315,13 +325,13 @@
         <text encoding="base64">ICAgICAgICBMaWtlLm9iamVjdHMuY3JlYXRlKHVzZXI9dXNlciwgcG9zdD1wb3N0KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBxdWVyeXNldF9saWtlZCA9IExpa2Uub2JqZWN0cy5maWx0ZXIodXNlcl9fdXNlcm5hbWU9d2FyZ3NbJ25hbWUnXSkKICAgICAgICBzZXJpYWxpemVyX2xpa2VkID0gTGlrZVNlcmlhbGl6ZXIocXVlcnlzZXRfbGlrZWQsIG1hbnk9VHJ1ZSkKICAgICAgICBzZXJpYWxpemVyX2xpc3QgPSBsaXN0KHNlcmlhbGl6ZXIuZGF0YSkKICAgICAgICBzZXJpYWxpemVyX2xpa2VkX2xpc3QgPSBsaXN0KHNlcmlhbGl6ZXJfbGlrZWQuZGF0YSkKICAgICAgICBbeS51cGRhdGUoeydpc19saWtlJzogei5nZXQoJ2lzX2xpa2UnKX0pIGZvciB4IGluIHNlcmlhbGl6ZXJfbGlzdCBmb3IgeSBpbiB4LmdldCgndXNlcicpIGZvciB6IGluCiAgICAgICAgIHNlcmlhbGl6ZXJfbGlrZWRfbGlzdCBpZiB6LmdldCgndXNlcicpID09IHkuZ2V0KCdpZCcpIGFuZCB6LmdldCgncG9zdCcpID09IHguZ2V0KCdpZCcpXQo=</text>
+        <text encoding="base64">ICAgICAgICBMaWtlLm9iamVjdHMuY3JlYXRlKHVzZXI9dXNlciwgcG9zdD1wb3N0KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBxdWVyeXNldF9saWtlZCA9IExpa2Uub2JqZWN0cy5maWx0ZXIodXNlcl9fdXNlcm5hbWU9d2FyZ3NbJ25hbWUnXSkKICAgICAgICBzZXJpYWxpemVyX2xpa2VkID0gTGlrZVNlcmlhbGl6ZXIocXVlcnlzZXRfbGlrZWQsIG1hbnk9VHJ1ZSkKICAgICAgICBzZXJpYWxpemVyX2xpc3QgPSBsaXN0KHNlcmlhbGl6ZXIuZGF0YSkKICAgICAgICBzZXJpYWxpemVyX2xpa2VkX2xpc3QgPSBsaXN0KHNlcmlhbGl6ZXJfbGlrZWQuZGF0YSkKICAgICAgICBbeS51cGRhdGUoeydpc19saWtlJzogei5nZXQoJ2lzX2xpa2UnKX0pIGZvciB4IGluIHNlcmlhbGl6ZXJfbGlzdCBmb3IgeSBpbiB4LmdldCgndXNlcicpIGZvciB6IGluCiAgICAgICAgIHNlcmlhbGl6ZXJfbGlrZWRfbGlzdCBpZiB6LmdldCgndXNlcicpID09IHkuZ2V0KCdpZCcpIGFuZCB6LmdldCgncG9zdCcpID09IHguZ2V0KCdpZCcpXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHt7IHN0IH19Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
