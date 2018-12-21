@@ -25,6 +25,12 @@
         <mark key="." line="114" column="15" />
       </file>
       <file name="C:/PythonProject/final_exam/requirements.txt" timestamp="1545295674132" />
+      <file name="C:/PythonProject/final_exam/static/css/style.css" timestamp="1545369250877">
+        <mark key="'" line="7581" column="0" />
+        <mark key="[" line="9021" column="0" />
+        <mark key="]" line="9021" column="25" />
+        <mark key="." line="9021" column="0" />
+      </file>
       <file name="C:/PythonProject/final_exam/final_exam/urls.py" timestamp="1545296556565">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="94" />
@@ -46,11 +52,11 @@
         <mark key="]" line="79" column="0" />
         <mark key="." line="79" column="0" />
       </file>
-      <file name="C:/PythonProject/final_exam/final_exam/settings.py" timestamp="1545364973177">
+      <file name="C:/PythonProject/final_exam/final_exam/settings.py" timestamp="1545369018285">
         <mark key="'" line="10" column="2" />
         <mark key="[" line="24" column="8" />
         <mark key="]" line="24" column="8" />
-        <mark key="^" line="24" column="9" />
+        <mark key="^" line="24" column="12" />
         <mark key="." line="24" column="8" />
       </file>
       <file name="C:/PythonProject/ContractManagement/templates/hetongfanben.html" timestamp="1544430774612">
@@ -86,7 +92,7 @@
       <file name="C:/PythonProject/final_exam/weibo/views.py" timestamp="1545308212803">
         <mark key="'" line="464" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545308220975">
+      <file name="/Dummy.txt" timestamp="1545369401968">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
@@ -166,10 +172,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="0" filename="C:/vscodePython/holpy/app/__init__.py" />
-      <jump line="14" column="0" filename="C:/vscodePython/holpy/server/tests/tactic_test.py" />
-      <jump line="2" column="14" filename="C:/vscodePython/holpy/server/tests/tactic_test.py" />
-      <jump line="15" column="0" filename="C:/vscodePython/holpy/server/tests/tactic_test.py" />
       <jump line="4" column="16" filename="C:/PythonProject/final_exam/templates/index.html" />
       <jump line="0" column="0" filename="C:/PythonProject/final_exam/templates/index.html" />
       <jump line="75" column="12" filename="C:/PythonProject/final_exam/static/css/index.css" />
@@ -266,6 +268,10 @@
       <jump line="10" column="2" filename="C:/PythonProject/final_exam/final_exam/settings.py" />
       <jump line="114" column="115" filename="C:/PythonProject/final_exam/static/js/index.js" />
       <jump line="40" column="0" filename="C:/PythonProject/final_exam/static/js/index.js" />
+      <jump line="6347" column="23" filename="C:/PythonProject/final_exam/static/css/style.css" />
+      <jump line="5807" column="0" filename="C:/PythonProject/final_exam/static/css/style.css" />
+      <jump line="5799" column="26" filename="C:/PythonProject/final_exam/static/css/style.css" />
+      <jump line="7581" column="0" filename="C:/PythonProject/final_exam/static/css/style.css" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -275,7 +281,7 @@
         <text encoding="base64">ZnJvbSBmbGFzay5qc29uIGltcG9ydCBqc29uaWZ5Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>True</text>
+        <text>Faciwlse</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxydG9wXD4=</text>
@@ -284,34 +290,35 @@
         <text encoding="base64">ICAgICAgICBpZiByZXF1ZXN0LnVzZXIudXNlcm5hbWU6CiAgICAgICAgICAgIGZvciBpdGVtIGluIHJlc3VsdDoKICAgICAgICAgICAgICAgIGlzX2ZvbGxvd2luZyA9IEZvbGxvd1NoaXAub2JqZWN0cy5maWx0ZXIoZm9sbG93ZXJfX3VzZXJuYW1lPXJlcXVlc3QudXNlci51c2VybmFtZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZm9sbG93aW5nX3VzZXJuYW1lPWl0ZW0uZ2V0KCd1c2VybmFtZScpKS5leGlzdHMoKQogICAgICAgICAgICAgICAgaXRlbS51cGRhdGUoeydpc19mb2xsb3dpbmcnOiBpc19mb2xsb3dpbmd9KQogICAgICAgICAgICByZXR1cm4gUmVzcG9uc2UoewogICAgICAgICAgICAgICAgJ2RhdGEnOiByZXN1bHQKICAgICAgICAgICAgfSwgc3RhdHVzPXN0YXR1cy5IVFRQXzIwMF9PSykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmb2xsb3dpbmdfX3VzZXJuYW1lPSB1c2VybmFtZSkK</text>
+        <text encoding="base64">ICAgIHBvaW50ZXItZXZlbnRzOiBub25lOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXNfZm9sbG93aW5nID0gRm9sbG93U2hpcC5vYmplY3RzLmZpbHRlcihmb2xsb3dlcl9fdXNlcm5hbWU9cmVxdWVzdC51c2VyLnVzZXJuYW1lLCAK</text>
+        <text encoding="base64">ICAgIHBvaW50ZXItZXZlbnRzOiBub25lOwo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">PHNjcmlwdCBzcmM9Imh0dHBzOi8vc3RhY2twYXRoLmJvb3RzdHJhcGNkbi5jb20vYm9vdHN0cmFwLzQuMS4xL2pzL2Jvb3RzdHJhcC5taW4uanMiCiAgICAgICAgICAgIGludGVncml0eT0ic2hhMzg0LXNtSFlLZExBRHdrWE9uMUVtTjFxay9IZm5VY2JWUlp5WW1aNHFwUGVhNnNqQi9wVEowZXV5UXAwTWs4Y2srNVQiCiAgICAgICAgICAgIGNyb3Nzb3JpZ2luPSJhbm9ueW1vdXMiPjwvc2NyaXB0Pg==</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJodHRwczovL3N0YWNrcGF0aC5ib290c3RyYXBjZG4uY29tL2Jvb3RzdHJhcC80LjEuMS9qcy9ib290c3RyYXAubWluLmpzIgogICAgICAgICAgICBpbnRlZ3JpdHk9InNoYTM4NC1zbUhZS2RMQUR3a1hPbjFFbU4xcWsvSGZuVWNiVlJaeVltWjRxcFBlYTZzakIvcFRKMGV1eVFwME1rOGNrKzVUIgogICAgICAgICAgICBjcm9zc29yaWdpbj0iYW5vbnltb3VzIj48L3NjcmlwdD4=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gdmlld3BvcnRNYXJnaW46ICdJbmZpbml0eScsCg==</text>
-      </register>
-      <register name="6" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">Ci5Db2RlTWlycm9yIHsKICAgIGJvcmRlcjogMXB4IHNvbGlkICNlZWU7CiAgICBoZWlnaHQ6IGF1dG87CiAgICBtYXgtaGVpZ2h0OjEwMHB4Owp9CgouQ29kZU1pcnJvci1zY3JvbGwgewogICAgaGVpZ2h0OiBhdXRvOwogICAgbWF4LWhlaWdodDoxMDBweDsKfQ==</text>
+      <register name="4" type="8">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="5" type="4">
+        <text>;
+    box-shadow: 0 0 1px rgba(0, 0, 0, .3</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHBvaW50ZXItZXZlbnRzOiBub25lOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmb2xsb3dpbmdfX3VzZXJuYW1lPSB1c2VybmFtZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXJscGF0dGVybnMgKz0gc3RhdGljKHNldHRpbmdzLk1FRElBX1VSTCwgZG9jdW1lbnRfcm9vdD1zZXR0aW5ncy5NRURJQV9ST09UKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXNfZm9sbG93aW5nID0gRm9sbG93U2hpcC5vYmplY3RzLmZpbHRlcihmb2xsb3dlcl9fdXNlcm5hbWU9cmVxdWVzdC51c2VyLnVzZXJuYW1lLCAK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cgo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">PHNjcmlwdCBzcmM9Imh0dHBzOi8vc3RhY2twYXRoLmJvb3RzdHJhcGNkbi5jb20vYm9vdHN0cmFwLzQuMS4xL2pzL2Jvb3RzdHJhcC5taW4uanMiCiAgICAgICAgICAgIGludGVncml0eT0ic2hhMzg0LXNtSFlLZExBRHdrWE9uMUVtTjFxay9IZm5VY2JWUlp5WW1aNHFwUGVhNnNqQi9wVEowZXV5UXAwTWs4Y2srNVQiCiAgICAgICAgICAgIGNyb3Nzb3JpZ2luPSJhbm9ueW1vdXMiPjwvc2NyaXB0Pg==</text>
       </register>
       <register name=":" type="4">
-        <text>action OptimizeImports</text>
+        <text>action Find</text>
       </register>
     </registers>
     <search>
@@ -349,8 +356,8 @@
         <entry>alskd</entry>
         <entry>nohl</entry>
         <entry>register</entry>
-        <entry>action Find</entry>
         <entry>action OptimizeImports</entry>
+        <entry>action Find</entry>
       </history-cmd>
       <history-expr />
       <history-input />
