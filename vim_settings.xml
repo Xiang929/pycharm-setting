@@ -96,10 +96,10 @@
       <file name="C:/PythonProject/final_exam/weibo/views.py" timestamp="1545308212803">
         <mark key="'" line="464" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545461588225">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1545837406510">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="C:/PythonProject/final_exam/.gitignore" timestamp="1544604963699">
         <mark key="[" line="0" column="0" />
@@ -137,12 +137,12 @@
         <mark key="^" line="181" column="70" />
         <mark key="." line="155" column="45" />
       </file>
-      <file name="C:/vscodePython/holpy/app/static/js/main.js" timestamp="1545811516305">
+      <file name="C:/vscodePython/holpy/app/static/js/main.js" timestamp="1545837323338">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="109" column="16" />
-        <mark key="]" line="111" column="74" />
-        <mark key="." line="109" column="16" />
-        <mark key="^" line="109" column="15" />
+        <mark key="[" line="112" column="40" />
+        <mark key="]" line="112" column="19" />
+        <mark key="." line="112" column="19" />
+        <mark key="^" line="112" column="23" />
       </file>
       <file name="C:/PythonProject/final_exam/static/js/crf.js" timestamp="1544711315130">
         <mark key="[" line="0" column="0" />
@@ -283,7 +283,7 @@
         <text encoding="base64">ZnJvbSBmbGFzay5qc29uIGltcG9ydCBqc29uaWZ5Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>documen</text>
+        <text>split</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxydG9wXD4=</text>
@@ -292,31 +292,35 @@
         <text>$('#codeTab a[href=&quot;#code' + pageNum + '-pan&quot;]').tab('show');</text>
       </register>
       <register name="1" type="4">
+        <text>on('shown.bs.tab', function (event) {
+                var editor = document.querySelector('.code-cell.active textarea + .CodeMirror').CodeMirror;
+                editor.focus();
+                editor.setCursor(editor.lineCount(), Number.MAX_SAFE_INTEGER);
+            });</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">ICAgICAgICAgICAgdmFyIGVkaXRvciA9IGRvY3VtZW50LnF1ZXJ5U2VsZWN0b3IoJy5jb2RlLWNlbGwuYWN0aXZlIHRleHRhcmVhICsgLkNvZGVNaXJyb3InKS5Db2RlTWlycm9yOwogICAgICAgICAgICBlZGl0b3IuZm9jdXMoKTsKICAgICAgICAgICAgZWRpdG9yLnNldEN1cnNvcihlZGl0b3IubGluZUNvdW50KCksIE51bWJlci5NQVhfU0FGRV9JTlRFR0VSKTs=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGVkaXRvciA9IGRvY3VtZW50LnF1ZXJ5U2VsZWN0b3IoJy5jb2RlLWNlbGwuYWN0aXZlIHRleHRhcmVhICsgLkNvZGVNaXJyb3InKS5Db2RlTWlycm9yOwogICAgICAgICAgICBlZGl0b3IuZm9jdXMoKTsKICAgICAgICAgICAgZWRpdG9yLnNldEN1cnNvcihlZGl0b3IubGluZUNvdW50KCksIE51bWJlci5NQVhfU0FGRV9JTlRFR0VSKTsK</text>
-      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGVkaXRvciA9IGRvY3VtZW50LnF1ZXJ5U2VsZWN0b3IoJy5jb2RlLWNlbGwuYWN0aXZlIHRleHRhcmVhICsgLkNvZGVNaXJyb3InKS5Db2RlTWlycm9yOwogICAgICAgICAgICBlZGl0b3IuZm9jdXMoKTsKICAgICAgICAgICAgZWRpdG9yLnNldEN1cnNvcihlZGl0b3IubGluZUNvdW50KCksIE51bWJlci5NQVhfU0FGRV9JTlRFR0VSKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJCh3aW5kb3cpLmxvYWQoZnVuY3Rpb24gKCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJCh3aW5kb3cpLmxvYWQoZnVuY3Rpb24gKCkgewo=</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFyIGVkaXRvciA9IGRvY3VtZW50LnF1ZXJ5U2VsZWN0b3IoJy5jb2RlLWNlbGwuYWN0aXZlIHRleHRhcmVhICsgLkNvZGVNaXJyb3InKS5Db2RlTWlycm9yOwogICAgICAgICAgICBlZGl0b3IuZm9jdXMoKTsKICAgICAgICAgICAgZWRpdG9yLnNldEN1cnNvcihlZGl0b3IubGluZUNvdW50KCksIE51bWJlci5NQVhfU0FGRV9JTlRFR0VSKTsK</text>
       </register>
-      <register name="7" type="8">
+      <register name="8" type="8">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
