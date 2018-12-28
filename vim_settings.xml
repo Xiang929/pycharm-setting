@@ -136,12 +136,13 @@
         <mark key="^" line="181" column="70" />
         <mark key="." line="155" column="45" />
       </file>
-      <file name="C:/vscodePython/holpy/app/static/js/main.js" timestamp="1545901042309">
+      <file name="C:/vscodePython/holpy/app/static/js/main.js" timestamp="1545977671401">
+        <mark key="c" line="350" column="23" />
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="683" column="0" />
-        <mark key="]" line="700" column="7" />
-        <mark key="." line="683" column="0" />
-        <mark key="^" line="114" column="21" />
+        <mark key="[" line="350" column="19" />
+        <mark key="]" line="348" column="9" />
+        <mark key="." line="348" column="9" />
+        <mark key="^" line="348" column="9" />
       </file>
       <file name="C:/PythonProject/final_exam/static/js/crf.js" timestamp="1544711315130">
         <mark key="[" line="0" column="0" />
@@ -275,7 +276,7 @@
         <text encoding="base64">ZnJvbSBmbGFzay5qc29uIGltcG9ydCBqc29uaWZ5Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>odemirror after tab change</text>
+        <text>click</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxydG9wXD4=</text>
