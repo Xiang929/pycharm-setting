@@ -119,10 +119,8 @@
       <file name="C:/PythonProject/final_exam/static/js/index.vue" timestamp="1544670118960">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/vscodePython/holpy/app/static/js/tactics.js" timestamp="1546155912141">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="C:/vscodePython/holpy/app/static/js/tactics.js" timestamp="1546190891653">
+        <mark key="[" line="0" column="20" />
       </file>
       <file name="C:/PythonProject/final_exam/static/css/profile.css" timestamp="1545226875168">
         <mark key="[" line="154" column="0" />
@@ -141,11 +139,11 @@
         <mark key="^" line="181" column="70" />
         <mark key="." line="155" column="45" />
       </file>
-      <file name="C:/vscodePython/holpy/app/static/js/main.js" timestamp="1546165163931">
+      <file name="C:/vscodePython/holpy/app/static/js/main.js" timestamp="1546191899595">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="362" column="16" />
-        <mark key="]" line="359" column="0" />
-        <mark key="." line="359" column="0" />
+        <mark key="[" line="397" column="66" />
+        <mark key="]" line="397" column="66" />
+        <mark key="." line="397" column="66" />
       </file>
       <file name="C:/PythonProject/final_exam/static/js/crf.js" timestamp="1544711315130">
         <mark key="[" line="0" column="0" />
@@ -279,7 +277,7 @@
         <text encoding="base64">ZnJvbSBmbGFzay5qc29uIGltcG9ydCBqc29uaWZ5Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>1,2,3,4</text>
+        <text>Number.MAX_SAFE_INTEGER</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxydG9wXD4=</text>
@@ -288,31 +286,31 @@
         <text encoding="base64">ICAgICAgICBjbS5zZXRDdXJzb3IoY20uZ2V0Q3Vyc29yKCkubGluZSwgTnVtYmVyLk1BWF9TQUZFX0lOVEVHRVIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjbS5tYXJrVGV4dCh7bGluZTogbGluZV9udW0sIGNoOiBjaCAtIDV9LCB7bGluZTogbGluZV9udW0gKyAxLCBjaDogMH0sIHtyZWFkT25seTogZmFsc2V9KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybjsK</text>
+        <text encoding="base64">ICAgICAgICBjbS5tYXJrVGV4dCh7bGluZTogMCwgY2g6IDB9LCB7bGluZTogY20ubGluZUNvdW50KCksIGNoOiBOdW1iZXIuTUFYX1NBRkVfSU5URUdFUn0sIHtyZWFkT25seTogdHJ1ZX0pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBlZGl0b3Iub24oJ2JlZm9yZUNoYW5nZScsIGZ1bmN0aW9uIChjbSwgY2hhbmdlKSB7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKGNoYW5nZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXIgbGluZV9udW0gPSBjbS5nZXRDdXJzb3IoKS5saW5lOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGxpbmVfbnVtID0gY20uZ2V0Q3Vyc29yKCkubGluZTsKICAgICAgICAgICAgcmVhZG9ubHlfbGluZXMuc3BsaWNlKGxpbmVfbnVtLCAxKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhciBlZGl0X2ZsYWcgPSBmYWxzZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVhZG9ubHlfbGluZXMgPSByZWFkb25seV9saW5lcy5maWx0ZXIoaXRlbSA9PiBpdGVtICE9PSBsaW5lX251bSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gaWYoY20uZ2V0VmFsdWUudHJpbSgpID09PSAnJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yICh2YXIgaSA9IDA7IGkgPCBjbS5saW5lQ291bnQoKTsgaSsrKQogICAgICAgICAgICAgICAgaWYgKGkgPT09IGxpbmVfbnVtKQogICAgICAgICAgICAgICAgICAgIHJlYWRvbmx5X2xpbmVzLjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGVkaXRfZmxhZykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlYWRvbmx5X2xpbmVzLmxlbmd0aCA9IDA7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVkaXRfZmxhZyA9IHRydWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHJlYWRvbmx5X2xpbmVzLmxlbmd0aCA+IDApIHsK</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
