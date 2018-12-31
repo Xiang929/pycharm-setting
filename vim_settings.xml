@@ -8,8 +8,13 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1546229217679">
+      <file name="/Python Console" timestamp="1546241123300">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/vscodePython/holpy/server/tactic.py" timestamp="1546241870044">
+        <mark key="[" line="325" column="26" />
+        <mark key="]" line="325" column="95" />
+        <mark key="." line="325" column="26" />
       </file>
       <file name="C:/PythonProject/ContractManagement/templates/service/pricing.html" timestamp="1544430807000">
         <mark key="[" line="30" column="0" />
@@ -85,14 +90,19 @@
         <mark key="^" line="38" column="20" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="C:/vscodePython/holpy/syntax/parser.py" timestamp="1546195912393" />
+      <file name="C:/vscodePython/holpy/syntax/parser.py" timestamp="1546241447625" />
+      <file name="C:/vscodePython/holpy/server/tests/tactic_test.py" timestamp="1546241258955">
+        <mark key="[" line="199" column="0" />
+        <mark key="]" line="199" column="60" />
+        <mark key="." line="199" column="60" />
+      </file>
       <file name="C:/vscodePython/holpy/app.py" timestamp="1545295626830">
         <mark key="[" line="12" column="35" />
         <mark key="]" line="12" column="35" />
         <mark key="." line="12" column="35" />
         <mark key="^" line="8" column="51" />
       </file>
-      <file name="C:/vscodePython/holpy/app/__init__.py" timestamp="1546195605774" />
+      <file name="C:/vscodePython/holpy/app/__init__.py" timestamp="1546241119729" />
       <file name="C:/PythonProject/final_exam/weibo/views.py" timestamp="1545308212803">
         <mark key="'" line="464" column="0" />
       </file>
@@ -287,7 +297,7 @@
         <text encoding="base64">XDxydG9wXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhciBsaW5lX251bWJlciA9IGNtLmdldEN1cnNvcigpLmxpbmU7CiAgICB2YXIgbGluZSA9IGNtLmdldExpbmUobGluZV9udW1iZXIpOwo=</text>
+        <text encoding="base64">ZnJvbSBzeW50YXggaW1wb3J0IHBhcnNlciwgcHJpbnRlcgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
