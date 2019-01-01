@@ -136,12 +136,11 @@
       <file name="C:/PythonProject/final_exam/static/js/index.vue" timestamp="1544670118960">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/vscodePython/holpy/app/static/js/tactics.js" timestamp="1546331085388">
+      <file name="C:/vscodePython/holpy/app/static/js/tactics.js" timestamp="1546359374794">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="317" column="27" />
-        <mark key="]" line="319" column="35" />
-        <mark key="." line="319" column="35" />
-        <mark key="^" line="85" column="13" />
+        <mark key="[" line="176" column="73" />
+        <mark key="]" line="178" column="0" />
+        <mark key="." line="178" column="0" />
       </file>
       <file name="C:/PythonProject/final_exam/static/css/profile.css" timestamp="1545226875168">
         <mark key="[" line="154" column="0" />
@@ -307,31 +306,31 @@
         <text>apply-backward-step</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlbGV0ZSBjZWxscy5pZDsK</text>
+        <text encoding="base64">ICAgICAgICB0aXRsZSA9ICdQbGVhc2UgZW50ZXIgdGhlIHRoZW9yZW0gdXNlcmQnOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIHMuY291bnQoIjogIikgPiAwOgogICAgaWQsIHJlc3QgPSBzLnNwbGl0KCI6ICIsIDEpICAjIHNwbGl0IG9mZiBpZAplbHNlOgogICAgcmFpc2UgUGFyc2VyRXhjZXB0aW9uKCJpZCBub3QgZm91bmQ6ICIgKyBzKQoKICAgIGlkID0gaWQuc3RyaXAoKQogICAgaWYgcmVzdC5jb3VudCgiIGJ5ICIpID4gMDoKICAgIHRoLCByZXN0ID0gcmVzdC5zcGxpdCgiIGJ5ICIsIDEpCmVsc2U6CiAgICB0aCwgcmVzdCA9ICIiLCByZXN0CgogICAgaWYgcmVzdC5jb3VudCgiICIpID4gMDoKICAgIHJ1bGVfbmFtZSwgcmVzdCA9IHJlc3Quc3BsaXQoIiAiLCAxKSAgIyBzcGxpdCBvZmYgbmFtZSBvZiBydWxlCmVsc2U6CiAgICBydWxlX25hbWUsIHJlc3QgPSByZXN0LCAiIgogICAgcnVsZV9uYW1lID0gcnVsZV9uYW1lLnN0cmlwKCkKCiAgICBpZiByZXN0LmNvdW50KCJmcm9tIikgPiAwOgogICAgYXJncywgcmVzdCA9IHJlc3Quc3BsaXQoImZyb20iLCAxKQogICAgcmV0dXJuIChpZCwgcnVsZV9uYW1lLCBhcmdzLnN0cmlwKCksIFtwcmV2LnN0cmlwKCkgZm9yIHByZXYgaW4gcmVzdC5zcGxpdCgiLCIpXSwgdGgpCmVsc2U6CiAgICByZXR1e3JuIChpZCwgcnVsZV9uYW1lLCByZXN0LnN0cmlwKCksIFtdLCB0aCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlbGV0ZSBjZWxscy5pZDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIHMuY291bnQoIjogIikgPiAwOgogICAgaWQsIHJlc3QgPSBzLnNwbGl0KCI6ICIsIDEpICAjIHNwbGl0IG9mZiBpZAplbHNlOgogICAgcmFpc2UgUGFyc2VyRXhjZXB0aW9uKCJpZCBub3QgZm91bmQ6ICIgKyBzKQoKICAgIGlkID0gaWQuc3RyaXAoKQogICAgaWYgcmVzdC5jb3VudCgiIGJ5ICIpID4gMDoKICAgIHRoLCByZXN0ID0gcmVzdC5zcGxpdCgiIGJ5ICIsIDEpCmVsc2U6CiAgICB0aCwgcmVzdCA9ICIiLCByZXN0CgogICAgaWYgcmVzdC5jb3VudCgiICIpID4gMDoKICAgIHJ1bGVfbmFtZSwgcmVzdCA9IHJlc3Quc3BsaXQoIiAiLCAxKSAgIyBzcGxpdCBvZmYgbmFtZSBvZiBydWxlCmVsc2U6CiAgICBydWxlX25hbWUsIHJlc3QgPSByZXN0LCAiIgogICAgcnVsZV9uYW1lID0gcnVsZV9uYW1lLnN0cmlwKCkKCiAgICBpZiByZXN0LmNvdW50KCJmcm9tIikgPiAwOgogICAgYXJncywgcmVzdCA9IHJlc3Quc3BsaXQoImZyb20iLCAxKQogICAgcmV0dXJuIChpZCwgcnVsZV9uYW1lLCBhcmdzLnN0cmlwKCksIFtwcmV2LnN0cmlwKCkgZm9yIHByZXYgaW4gcmVzdC5zcGxpdCgiLCIpXSwgdGgpCmVsc2U6CiAgICByZXR1e3JuIChpZCwgcnVsZV9uYW1lLCByZXN0LnN0cmlwKCksIFtdLCB0aCkK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhciBjZWxscyA9IHt9Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsaW5lX251bWJlciA9IGU7Cg==</text>
+        <text encoding="base64">ICAgIHZhciBjZWxscyA9IHt9Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsaW5lX251bWJlciA9IGU7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aXRsZSA9ICdQbGVhc2UgZW50ZXIgdGhlIHRoZW9yZW0gdXNlcmQnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aXRsZSA9ICdQbGVhc2UgZW50ZXIgdGhlIHRoZW9yZW0gdXNlcmQnOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
