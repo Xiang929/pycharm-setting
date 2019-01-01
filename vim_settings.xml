@@ -90,9 +90,9 @@
         <mark key="^" line="38" column="20" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="C:/vscodePython/holpy/syntax/parser.py" timestamp="1546321132902">
-        <mark key="[" line="231" column="0" />
-        <mark key="]" line="253" column="0" />
+      <file name="C:/vscodePython/holpy/syntax/parser.py" timestamp="1546323127052">
+        <mark key="[" line="224" column="0" />
+        <mark key="]" line="252" column="52" />
       </file>
       <file name="C:/vscodePython/holpy/server/tests/tactic_test.py" timestamp="1546241258955">
         <mark key="[" line="199" column="0" />
@@ -105,7 +105,10 @@
         <mark key="." line="12" column="35" />
         <mark key="^" line="8" column="51" />
       </file>
-      <file name="C:/vscodePython/holpy/app/__init__.py" timestamp="1546241119729" />
+      <file name="C:/vscodePython/holpy/app/__init__.py" timestamp="1546323943029">
+        <mark key="[" line="110" column="17" />
+        <mark key="]" line="110" column="35" />
+      </file>
       <file name="C:/PythonProject/final_exam/weibo/views.py" timestamp="1545308212803">
         <mark key="'" line="464" column="0" />
       </file>
@@ -133,10 +136,12 @@
       <file name="C:/PythonProject/final_exam/static/js/index.vue" timestamp="1544670118960">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/vscodePython/holpy/app/static/js/tactics.js" timestamp="1546321144230">
+      <file name="C:/vscodePython/holpy/app/static/js/tactics.js" timestamp="1546323907883">
         <mark key="'" line="191" column="28" />
-        <mark key="]" line="278" column="0" />
-        <mark key="." line="278" column="0" />
+        <mark key="[" line="274" column="0" />
+        <mark key="]" line="314" column="0" />
+        <mark key="." line="288" column="25" />
+        <mark key="^" line="282" column="15" />
       </file>
       <file name="C:/PythonProject/final_exam/static/css/profile.css" timestamp="1545226875168">
         <mark key="[" line="154" column="0" />
@@ -293,13 +298,13 @@
         <text encoding="base64">ZnJvbSBmbGFzay5qc29uIGltcG9ydCBqc29uaWZ5Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>&quot; &quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxydG9wXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmIHMuY291bnQoIjogIikgPiAwOgogICAgICAgIGlkLCByZXN0ID0gcy5zcGxpdCgiOiAiLCAxKSAgIyBzcGxpdCBvZmYgaWQKICAgIGVsc2U6CiAgICAgICAgcmFpc2UgUGFyc2VyRXhjZXB0aW9uKCJpZCBub3QgZm91bmQ6ICIgKyBzKQoKICAgIGlkID0gaWQuc3RyaXAoKQogICAgaWYgcmVzdC5jb3VudCgiIGJ5ICIpID4gMDoKICAgICAgICB0aCwgcmVzdCA9IHJlc3Quc3BsaXQoIiBieSAiLCAxKQogICAgZWxzZToKICAgICAgICB0aCwgcmVzdCA9ICIiLCByZXN0CgogICAgaWYgcmVzdC5jb3VudCgiICIpID4gMDoKICAgICAgICBydWxlX25hbWUsIHJlc3QgPSByZXN0LnNwbGl0KCIgIiwgMSkgICMgc3BsaXQgb2ZmIG5hbWUgb2YgcnVsZQogICAgZWxzZToKICAgICAgICBydWxlX25hbWUsIHJlc3QgPSByZXN0LCAiIgogICAgcnVsZV9uYW1lID0gcnVsZV9uYW1lLnN0cmlwKCkKCiAgICBpZiByZXN0LmNvdW50KCJmcm9tIikgPiAwOgogICAgICAgIGFyZ3MsIHJlc3QgPSByZXN0LnNwbGl0KCJmcm9tIiwgMSkKICAgICAgICByZXR1cm4gKGlkLCBydWxlX25hbWUsIGFyZ3Muc3RyaXAoKSwgW3ByZXYuc3RyaXAoKSBmb3IgcHJldiBpbiByZXN0LnNwbGl0KCIsIildLCB0aCkKICAgIGVsc2U6CiAgICAgICAgcmV0dXJuIChpZCwgcnVsZV9uYW1lLCByZXN0LnN0cmlwKCksIFtdLCB0aCkKCg==</text>
+      <register name="0" type="4">
+        <text>apply-backward-step</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGlmIHMuY291bnQoIjogIikgPiAwOgogICAgaWQsIHJlc3QgPSBzLnNwbGl0KCI6ICIsIDEpICAjIHNwbGl0IG9mZiBpZAplbHNlOgogICAgcmFpc2UgUGFyc2VyRXhjZXB0aW9uKCJpZCBub3QgZm91bmQ6ICIgKyBzKQoKICAgIGlkID0gaWQuc3RyaXAoKQogICAgaWYgcmVzdC5jb3VudCgiIGJ5ICIpID4gMDoKICAgIHRoLCByZXN0ID0gcmVzdC5zcGxpdCgiIGJ5ICIsIDEpCmVsc2U6CiAgICB0aCwgcmVzdCA9ICIiLCByZXN0CgogICAgaWYgcmVzdC5jb3VudCgiICIpID4gMDoKICAgIHJ1bGVfbmFtZSwgcmVzdCA9IHJlc3Quc3BsaXQoIiAiLCAxKSAgIyBzcGxpdCBvZmYgbmFtZSBvZiBydWxlCmVsc2U6CiAgICBydWxlX25hbWUsIHJlc3QgPSByZXN0LCAiIgogICAgcnVsZV9uYW1lID0gcnVsZV9uYW1lLnN0cmlwKCkKCiAgICBpZiByZXN0LmNvdW50KCJmcm9tIikgPiAwOgogICAgYXJncywgcmVzdCA9IHJlc3Quc3BsaXQoImZyb20iLCAxKQogICAgcmV0dXJuIChpZCwgcnVsZV9uYW1lLCBhcmdzLnN0cmlwKCksIFtwcmV2LnN0cmlwKCkgZm9yIHByZXYgaW4gcmVzdC5zcGxpdCgiLCIpXSwgdGgpCmVsc2U6CiAgICByZXR1e3JuIChpZCwgcnVsZV9uYW1lLCByZXN0LnN0cmlwKCksIFtdLCB0aCkK</text>
