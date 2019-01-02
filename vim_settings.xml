@@ -162,10 +162,11 @@
         <mark key="^" line="181" column="70" />
         <mark key="." line="155" column="45" />
       </file>
-      <file name="C:/vscodePython/holpy/app/static/js/main.js" timestamp="1546424732210">
-        <mark key="[" line="386" column="0" />
-        <mark key="]" line="386" column="0" />
-        <mark key="." line="386" column="0" />
+      <file name="C:/vscodePython/holpy/app/static/js/main.js" timestamp="1546425289802">
+        <mark key="[" line="413" column="73" />
+        <mark key="]" line="387" column="0" />
+        <mark key="." line="387" column="0" />
+        <mark key="^" line="387" column="0" />
       </file>
       <file name="C:/PythonProject/final_exam/static/js/crf.js" timestamp="1544711315130">
         <mark key="[" line="0" column="0" />
@@ -304,35 +305,35 @@
       <register name="/" type="4">
         <text encoding="base64">XDxydG9wXD4=</text>
       </register>
-      <register name="0" type="8">
-        <text encoding="base64">IGNvbnNvbGUubG9nKGNtKTsKIGNvbnNvbGUubG9nKGV2ZW50KTs=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChlLmNzcyAhPT0gdW5kZWZpbmVkKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBlZGl0b3Iub24oJ2RibGNsaWNrJywgZnVuY3Rpb24gKGNtLCBldmVudCkgewogICAgICAgIC8vICAgICBjb25zb2xlLmxvZyhjbSk7CiAgICAgICAgLy8gICAgIGNvbnNvbGUubG9nKGV2ZW50KTsKICAgICAgICAvLyAgICAgc2V0X3JlYWRfb25seShjbSk7CiAgICAgICAgLy8gfSk7Cg==</text>
+        <text encoding="base64">ICAgIGZ1bmN0aW9uIGlzX2NvbG9yZWQoY20pIHsKICAgICAgICB2YXIgbGluZV9udW0gPSBjbS5nZXRDdXJzb3IoKS5saW5lOwogICAgICAgIHZhciBjaCA9IGNtLmdldEN1cnNvcigpLmNoOwogICAgICAgIHZhciBtYXJrcyA9IGNtLmZpbmRNYXJrcyh7bGluZTogbGluZV9udW0sIGNoOiAwfSwge2xpbmU6IGxpbmVfbnVtLCBjaDogTnVtYmVyLk1BWF9TQUZFX0lOVEVHRVJ9KTsKICAgICAgICBtYXJrcy5mb3JFYWNoKGUgPT4gewogICAgICAgICAgICBpZiAoZS5jc3MuaW5kZXhPZignY29sb3InKSB8fCBlLmNzcy5pbmRleE9mKCdiYWNrZ3JvdW5kJykpIHsKICAgICAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgICAgICB9CiAgICAgICAgfSk7CiAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgfQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY2xpY2tfY291bnQgPSAwOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBlZGl0b3Iub24oJ2RibGNsaWNrJywgZnVuY3Rpb24gKGNtLCBldmVudCkgewogICAgICAgIC8vICAgICBjb25zb2xlLmxvZyhjbSk7CiAgICAgICAgLy8gICAgIGNvbnNvbGUubG9nKGV2ZW50KTsKICAgICAgICAvLyAgICAgc2V0X3JlYWRfb25seShjbSk7CiAgICAgICAgLy8gfSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChpc19jb2xvcmVkKGNtKSkgewogICAgICAgICAgICAgICAgICAgIHJldHVybjsKICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCJUVFQiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY2xpY2tfY291bnQgPSAwOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChmbGFnKSB7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuOwogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChpc19jb2xvcmVkKGNtKSkgewogICAgICAgICAgICAgICAgICAgIHJldHVybjsKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhciBmbGFnID0gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCJUVFQiKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhciB0aW1lciA9IDA7Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChmbGFnKSB7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuOwogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
