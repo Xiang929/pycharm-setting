@@ -162,12 +162,12 @@
         <mark key="^" line="181" column="70" />
         <mark key="." line="155" column="45" />
       </file>
-      <file name="C:/vscodePython/holpy/app/static/js/main.js" timestamp="1546369496725">
+      <file name="C:/vscodePython/holpy/app/static/js/main.js" timestamp="1546389452399">
         <mark key="'" line="9" column="4" />
-        <mark key="[" line="376" column="20" />
-        <mark key="]" line="376" column="20" />
-        <mark key="." line="376" column="20" />
-        <mark key="^" line="376" column="23" />
+        <mark key="[" line="10" column="15" />
+        <mark key="]" line="10" column="15" />
+        <mark key="." line="10" column="15" />
+        <mark key="^" line="377" column="23" />
       </file>
       <file name="C:/PythonProject/final_exam/static/js/crf.js" timestamp="1544711315130">
         <mark key="[" line="0" column="0" />
@@ -270,7 +270,6 @@
       <jump line="5807" column="0" filename="C:/PythonProject/final_exam/static/css/style.css" />
       <jump line="5799" column="26" filename="C:/PythonProject/final_exam/static/css/style.css" />
       <jump line="7581" column="0" filename="C:/PythonProject/final_exam/static/css/style.css" />
-      <jump line="381" column="28" filename="C:/vscodePython/holpy/app/static/js/main.js" />
       <jump line="679" column="4" filename="C:/vscodePython/holpy/app/static/js/main.js" />
       <jump line="382" column="30" filename="C:/vscodePython/holpy/app/static/js/main.js" />
       <jump line="321" column="16" filename="C:/vscodePython/holpy/app/static/js/main.js" />
@@ -292,6 +291,7 @@
       <jump line="102" column="29" filename="C:/vscodePython/holpy/app/static/js/tactics.js" />
       <jump line="34" column="48" filename="C:/vscodePython/holpy/app/static/js/tactics.js" />
       <jump line="9" column="4" filename="C:/vscodePython/holpy/app/static/js/main.js" />
+      <jump line="381" column="37" filename="C:/vscodePython/holpy/app/static/js/main.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -301,7 +301,7 @@
         <text encoding="base64">ZnJvbSBmbGFzay5qc29uIGltcG9ydCBqc29uaWZ5Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>cciciwciwwlickCount</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxydG9wXD4=</text>
