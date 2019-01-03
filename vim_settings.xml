@@ -162,11 +162,11 @@
         <mark key="^" line="181" column="70" />
         <mark key="." line="155" column="45" />
       </file>
-      <file name="C:/vscodePython/holpy/app/static/js/main.js" timestamp="1546451911250">
-        <mark key="[" line="428" column="72" />
-        <mark key="]" line="428" column="72" />
-        <mark key="." line="428" column="72" />
-        <mark key="^" line="414" column="11" />
+      <file name="C:/vscodePython/holpy/app/static/js/main.js" timestamp="1546496029788">
+        <mark key="[" line="430" column="0" />
+        <mark key="]" line="430" column="40" />
+        <mark key="." line="430" column="0" />
+        <mark key="^" line="421" column="39" />
       </file>
       <file name="C:/PythonProject/final_exam/static/js/crf.js" timestamp="1544711315130">
         <mark key="[" line="0" column="0" />
@@ -300,13 +300,13 @@
         <text encoding="base64">ZnJvbSBmbGFzay5qc29uIGltcG9ydCBqc29uaWZ5Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxydG9wXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGVkaXRfZmxhZykgewogICAgICAgICAgICAgICAgZWRpdF9mbGFnID0gZmFsc2U7CiAgICAgICAgICAgICAgICByZXR1cm47CiAgICAgICAgICAgIH0gZWxzZSBpZiAocmVhZG9ubHlfbGluZXMuaW5kZXhPZihjaGFuZ2UuZnJvbS5saW5lKSAhPT0gLTEpIHsKICAgICAgICAgICAgICAgIGNoYW5nZS5jYW5jZWwoKTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWRpdF9saW5lX251bWJlciA9IGxpbmVfbnVtOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
