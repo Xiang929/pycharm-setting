@@ -142,10 +142,10 @@
       <file name="C:/PythonProject/final_exam/static/js/index.vue" timestamp="1544670118960">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/vscodePython/holpy/app/static/js/tactics.js" timestamp="1546585758162">
-        <mark key="'" line="37" column="48" />
-        <mark key="[" line="286" column="0" />
-        <mark key="]" line="286" column="0" />
+      <file name="C:/vscodePython/holpy/app/static/js/tactics.js" timestamp="1546587593814">
+        <mark key="'" line="307" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="6" column="12" />
         <mark key="." line="286" column="0" />
       </file>
       <file name="C:/PythonProject/final_exam/static/css/profile.css" timestamp="1545226875168">
@@ -165,12 +165,12 @@
         <mark key="^" line="181" column="70" />
         <mark key="." line="155" column="45" />
       </file>
-      <file name="C:/vscodePython/holpy/app/static/js/main.js" timestamp="1546586461453">
-        <mark key="'" line="356" column="12" />
-        <mark key="[" line="357" column="73" />
-        <mark key="]" line="462" column="20" />
-        <mark key="^" line="462" column="20" />
-        <mark key="." line="462" column="20" />
+      <file name="C:/vscodePython/holpy/app/static/js/main.js" timestamp="1546587862257">
+        <mark key="'" line="3" column="17" />
+        <mark key="[" line="91" column="55" />
+        <mark key="]" line="529" column="34" />
+        <mark key="^" line="529" column="34" />
+        <mark key="." line="529" column="34" />
       </file>
       <file name="C:/PythonProject/final_exam/static/js/crf.js" timestamp="1544711315130">
         <mark key="[" line="0" column="0" />
@@ -195,9 +195,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="138" column="64" filename="C:/PythonProject/ContractManagement/templates/myhetong.html" />
-      <jump line="72" column="0" filename="C:/PythonProject/ContractManagement/templates/myhetong.html" />
-      <jump line="104" column="88" filename="C:/PythonProject/ContractManagement/templates/myhetong.html" />
       <jump line="167" column="43" filename="C:/PythonProject/ContractManagement/templates/myhetong.html" />
       <jump line="100" column="0" filename="C:/PythonProject/ContractManagement/templates/myhetong.html" />
       <jump line="130" column="12" filename="C:/PythonProject/ContractManagement/templates/gaihetong.html" />
@@ -285,16 +282,19 @@
       <jump line="193" column="27" filename="C:/vscodePython/holpy/app/static/js/tactics.js" />
       <jump line="102" column="29" filename="C:/vscodePython/holpy/app/static/js/tactics.js" />
       <jump line="34" column="48" filename="C:/vscodePython/holpy/app/static/js/tactics.js" />
-      <jump line="9" column="4" filename="C:/vscodePython/holpy/app/static/js/main.js" />
       <jump line="381" column="37" filename="C:/vscodePython/holpy/app/static/js/main.js" />
       <jump line="304" column="9" filename="C:/vscodePython/holpy/app/static/js/main.js" />
       <jump line="459" column="10" filename="C:/vscodePython/holpy/app/static/js/main.js" />
-      <jump line="8" column="0" filename="C:/vscodePython/holpy/app/static/js/main.js" />
       <jump line="376" column="24" filename="C:/vscodePython/holpy/app/static/js/main.js" />
       <jump line="4" column="0" filename="C:/vscodePython/holpy/app/static/js/main.js" />
       <jump line="139" column="8" filename="C:/vscodePython/holpy/app/__init__.py" />
       <jump line="104" column="30" filename="C:/vscodePython/holpy/app/static/js/main.js" />
       <jump line="350" column="12" filename="C:/vscodePython/holpy/app/static/js/main.js" />
+      <jump line="9" column="4" filename="C:/vscodePython/holpy/app/static/js/main.js" />
+      <jump line="8" column="0" filename="C:/vscodePython/holpy/app/static/js/main.js" />
+      <jump line="307" column="0" filename="C:/vscodePython/holpy/app/static/js/tactics.js" />
+      <jump line="5" column="8" filename="C:/vscodePython/holpy/app/static/js/main.js" />
+      <jump line="3" column="17" filename="C:/vscodePython/holpy/app/static/js/main.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -304,40 +304,40 @@
         <text encoding="base64">ZnJvbSBmbGFzay5qc29uIGltcG9ydCBqc29uaWZ5Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>t-end Structured data</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxydG9wXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>[edit_line_number]</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmVhZG9ubHlfbGluZXMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Zm9uCg==</text>
+        <text encoding="base64">ICAgICAgICBlZGl0X2ZsYWcgPSBmYWxzZTsKICAgICAgICBjbGlja19saW5lX251bWJlciA9IC0xOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGNlbGxbZWRpdF9saW5lX251bWJlcl0gIT09ICcnKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBvcmlnaW5fbGluZSArPSAnICcKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICArIGNlbGxbZWRpdF9saW5lX251bWJlcl0uYXJncyArICcgZnJvbSAnCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKyBjZWxsW2VkaXRfbGluZV9udW1iZXJdLnByZXYuam9pbigiICIpOwogICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICByZWFkb25seV9saW5lcyA9IFswXTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtb2QgPSAwOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gZnVuY3Rpb24gdW5kbyhjbSkgewovLyAgICAgaWYgKGVkaXRfbGluZV9udW1iZXIgIT09IC0xKSB7Ci8vICAgICAgICAgY20uZ2V0QWxsTWFya3MoKS5mb3JFYWNoKGUgPT4gewovLyAgICAgICAgICAgICBpZiAoZS5yZWFkT25seSAhPT0gdW5kZWZpbmVkKSB7Ci8vICAgICAgICAgICAgICAgICBpZiAoZS5yZWFkT25seSkgewovLyAgICAgICAgICAgICAgICAgICAgIGUuY2xlYXIoKTsKLy8gICAgICAgICAgICAgICAgIH0KLy8gICAgICAgICAgICAgfQovLyAgICAgICAgIH0pOwovLyAgICAgICAgIHZhciBpZCA9IGdldF9zZWxlY3RlZF9pZCgpOwovLyAgICAgICAgIHZhciBjZWxsID0gY2VsbHNbaWRdOwovLyAgICAgICAgIGlmIChtb2QgPT09IDApIHsKLy8gICAgICAgICAgICAgbGV0IG9yaWdpbl9saW5lID0gY2VsbC5pZCArICc6ICcKLy8gICAgICAgICAgICAgICAgICsgY2VsbC50aCArICcgYnkgJwovLyAgICAgICAgICAgICAgICAgKyBjZWxsLnJ1bGVfbmFtZSArICcgJwovLyAgICAgICAgICAgICAgICAgKyBjZWxsLmFyZ3MgKyAnIGZyb20gJwovLyAgICAgICAgICAgICAgICAgKyBjZWxsLnByZXYuam9pbigiICIpOwovLyAgICAgICAgICAgICBjbS5yZXBsYWNlUmFuZ2Uob3JpZ2luX2xpbmUsIHtsaW5lOiBlZGl0X2xpbmVfbnVtYmVyLCBjaDogMH0sIHsKLy8gICAgICAgICAgICAgICAgIGxpbmU6IGVkaXRfbGluZV9udW1iZXIsCi8vICAgICAgICAgICAgICAgICBjaDogTnVtYmVyLk1BWF9TQUZFX0lOVEVHRVIKLy8gICAgICAgICAgICAgfSk7Ci8vICAgICAgICAgICAgIGVkaXRfbGluZV9udW1iZXIgPSAtMTsKLy8gICAgICAgICB9IGVsc2UgaWYgKG1vZCA9PT0gMSkgewovLyAgICAgICAgICAgICBsZXQgb3JpZ2luX2xpbmUgPSBjZWxsLmlkICsgJzogJwovLyAgICAgICAgICAgICAgICAgKyBjZWxsLnRoOwovLyAgICAgICAgICAgICBjbS5yZXBsYWNlUmFuZ2Uob3JpZ2luX2xpbmUsIHtsaW5lOiBlZGl0X2xpbmVfbnVtYmVyLCBjaDogMH0sIHsKLy8gICAgICAgICAgICAgICAgIGxpbmU6IGVkaXRfbGluZV9udW1iZXIsCi8vICAgICAgICAgICAgICAgICBjaDogTnVtYmVyLk1BWF9TQUZFX0lOVEVHRVIKLy8gICAgICAgICAgICAgfSk7Ci8vICAgICAgICAgICAgIGVkaXRfbGluZV9udW1iZXIgPSAtMTsKLy8gICAgICAgICB9Ci8vICAgICB9Ci8vIH0K</text>
+        <text encoding="base64">ICAgICAgICBjZWxscyA9IHt9Owo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICsgJyAnCiAgICAgICAgICAgICAgICAgICAgICAgICAgICArIGNlbGxbZWRpdF9saW5lX251bWJlcl0uYXJncyArICcgZnJvbSAnCiAgICAgICAgICAgICAgICAgICAgICAgICAgICArIGNlbGxbZWRpdF9saW5lX251bWJlcl0ucHJldi5qb2luKCIgIik7Cg==</text>
+      <register name="5" type="8">
+        <text encoding="base64">dmFyIAp2YXIgCnZhciAKdmFyIAp2YXIgCnZhciAKdmFyIA==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="8">
+        <text encoding="base64">dmFyIAp2YXIgCnZhciA=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gdW5kbyhjbSkgewoK</text>
+        <text encoding="base64">ICAgIHZhciB0aW1lcjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Zm9uCg==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
