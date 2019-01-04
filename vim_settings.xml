@@ -9,10 +9,10 @@
         <mark key="." line="35" column="0" />
       </file>
       <file name="C:/vscodePython/holpy/kernel/theory.py" timestamp="1546531910010" />
-      <file name="/Python Console" timestamp="1546364402511">
+      <file name="/Python Console" timestamp="1546590913793">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/vscodePython/holpy/server/tactic.py" timestamp="1546533902679">
+      <file name="C:/vscodePython/holpy/server/tactic.py" timestamp="1546590997870">
         <mark key="[" line="224" column="8" />
         <mark key="]" line="224" column="15" />
         <mark key="." line="325" column="26" />
@@ -101,10 +101,10 @@
         <mark key="]" line="199" column="60" />
         <mark key="." line="199" column="60" />
       </file>
-      <file name="C:/vscodePython/holpy/app.py" timestamp="1545295626830">
-        <mark key="[" line="12" column="35" />
-        <mark key="]" line="12" column="35" />
-        <mark key="." line="12" column="35" />
+      <file name="C:/vscodePython/holpy/app.py" timestamp="1546591400536">
+        <mark key="[" line="12" column="70" />
+        <mark key="]" line="12" column="84" />
+        <mark key="." line="12" column="71" />
         <mark key="^" line="8" column="51" />
       </file>
       <file name="C:/vscodePython/holpy/app/__init__.py" timestamp="1546580896633">
@@ -117,11 +117,11 @@
       <file name="C:/PythonProject/final_exam/weibo/views.py" timestamp="1545308212803">
         <mark key="'" line="464" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1546586703136">
+      <file name="/Dummy.txt" timestamp="1546591550371">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
+        <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="1" />
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="C:/PythonProject/final_exam/.gitignore" timestamp="1544604963699">
         <mark key="[" line="0" column="0" />
@@ -165,7 +165,7 @@
         <mark key="^" line="181" column="70" />
         <mark key="." line="155" column="45" />
       </file>
-      <file name="C:/vscodePython/holpy/app/static/js/main.js" timestamp="1546587862257">
+      <file name="C:/vscodePython/holpy/app/static/js/main.js" timestamp="1546590678866">
         <mark key="'" line="3" column="17" />
         <mark key="[" line="91" column="55" />
         <mark key="]" line="529" column="34" />
@@ -313,31 +313,31 @@
         <text encoding="base64">ICAgICAgICAgICAgcmVhZG9ubHlfbGluZXMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlZGl0X2ZsYWcgPSBmYWxzZTsKICAgICAgICBjbGlja19saW5lX251bWJlciA9IC0xOwo=</text>
+        <text encoding="base64">cGVkaXQgbW9kdWxlIHRlc3QgdmVyc2lvbgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZWFkb25seV9saW5lcyA9IFswXTsK</text>
+        <text encoding="base64">ICAgICAgICBlZGl0X2ZsYWcgPSBmYWxzZTsKICAgICAgICBjbGlja19saW5lX251bWJlciA9IC0xOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtb2QgPSAwOwo=</text>
+        <text encoding="base64">ICAgICAgICByZWFkb25seV9saW5lcyA9IFswXTsK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBtb2QgPSAwOwo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBjZWxscyA9IHt9Owo=</text>
       </register>
-      <register name="5" type="8">
+      <register name="6" type="8">
         <text encoding="base64">dmFyIAp2YXIgCnZhciAKdmFyIAp2YXIgCnZhciAKdmFyIA==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="8">
+      <register name="8" type="8">
         <text encoding="base64">dmFyIAp2YXIgCnZhciA=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhciB0aW1lcjsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Zm9uCg==</text>
+        <text encoding="base64">ICAgIHZhciB0aW1lcjsK</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
