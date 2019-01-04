@@ -117,11 +117,11 @@
       <file name="C:/PythonProject/final_exam/weibo/views.py" timestamp="1545308212803">
         <mark key="'" line="464" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1546497247769">
-        <mark key="[" line="0" column="23" />
-        <mark key="]" line="0" column="24" />
-        <mark key="." line="0" column="24" />
-        <mark key="^" line="0" column="8" />
+      <file name="/Dummy.txt" timestamp="1546586703136">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="1" />
       </file>
       <file name="C:/PythonProject/final_exam/.gitignore" timestamp="1544604963699">
         <mark key="[" line="0" column="0" />
@@ -142,11 +142,11 @@
       <file name="C:/PythonProject/final_exam/static/js/index.vue" timestamp="1544670118960">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/vscodePython/holpy/app/static/js/tactics.js" timestamp="1546580226865">
-        <mark key="'" line="36" column="48" />
-        <mark key="[" line="301" column="46" />
-        <mark key="]" line="293" column="0" />
-        <mark key="." line="293" column="0" />
+      <file name="C:/vscodePython/holpy/app/static/js/tactics.js" timestamp="1546585758162">
+        <mark key="'" line="37" column="48" />
+        <mark key="[" line="286" column="0" />
+        <mark key="]" line="286" column="0" />
+        <mark key="." line="286" column="0" />
       </file>
       <file name="C:/PythonProject/final_exam/static/css/profile.css" timestamp="1545226875168">
         <mark key="[" line="154" column="0" />
@@ -165,12 +165,12 @@
         <mark key="^" line="181" column="70" />
         <mark key="." line="155" column="45" />
       </file>
-      <file name="C:/vscodePython/holpy/app/static/js/main.js" timestamp="1546580926086">
-        <mark key="'" line="350" column="12" />
-        <mark key="[" line="334" column="0" />
-        <mark key="]" line="334" column="0" />
-        <mark key="." line="334" column="0" />
-        <mark key="^" line="336" column="19" />
+      <file name="C:/vscodePython/holpy/app/static/js/main.js" timestamp="1546586461453">
+        <mark key="'" line="356" column="12" />
+        <mark key="[" line="357" column="73" />
+        <mark key="]" line="462" column="20" />
+        <mark key="^" line="462" column="20" />
+        <mark key="." line="462" column="20" />
       </file>
       <file name="C:/PythonProject/final_exam/static/js/crf.js" timestamp="1544711315130">
         <mark key="[" line="0" column="0" />
@@ -304,43 +304,43 @@
         <text encoding="base64">ZnJvbSBmbGFzay5qc29uIGltcG9ydCBqc29uaWZ5Cg==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>t-end Structured data</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxydG9wXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>set_line</text>
+        <text>[edit_line_number]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Zm9uCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFkZF9saW5lX2FmdGVyKGNtKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGNlbGxbZWRpdF9saW5lX251bWJlcl0gIT09ICcnKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBvcmlnaW5fbGluZSArPSAnICcKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICArIGNlbGxbZWRpdF9saW5lX251bWJlcl0uYXJncyArICcgZnJvbSAnCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKyBjZWxsW2VkaXRfbGluZV9udW1iZXJdLnByZXYuam9pbigiICIpOwogICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAoaWQsIHJ1bGVfbmFtZSwgYXJncywgcHJldnMsIHRoKSA9IHBhcnNlci5zcGxpdF9wcm9vZl9ydWxlKGRhdGEuZ2V0KCdsaW5lJykpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2VsbC5wYXJzZV9wcm9vZihwcm9vZikKICAgICAgICAgICAgY2VsbC5jaGVja19wcm9vZigpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4ganNvbmlmeShnZXRfcmVzdWx0X2Zyb21fY2VsbChjZWxsKSkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjZWxsLmNoZWNrX3Byb29mKCkK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjZWxsLnBhcnNlX3Byb29mKHByb29mKQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Ly8gZnVuY3Rpb24gdW5kbyhjbSkgewovLyAgICAgaWYgKGVkaXRfbGluZV9udW1iZXIgIT09IC0xKSB7Ci8vICAgICAgICAgY20uZ2V0QWxsTWFya3MoKS5mb3JFYWNoKGUgPT4gewovLyAgICAgICAgICAgICBpZiAoZS5yZWFkT25seSAhPT0gdW5kZWZpbmVkKSB7Ci8vICAgICAgICAgICAgICAgICBpZiAoZS5yZWFkT25seSkgewovLyAgICAgICAgICAgICAgICAgICAgIGUuY2xlYXIoKTsKLy8gICAgICAgICAgICAgICAgIH0KLy8gICAgICAgICAgICAgfQovLyAgICAgICAgIH0pOwovLyAgICAgICAgIHZhciBpZCA9IGdldF9zZWxlY3RlZF9pZCgpOwovLyAgICAgICAgIHZhciBjZWxsID0gY2VsbHNbaWRdOwovLyAgICAgICAgIGlmIChtb2QgPT09IDApIHsKLy8gICAgICAgICAgICAgbGV0IG9yaWdpbl9saW5lID0gY2VsbC5pZCArICc6ICcKLy8gICAgICAgICAgICAgICAgICsgY2VsbC50aCArICcgYnkgJwovLyAgICAgICAgICAgICAgICAgKyBjZWxsLnJ1bGVfbmFtZSArICcgJwovLyAgICAgICAgICAgICAgICAgKyBjZWxsLmFyZ3MgKyAnIGZyb20gJwovLyAgICAgICAgICAgICAgICAgKyBjZWxsLnByZXYuam9pbigiICIpOwovLyAgICAgICAgICAgICBjbS5yZXBsYWNlUmFuZ2Uob3JpZ2luX2xpbmUsIHtsaW5lOiBlZGl0X2xpbmVfbnVtYmVyLCBjaDogMH0sIHsKLy8gICAgICAgICAgICAgICAgIGxpbmU6IGVkaXRfbGluZV9udW1iZXIsCi8vICAgICAgICAgICAgICAgICBjaDogTnVtYmVyLk1BWF9TQUZFX0lOVEVHRVIKLy8gICAgICAgICAgICAgfSk7Ci8vICAgICAgICAgICAgIGVkaXRfbGluZV9udW1iZXIgPSAtMTsKLy8gICAgICAgICB9IGVsc2UgaWYgKG1vZCA9PT0gMSkgewovLyAgICAgICAgICAgICBsZXQgb3JpZ2luX2xpbmUgPSBjZWxsLmlkICsgJzogJwovLyAgICAgICAgICAgICAgICAgKyBjZWxsLnRoOwovLyAgICAgICAgICAgICBjbS5yZXBsYWNlUmFuZ2Uob3JpZ2luX2xpbmUsIHtsaW5lOiBlZGl0X2xpbmVfbnVtYmVyLCBjaDogMH0sIHsKLy8gICAgICAgICAgICAgICAgIGxpbmU6IGVkaXRfbGluZV9udW1iZXIsCi8vICAgICAgICAgICAgICAgICBjaDogTnVtYmVyLk1BWF9TQUZFX0lOVEVHRVIKLy8gICAgICAgICAgICAgfSk7Ci8vICAgICAgICAgICAgIGVkaXRfbGluZV9udW1iZXIgPSAtMTsKLy8gICAgICAgICB9Ci8vICAgICB9Ci8vIH0K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICsgJyAnCiAgICAgICAgICAgICAgICAgICAgICAgICAgICArIGNlbGxbZWRpdF9saW5lX251bWJlcl0uYXJncyArICcgZnJvbSAnCiAgICAgICAgICAgICAgICAgICAgICAgICAgICArIGNlbGxbZWRpdF9saW5lX251bWJlcl0ucHJldi5qb2luKCIgIik7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ZnVuY3Rpb24gdW5kbyhjbSkgewoK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbnB1dFsndGhlb3JlbSddID0gcHJvbXB0KCdFbnRlciByZXdyaXRlIHRoZW9yZW0nKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action CloseEditor</text>
+        <text>action Find</text>
       </register>
     </registers>
     <search>
@@ -372,14 +372,14 @@
         <entry>tabs</entry>
         <entry>tabfirst</entry>
         <entry>Buffers</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action ShowUsages</entry>
         <entry>alskd</entry>
         <entry>nohl</entry>
         <entry>action OptimizeImports</entry>
-        <entry>action Find</entry>
         <entry>register</entry>
         <entry>action CloseEditor</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Find</entry>
       </history-cmd>
       <history-expr />
       <history-input />
