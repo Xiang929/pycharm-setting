@@ -142,11 +142,11 @@
       <file name="C:/PythonProject/final_exam/static/js/index.vue" timestamp="1544670118960">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/vscodePython/holpy/app/static/js/tactics.js" timestamp="1546592757400">
-        <mark key="'" line="307" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="6" column="12" />
-        <mark key="." line="286" column="0" />
+      <file name="C:/vscodePython/holpy/app/static/js/tactics.js" timestamp="1546608731151">
+        <mark key="'" line="309" column="0" />
+        <mark key="[" line="33" column="77" />
+        <mark key="]" line="17" column="68" />
+        <mark key="." line="288" column="0" />
       </file>
       <file name="C:/PythonProject/final_exam/static/css/profile.css" timestamp="1545226875168">
         <mark key="[" line="154" column="0" />
@@ -309,8 +309,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxydG9wXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVhZG9ubHlfbGluZXMK</text>
+      <register name="0" type="4">
+        <text>document.querySelector('.code-cell.selected .output pre');</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">cGVkaXQgbW9kdWxlIHRlc3QgdmVyc2lvbgo=</text>
