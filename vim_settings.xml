@@ -8,7 +8,6 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="C:/vscodePython/holpy/kernel/theory.py" timestamp="1546531910010" />
       <file name="/Python Console" timestamp="1546590913793">
         <mark key="[" line="0" column="0" />
       </file>
@@ -117,11 +116,11 @@
       <file name="C:/PythonProject/final_exam/weibo/views.py" timestamp="1545308212803">
         <mark key="'" line="464" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1546591550371">
+      <file name="/Dummy.txt" timestamp="1546660841639">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="13" />
+        <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
+        <mark key="^" line="0" column="12" />
       </file>
       <file name="C:/PythonProject/final_exam/.gitignore" timestamp="1544604963699">
         <mark key="[" line="0" column="0" />
@@ -313,31 +312,31 @@
         <text>document.querySelector('.code-cell.selected .output pre');</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cGVkaXQgbW9kdWxlIHRlc3QgdmVyc2lvbgo=</text>
+        <text encoding="base64">dGhyZWFkZWQ9VHJ1ZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBlZGl0X2ZsYWcgPSBmYWxzZTsKICAgICAgICBjbGlja19saW5lX251bWJlciA9IC0xOwo=</text>
+        <text encoding="base64">cGVkaXQgbW9kdWxlIHRlc3QgdmVyc2lvbgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZWFkb25seV9saW5lcyA9IFswXTsK</text>
+        <text encoding="base64">ICAgICAgICBlZGl0X2ZsYWcgPSBmYWxzZTsKICAgICAgICBjbGlja19saW5lX251bWJlciA9IC0xOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtb2QgPSAwOwo=</text>
+        <text encoding="base64">ICAgICAgICByZWFkb25seV9saW5lcyA9IFswXTsK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBtb2QgPSAwOwo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBjZWxscyA9IHt9Owo=</text>
       </register>
-      <register name="6" type="8">
+      <register name="7" type="8">
         <text encoding="base64">dmFyIAp2YXIgCnZhciAKdmFyIAp2YXIgCnZhciAKdmFyIA==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="8">
+      <register name="9" type="8">
         <text encoding="base64">dmFyIAp2YXIgCnZhciA=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhciB0aW1lcjsK</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
@@ -348,7 +347,7 @@
       <last-offset />
       <last-pattern encoding="base64">XDxydG9wXD4=</last-pattern>
       <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
