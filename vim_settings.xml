@@ -8,13 +8,13 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1546590913793">
+      <file name="/Python Console" timestamp="1547025413799">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/vscodePython/holpy/server/tactic.py" timestamp="1546590997870">
-        <mark key="[" line="224" column="8" />
-        <mark key="]" line="224" column="15" />
-        <mark key="." line="325" column="26" />
+      <file name="C:/vscodePython/holpy/server/tactic.py" timestamp="1547021699712">
+        <mark key="[" line="230" column="8" />
+        <mark key="]" line="230" column="15" />
+        <mark key="." line="331" column="26" />
       </file>
       <file name="C:/PythonProject/ContractManagement/templates/service/pricing.html" timestamp="1544430807000">
         <mark key="[" line="30" column="0" />
@@ -44,10 +44,11 @@
       <file name="C:/PythonProject/venv_script/final_exam/Lib/site-packages/django_thumbs/db/models.py" timestamp="1544544803304">
         <mark key="[" line="76" column="34" />
       </file>
-      <file name="C:/vscodePython/holpy/app/templates/index.html" timestamp="1545898286207">
-        <mark key="[" line="116" column="0" />
-        <mark key="]" line="116" column="0" />
-        <mark key="." line="116" column="0" />
+      <file name="C:/vscodePython/holpy/app/templates/index.html" timestamp="1547025910809">
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="0" />
+        <mark key="." line="103" column="0" />
+        <mark key="^" line="103" column="0" />
       </file>
       <file name="C:/PythonProject/final_exam/templates/index.html" timestamp="1545307451880">
         <mark key="'" line="238" column="101" />
@@ -90,33 +91,27 @@
         <mark key="^" line="38" column="20" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="C:/vscodePython/holpy/syntax/parser.py" timestamp="1546533886646">
-        <mark key="[" line="222" column="90" />
-        <mark key="]" line="261" column="35" />
-        <mark key="." line="261" column="4" />
-      </file>
-      <file name="C:/vscodePython/holpy/server/tests/tactic_test.py" timestamp="1546241258955">
+      <file name="C:/vscodePython/holpy/syntax/parser.py" timestamp="1547021541980" />
+      <file name="C:/vscodePython/holpy/server/tests/tactic_test.py" timestamp="1547022190835">
         <mark key="[" line="199" column="0" />
         <mark key="]" line="199" column="60" />
         <mark key="." line="199" column="60" />
       </file>
-      <file name="C:/vscodePython/holpy/app.py" timestamp="1546591400536">
+      <file name="C:/vscodePython/holpy/app.py" timestamp="1547025136798">
         <mark key="[" line="12" column="70" />
         <mark key="]" line="12" column="84" />
         <mark key="." line="12" column="71" />
         <mark key="^" line="8" column="51" />
       </file>
-      <file name="C:/vscodePython/holpy/app/__init__.py" timestamp="1546580896633">
-        <mark key="'" line="139" column="8" />
-        <mark key="[" line="156" column="24" />
-        <mark key="]" line="164" column="3" />
-        <mark key="." line="164" column="3" />
-        <mark key="^" line="164" column="3" />
+      <file name="C:/vscodePython/holpy/app/__init__.py" timestamp="1547025410115">
+        <mark key="[" line="55" column="21" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="C:/PythonProject/final_exam/weibo/views.py" timestamp="1545308212803">
         <mark key="'" line="464" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1546660841639">
+      <file name="/Dummy.txt" timestamp="1547025188717">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -141,11 +136,12 @@
       <file name="C:/PythonProject/final_exam/static/js/index.vue" timestamp="1544670118960">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/vscodePython/holpy/app/static/js/tactics.js" timestamp="1546608731151">
-        <mark key="'" line="309" column="0" />
-        <mark key="[" line="33" column="77" />
-        <mark key="]" line="17" column="68" />
-        <mark key="." line="288" column="0" />
+      <file name="C:/vscodePython/holpy/app/static/js/tactics.js" timestamp="1547024808958">
+        <mark key="'" line="32" column="12" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="30" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="306" column="15" />
       </file>
       <file name="C:/PythonProject/final_exam/static/css/profile.css" timestamp="1545226875168">
         <mark key="[" line="154" column="0" />
@@ -164,12 +160,14 @@
         <mark key="^" line="181" column="70" />
         <mark key="." line="155" column="45" />
       </file>
-      <file name="C:/vscodePython/holpy/app/static/js/main.js" timestamp="1546590678866">
+      <file name="C:/vscodePython/holpy/kernel/term.py" timestamp="1547022126628" />
+      <file name="C:/vscodePython/holpy/kernel/tests/proof_test.py" timestamp="1547022167730" />
+      <file name="C:/vscodePython/holpy/app/static/js/main.js" timestamp="1547023781751">
         <mark key="'" line="3" column="17" />
-        <mark key="[" line="91" column="55" />
-        <mark key="]" line="529" column="34" />
-        <mark key="^" line="529" column="34" />
-        <mark key="." line="529" column="34" />
+        <mark key="[" line="590" column="36" />
+        <mark key="]" line="123" column="12" />
+        <mark key="^" line="123" column="12" />
+        <mark key="." line="123" column="12" />
       </file>
       <file name="C:/PythonProject/final_exam/static/js/crf.js" timestamp="1544711315130">
         <mark key="[" line="0" column="0" />
@@ -194,10 +192,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="167" column="43" filename="C:/PythonProject/ContractManagement/templates/myhetong.html" />
-      <jump line="100" column="0" filename="C:/PythonProject/ContractManagement/templates/myhetong.html" />
-      <jump line="130" column="12" filename="C:/PythonProject/ContractManagement/templates/gaihetong.html" />
-      <jump line="163" column="25" filename="C:/PythonProject/ContractManagement/templates/gaihetong.html" />
       <jump line="31" column="33" filename="C:/PythonProject/ContractManagement/templates/myhetong.html" />
       <jump line="28" column="0" filename="C:/PythonProject/ContractManagement/templates/gaihetong.html" />
       <jump line="965" column="4" filename="C:/PythonProject/ContractManagement/templates/gaihetong.html" />
@@ -294,6 +288,10 @@
       <jump line="307" column="0" filename="C:/vscodePython/holpy/app/static/js/tactics.js" />
       <jump line="5" column="8" filename="C:/vscodePython/holpy/app/static/js/main.js" />
       <jump line="3" column="17" filename="C:/vscodePython/holpy/app/static/js/main.js" />
+      <jump line="30" column="8" filename="C:/vscodePython/holpy/app/static/js/tactics.js" />
+      <jump line="288" column="0" filename="C:/vscodePython/holpy/app/static/js/tactics.js" />
+      <jump line="38" column="9" filename="C:/vscodePython/holpy/app/static/js/tactics.js" />
+      <jump line="32" column="12" filename="C:/vscodePython/holpy/app/static/js/tactics.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -303,40 +301,40 @@
         <text encoding="base64">ZnJvbSBmbGFzay5qc29uIGltcG9ydCBqc29uaWZ5Cg==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxydG9wXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>document.querySelector('.code-cell.selected .output pre');</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHZhciBzdGF0dXNfb3V0cHV0ID0gZ2V0X3NlbGVjdGVkX291dHB1dCgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dGhyZWFkZWQ9VHJ1ZQo=</text>
+        <text encoding="base64">ICAgIHggPSByZXF1ZXN0Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cGVkaXQgbW9kdWxlIHRlc3QgdmVyc2lvbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVkaXRfbGluZV9udW1iZXIgPSAtMTsK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBlZGl0X2ZsYWcgPSBmYWxzZTsKICAgICAgICBjbGlja19saW5lX251bWJlciA9IC0xOwo=</text>
+      <register name="3" type="8">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZWFkb25seV9saW5lcyA9IFswXTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtb2QgPSAwOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgiZmFpbGVkIiBpbiByZXN1bHQpIHsKICAgICAgICAgICAgICAgICAgICBzdGF0dXNfb3V0cHV0LmlubmVySFRNTCA9IHJlc3VsdFsiZmFpbGVkIl0gKyAiOiAiICsgcmVzdWx0WyJtZXNzYWdlIl07CiAgICAgICAgICAgICAgICAgICAgc3RhdHVzX291dHB1dC5zdHlsZS5jb2xvciA9ICdyZWQnOwogICAgICAgICAgICAgICAgfSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjZWxscyA9IHt9Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="8">
-        <text encoding="base64">dmFyIAp2YXIgCnZhciAKdmFyIAp2YXIgCnZhciAKdmFyIA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="8">
-        <text encoding="base64">dmFyIAp2YXIgCnZhciA=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHZhciBjZWxscyA9IHt9Owo=</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
@@ -371,12 +369,12 @@
         <entry>tabs</entry>
         <entry>tabfirst</entry>
         <entry>Buffers</entry>
-        <entry>action ShowUsages</entry>
         <entry>alskd</entry>
         <entry>nohl</entry>
         <entry>action OptimizeImports</entry>
         <entry>register</entry>
         <entry>action CloseEditor</entry>
+        <entry>action ShowUsages</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Find</entry>
       </history-cmd>
