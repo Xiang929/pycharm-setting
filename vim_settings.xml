@@ -44,11 +44,11 @@
       <file name="C:/PythonProject/venv_script/final_exam/Lib/site-packages/django_thumbs/db/models.py" timestamp="1544544803304">
         <mark key="[" line="76" column="34" />
       </file>
-      <file name="C:/vscodePython/holpy/app/templates/index.html" timestamp="1547025910809">
-        <mark key="[" line="103" column="0" />
-        <mark key="]" line="103" column="0" />
-        <mark key="." line="103" column="0" />
-        <mark key="^" line="103" column="0" />
+      <file name="C:/vscodePython/holpy/app/templates/index.html" timestamp="1547026996398">
+        <mark key="[" line="104" column="68" />
+        <mark key="]" line="107" column="9" />
+        <mark key="." line="107" column="9" />
+        <mark key="^" line="107" column="9" />
       </file>
       <file name="C:/PythonProject/final_exam/templates/index.html" timestamp="1545307451880">
         <mark key="'" line="238" column="101" />
@@ -57,8 +57,8 @@
         <mark key="." line="9" column="4" />
         <mark key="^" line="181" column="71" />
       </file>
-      <file name="C:/vscodePython/holpy/app/static/css/index.css" timestamp="1545461471756">
-        <mark key="[" line="123" column="0" />
+      <file name="C:/vscodePython/holpy/app/static/css/index.css" timestamp="1547027032459">
+        <mark key="[" line="123" column="23" />
         <mark key="]" line="123" column="0" />
         <mark key="." line="123" column="0" />
       </file>
@@ -301,7 +301,7 @@
         <text encoding="base64">ZnJvbSBmbGFzay5qc29uIGltcG9ydCBqc29uaWZ5Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>scroll</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxydG9wXD4=</text>
