@@ -44,11 +44,10 @@
       <file name="C:/PythonProject/venv_script/final_exam/Lib/site-packages/django_thumbs/db/models.py" timestamp="1544544803304">
         <mark key="[" line="76" column="34" />
       </file>
-      <file name="C:/vscodePython/holpy/app/templates/index.html" timestamp="1547026996398">
-        <mark key="[" line="104" column="68" />
-        <mark key="]" line="107" column="9" />
-        <mark key="." line="107" column="9" />
-        <mark key="^" line="107" column="9" />
+      <file name="C:/vscodePython/holpy/app/templates/index.html" timestamp="1547118153827">
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="0" />
+        <mark key="." line="103" column="0" />
       </file>
       <file name="C:/PythonProject/final_exam/templates/index.html" timestamp="1545307451880">
         <mark key="'" line="238" column="101" />
@@ -91,7 +90,6 @@
         <mark key="^" line="38" column="20" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="C:/vscodePython/holpy/syntax/parser.py" timestamp="1547021541980" />
       <file name="C:/vscodePython/holpy/server/tests/tactic_test.py" timestamp="1547022190835">
         <mark key="[" line="199" column="0" />
         <mark key="]" line="199" column="60" />
@@ -160,8 +158,6 @@
         <mark key="^" line="181" column="70" />
         <mark key="." line="155" column="45" />
       </file>
-      <file name="C:/vscodePython/holpy/kernel/term.py" timestamp="1547022126628" />
-      <file name="C:/vscodePython/holpy/kernel/tests/proof_test.py" timestamp="1547022167730" />
       <file name="C:/vscodePython/holpy/app/static/js/main.js" timestamp="1547023781751">
         <mark key="'" line="3" column="17" />
         <mark key="[" line="590" column="36" />
@@ -310,31 +306,31 @@
         <text encoding="base64">ICAgIHZhciBzdGF0dXNfb3V0cHV0ID0gZ2V0X3NlbGVjdGVkX291dHB1dCgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHggPSByZXF1ZXN0Cg==</text>
+        <text encoding="base64">PGRpdiBjbGFzcz0iY2xlYW4iIHN0eWxlPSJjbGVhcjpib3RoOyI+PC9kaXY+Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIHggPSByZXF1ZXN0Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGVkaXRfbGluZV9udW1iZXIgPSAtMTsK</text>
       </register>
-      <register name="3" type="8">
+      <register name="4" type="8">
         <text encoding="base64">IA==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgiZmFpbGVkIiBpbiByZXN1bHQpIHsKICAgICAgICAgICAgICAgICAgICBzdGF0dXNfb3V0cHV0LmlubmVySFRNTCA9IHJlc3VsdFsiZmFpbGVkIl0gKyAiOiAiICsgcmVzdWx0WyJtZXNzYWdlIl07CiAgICAgICAgICAgICAgICAgICAgc3RhdHVzX291dHB1dC5zdHlsZS5jb2xvciA9ICdyZWQnOwogICAgICAgICAgICAgICAgfSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgiZmFpbGVkIiBpbiByZXN1bHQpIHsKICAgICAgICAgICAgICAgICAgICBzdGF0dXNfb3V0cHV0LmlubmVySFRNTCA9IHJlc3VsdFsiZmFpbGVkIl0gKyAiOiAiICsgcmVzdWx0WyJtZXNzYWdlIl07CiAgICAgICAgICAgICAgICAgICAgc3RhdHVzX291dHB1dC5zdHlsZS5jb2xvciA9ICdyZWQnOwogICAgICAgICAgICAgICAgfSB7Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="8">
+      <register name="8" type="8">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhciBjZWxscyA9IHt9Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
