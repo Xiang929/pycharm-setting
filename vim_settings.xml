@@ -44,10 +44,10 @@
       <file name="C:/PythonProject/venv_script/final_exam/Lib/site-packages/django_thumbs/db/models.py" timestamp="1544544803304">
         <mark key="[" line="76" column="34" />
       </file>
-      <file name="C:/vscodePython/holpy/app/templates/index.html" timestamp="1547118153827">
-        <mark key="[" line="103" column="0" />
-        <mark key="]" line="103" column="0" />
-        <mark key="." line="103" column="0" />
+      <file name="C:/vscodePython/holpy/app/templates/index.html" timestamp="1547119802703">
+        <mark key="[" line="104" column="45" />
+        <mark key="]" line="104" column="45" />
+        <mark key="." line="104" column="45" />
       </file>
       <file name="C:/PythonProject/final_exam/templates/index.html" timestamp="1545307451880">
         <mark key="'" line="238" column="101" />
@@ -56,10 +56,10 @@
         <mark key="." line="9" column="4" />
         <mark key="^" line="181" column="71" />
       </file>
-      <file name="C:/vscodePython/holpy/app/static/css/index.css" timestamp="1547027032459">
-        <mark key="[" line="123" column="23" />
-        <mark key="]" line="123" column="0" />
-        <mark key="." line="123" column="0" />
+      <file name="C:/vscodePython/holpy/app/static/css/index.css" timestamp="1547120496847">
+        <mark key="[" line="3" column="14" />
+        <mark key="]" line="3" column="14" />
+        <mark key="." line="3" column="14" />
       </file>
       <file name="C:/PythonProject/final_exam/final_exam/settings.py" timestamp="1545369018285">
         <mark key="'" line="10" column="2" />
@@ -109,10 +109,10 @@
       <file name="C:/PythonProject/final_exam/weibo/views.py" timestamp="1545308212803">
         <mark key="'" line="464" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547025188717">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1547120825837">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="0" column="13" />
+        <mark key="." line="0" column="13" />
         <mark key="^" line="0" column="12" />
       </file>
       <file name="C:/PythonProject/final_exam/.gitignore" timestamp="1544604963699">
@@ -158,12 +158,12 @@
         <mark key="^" line="181" column="70" />
         <mark key="." line="155" column="45" />
       </file>
-      <file name="C:/vscodePython/holpy/app/static/js/main.js" timestamp="1547023781751">
+      <file name="C:/vscodePython/holpy/app/static/js/main.js" timestamp="1547119892193">
         <mark key="'" line="3" column="17" />
-        <mark key="[" line="590" column="36" />
-        <mark key="]" line="123" column="12" />
-        <mark key="^" line="123" column="12" />
-        <mark key="." line="123" column="12" />
+        <mark key="[" line="11" column="77" />
+        <mark key="]" line="11" column="77" />
+        <mark key="^" line="11" column="77" />
+        <mark key="." line="11" column="77" />
       </file>
       <file name="C:/PythonProject/final_exam/static/js/crf.js" timestamp="1544711315130">
         <mark key="[" line="0" column="0" />
@@ -297,7 +297,7 @@
         <text encoding="base64">ZnJvbSBmbGFzay5qc29uIGltcG9ydCBqc29uaWZ5Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>scroll</text>
+        <text encoding="base64">ICh0ZXN0IHZlcnNpb24p</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxydG9wXD4=</text>
