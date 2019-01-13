@@ -101,11 +101,12 @@
         <mark key="." line="12" column="71" />
         <mark key="^" line="8" column="51" />
       </file>
-      <file name="C:/vscodePython/holpy/app/__init__.py" timestamp="1547373051105">
-        <mark key="[" line="217" column="0" />
-        <mark key="]" line="217" column="0" />
-        <mark key="^" line="217" column="28" />
-        <mark key="." line="217" column="0" />
+      <file name="C:/vscodePython/holpy/app/__init__.py" timestamp="1547373871390">
+        <mark key="'" line="149" column="8" />
+        <mark key="[" line="221" column="39" />
+        <mark key="]" line="221" column="39" />
+        <mark key="^" line="227" column="3" />
+        <mark key="." line="221" column="39" />
       </file>
       <file name="C:/PythonProject/final_exam/weibo/views.py" timestamp="1545308212803">
         <mark key="'" line="464" column="0" />
@@ -185,7 +186,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="33" filename="C:/PythonProject/ContractManagement/templates/myhetong.html" />
       <jump line="28" column="0" filename="C:/PythonProject/ContractManagement/templates/gaihetong.html" />
       <jump line="965" column="4" filename="C:/PythonProject/ContractManagement/templates/gaihetong.html" />
       <jump line="75" column="24" filename="C:/PythonProject/ContractManagement/templates/gaihetong.html" />
@@ -285,6 +285,7 @@
       <jump line="288" column="0" filename="C:/vscodePython/holpy/app/static/js/tactics.js" />
       <jump line="38" column="9" filename="C:/vscodePython/holpy/app/static/js/tactics.js" />
       <jump line="32" column="12" filename="C:/vscodePython/holpy/app/static/js/tactics.js" />
+      <jump line="149" column="8" filename="C:/vscodePython/holpy/app/__init__.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -294,7 +295,7 @@
         <text encoding="base64">ZnJvbSBmbGFzay5qc29uIGltcG9ydCBqc29uaWZ5Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>GET</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxydG9wXD4=</text>
