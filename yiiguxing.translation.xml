@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="feature" />
       <item value="match" />
       <item value="readonly" />
       <item value="indices" />
@@ -50,11 +51,10 @@
       <item value="Clear output" />
       <item value="Clear" />
       <item value="toggle" />
-      <item value="extract" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="62" />
+        <entry key="CHINESE" value="63" />
         <entry key="ENGLISH" value="63" />
         <entry key="ESTONIAN" value="1" />
         <entry key="LATIN" value="1" />
