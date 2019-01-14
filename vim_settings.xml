@@ -136,12 +136,12 @@
       <file name="C:/PythonProject/final_exam/static/js/index.vue" timestamp="1544670118960">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/vscodePython/holpy/app/static/js/tactics.js" timestamp="1547024808958">
+      <file name="C:/vscodePython/holpy/app/static/js/tactics.js" timestamp="1547434495481">
         <mark key="'" line="32" column="12" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="30" />
-        <mark key="." line="37" column="0" />
-        <mark key="^" line="306" column="15" />
+        <mark key="[" line="292" column="24" />
+        <mark key="]" line="291" column="0" />
+        <mark key="." line="291" column="0" />
+        <mark key="^" line="291" column="0" />
       </file>
       <file name="C:/PythonProject/final_exam/static/css/profile.css" timestamp="1545226875168">
         <mark key="[" line="154" column="0" />
@@ -301,7 +301,7 @@
         <text encoding="base64">XDxydG9wXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0ZSA9IFByb29mU3RhdGUuaW5pdF9zdGF0ZShbQSwgQl0sIFtkaXNqKEEsIEIpXSwgZGlzaihCLCBBKSkKICAgICAgICB0aHMgPSBzdGF0ZS5hcHBseV9iYWNrd2FyZF9zdGVwX3RobXMoIlMxIiwgcHJldnM9WyJBMSJdKQo=</text>
+        <text encoding="base64">ICAgICQoZG9jdW1lbnQpLnJlYWR5KGZ1bmN0aW9uICgpIHsKICAgICAgICB2YXIgbGluZSA9IGNtLmdldExpbmUoZWRpdF9saW5lX251bWJlcik7CiAgICAgICAgdmFyIGlucHV0ID0gewogICAgICAgICAgICAnaWQnOiBnZXRfc2VsZWN0ZWRfaWQoKSwKICAgICAgICAgICAgJ2xpbmUnOiBsaW5lCiAgICAgICAgfTsKICAgICAgICB2YXIgZGF0YSA9IEpTT04uc3RyaW5naWZ5KGlucHV0KTsKICAgICAgICBkaXNwbGF5X3J1bm5pbmcoKTsKCiAgICAgICAgJC5hamF4KHsKICAgICAgICAgICAgdXJsOiAiL2FwaS9zZXQtbGluZSIsCiAgICAgICAgICAgIHR5cGU6ICJQT1NUIiwKICAgICAgICAgICAgZGF0YTogZGF0YSwKICAgICAgICAgICAgc3VjY2VzczogZnVuY3Rpb24gKHJlc3VsdCkgewogICAgICAgICAgICAgICAgZGlzcGxheV9jaGVja2VkX3Byb29mKHJlc3VsdCk7CiAgICAgICAgICAgIH0KICAgICAgICB9KQogICAgfSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">QGFwcC5yb3V0ZSgnL2FwaS9zYXZlX3Byb29mJykK</text>
