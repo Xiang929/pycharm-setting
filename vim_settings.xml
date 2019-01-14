@@ -101,12 +101,12 @@
         <mark key="." line="12" column="71" />
         <mark key="^" line="8" column="51" />
       </file>
-      <file name="C:/vscodePython/holpy/app/__init__.py" timestamp="1547454047805">
+      <file name="C:/vscodePython/holpy/app/__init__.py" timestamp="1547459991237">
         <mark key="'" line="124" column="0" />
-        <mark key="[" line="235" column="30" />
-        <mark key="]" line="235" column="30" />
-        <mark key="^" line="131" column="64" />
-        <mark key="." line="235" column="30" />
+        <mark key="[" line="231" column="11" />
+        <mark key="]" line="231" column="12" />
+        <mark key="^" line="231" column="26" />
+        <mark key="." line="231" column="12" />
       </file>
       <file name="C:/PythonProject/final_exam/weibo/views.py" timestamp="1545308212803">
         <mark key="'" line="464" column="0" />
@@ -298,7 +298,7 @@
         <text encoding="base64">ZnJvbSBmbGFzay5qc29uIGltcG9ydCBqc29uaWZ5Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>, 404</text>
+        <text>cell.apply_backward_step(target_id, ths[0][0], prevs=conclusion_id)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxydG9wXD4=</text>
