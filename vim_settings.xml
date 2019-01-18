@@ -141,12 +141,12 @@
       <file name="C:/PythonProject/final_exam/static/js/index.vue" timestamp="1544670118960">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/vscodePython/holpy/app/static/js/tactics.js" timestamp="1547794350615">
+      <file name="C:/vscodePython/holpy/app/static/js/tactics.js" timestamp="1547796590881">
         <mark key="'" line="22" column="10" />
-        <mark key="[" line="375" column="10" />
-        <mark key="]" line="374" column="11" />
-        <mark key="." line="374" column="11" />
-        <mark key="^" line="374" column="11" />
+        <mark key="[" line="141" column="0" />
+        <mark key="]" line="144" column="68" />
+        <mark key="." line="141" column="0" />
+        <mark key="^" line="197" column="23" />
       </file>
       <file name="C:/PythonProject/final_exam/static/css/profile.css" timestamp="1545226875168">
         <mark key="[" line="154" column="0" />
@@ -165,11 +165,11 @@
         <mark key="^" line="181" column="70" />
         <mark key="." line="155" column="45" />
       </file>
-      <file name="C:/vscodePython/holpy/app/static/js/main.js" timestamp="1547794851440">
+      <file name="C:/vscodePython/holpy/app/static/js/main.js" timestamp="1547796758456">
         <mark key="'" line="425" column="24" />
-        <mark key="[" line="590" column="5" />
-        <mark key="]" line="408" column="0" />
-        <mark key="." line="408" column="0" />
+        <mark key="[" line="582" column="0" />
+        <mark key="]" line="582" column="26" />
+        <mark key="." line="582" column="0" />
       </file>
       <file name="C:/PythonProject/final_exam/static/js/crf.js" timestamp="1544711315130">
         <mark key="[" line="0" column="0" />
@@ -303,40 +303,40 @@
         <text encoding="base64">ZnJvbSBmbGFzay5qc29uIGltcG9ydCBqc29uaWZ5Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>/api/apply-induction</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxydG9wXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Lm1hdGNoLXRobSA+IHByZTpudGgtY2hpbGQoMSkgewogICAgZm9udC13ZWlnaHQ6IGJvbGQ7CiAgICBmb250LXNpemU6IDE1cHg7CiAgICBjb2xvcjogYmx1ZTsKICAgIHBhZGRpbmc6IDEwcHggMHB4IDFweCAzOXB4Owp9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGRhdGEgPSB7CiAgICAgICAgICAgICAgICAnaWQnOiBnZXRfc2VsZWN0ZWRfaWQoKSwKICAgICAgICAgICAgICAgICdsaW5lX2lkJzogY2VsbHNbZ2V0X3NlbGVjdGVkX2lkKCldWydwcm9vZiddW2NsaWNrX2xpbmVfbnVtYmVyXVsnaWQnXSwKICAgICAgICAgICAgICAgICd0aGVvcmVtJzogdGhlb3JlbSwKICAgICAgICAgICAgfTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2xlYXJfbWF0Y2hfdGhtKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAkKCcubWF0Y2gtdGhtJykub24oJ2NsaWNrJywgJ2EnLCBmdW5jdGlvbiAoKSB7CiAgICAgICBhcHBseV9iYWNrd2FyZF9zdGVwKGdldF9zZWxlY3RlZF9lZGl0b3IoKSk7CiAgICB9KTsK</text>
+        <text encoding="base64">ICAgIHZhciB0aXRsZSA9ICcnOwogICAgdmFyIGlkID0gZ2V0X3NlbGVjdGVkX2lkKCk7CiAgICB2YXIgY2xpY2tfbGluZV9udW1iZXIgPSBjZWxsc1tpZF0uY2xpY2tfbGluZV9udW1iZXI7CiAgICB2YXIgY3RybF9jbGlja19saW5lX251bWJlcnMgPSBjZWxsc1tpZF0uY3RybF9jbGlja19saW5lX251bWJlcnM7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZvbnQtd2VpZ2h0OiBib2xkOwo=</text>
+        <text encoding="base64">ICAgICAgICB2YXIgZGF0YSA9IHsKICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbG9yOiBibHVlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmc6IDEwcHggMHB4IDFweCAzOXB4Owp9Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGkgPT09IDApCg==</text>
+        <text encoding="base64">CiAgICAkKCcubWF0Y2gtdGhtJykub24oJ2NsaWNrJywgJ2EnLCBmdW5jdGlvbiAoKSB7CiAgICAgICBhcHBseV9iYWNrd2FyZF9zdGVwKGdldF9zZWxlY3RlZF9lZGl0b3IoKSk7CiAgICB9KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGJvcmRlci1yYWRpdXM6IDA7Cg==</text>
+        <text encoding="base64">ICAgIGZvbnQtd2VpZ2h0OiBib2xkOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmQtY29sb3I6IHRyYW5zcGFyZW50Owo=</text>
+        <text encoding="base64">ICAgIGNvbG9yOiBibHVlOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbG9yOiBibGFjazsK</text>
+        <text encoding="base64">ICAgIHBhZGRpbmc6IDEwcHggMHB4IDFweCAzOXB4Owp9Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
