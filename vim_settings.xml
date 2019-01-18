@@ -60,11 +60,11 @@
         <mark key="[" line="353" column="0" />
         <mark key="]" line="403" column="0" />
       </file>
-      <file name="C:/vscodePython/holpy/app/static/css/index.css" timestamp="1547794647240">
-        <mark key="[" line="196" column="16" />
-        <mark key="]" line="196" column="17" />
-        <mark key="^" line="195" column="11" />
-        <mark key="." line="196" column="17" />
+      <file name="C:/vscodePython/holpy/app/static/css/index.css" timestamp="1547804314139">
+        <mark key="[" line="204" column="4" />
+        <mark key="]" line="204" column="26" />
+        <mark key="." line="204" column="4" />
+        <mark key="^" line="204" column="3" />
       </file>
       <file name="C:/PythonProject/final_exam/final_exam/settings.py" timestamp="1545369018285">
         <mark key="'" line="10" column="2" />
@@ -141,11 +141,11 @@
       <file name="C:/PythonProject/final_exam/static/js/index.vue" timestamp="1544670118960">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/vscodePython/holpy/app/static/js/tactics.js" timestamp="1547798113815">
+      <file name="C:/vscodePython/holpy/app/static/js/tactics.js" timestamp="1547804074076">
         <mark key="'" line="141" column="0" />
-        <mark key="[" line="397" column="26" />
-        <mark key="]" line="165" column="0" />
-        <mark key="." line="165" column="0" />
+        <mark key="[" line="238" column="0" />
+        <mark key="]" line="240" column="34" />
+        <mark key="." line="238" column="0" />
       </file>
       <file name="C:/PythonProject/final_exam/static/css/profile.css" timestamp="1545226875168">
         <mark key="[" line="154" column="0" />
@@ -164,12 +164,12 @@
         <mark key="^" line="181" column="70" />
         <mark key="." line="155" column="45" />
       </file>
-      <file name="C:/vscodePython/holpy/app/static/js/main.js" timestamp="1547798071116">
-        <mark key="'" line="380" column="6" />
-        <mark key="[" line="114" column="0" />
-        <mark key="]" line="114" column="33" />
-        <mark key="." line="114" column="0" />
-        <mark key="^" line="51" column="16" />
+      <file name="C:/vscodePython/holpy/app/static/js/main.js" timestamp="1547802886916">
+        <mark key="'" line="51" column="12" />
+        <mark key="[" line="56" column="54" />
+        <mark key="]" line="55" column="16" />
+        <mark key="." line="55" column="16" />
+        <mark key="^" line="55" column="16" />
       </file>
       <file name="C:/PythonProject/final_exam/static/js/crf.js" timestamp="1544711315130">
         <mark key="[" line="0" column="0" />
@@ -194,8 +194,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="292" column="20" filename="C:/vscodePython/holpy/server/tactic.py" />
-      <jump line="0" column="0" filename="C:/vscodePython/holpy/server/tactic.py" />
       <jump line="25" column="23" filename="C:/PythonProject/final_exam/static/js/index.js" />
       <jump line="240" column="101" filename="C:/PythonProject/final_exam/templates/index.html" />
       <jump line="54" column="0" filename="C:/vscodePython/holpy/app/templates/index.html" />
@@ -294,6 +292,8 @@
       <jump line="109" column="0" filename="C:/vscodePython/holpy/app/static/js/tactics.js" />
       <jump line="137" column="0" filename="C:/vscodePython/holpy/app/static/js/tactics.js" />
       <jump line="376" column="6" filename="C:/vscodePython/holpy/app/static/js/main.js" />
+      <jump line="138" column="8" filename="C:/vscodePython/holpy/app/static/js/main.js" />
+      <jump line="51" column="12" filename="C:/vscodePython/holpy/app/static/js/main.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -306,48 +306,48 @@
         <text>m</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxydG9wXD4=</text>
+        <text encoding="base64">XDxtYXRjaFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGRhdGEgPSB7CiAgICAgICAgICAgICAgICAnaWQnOiBnZXRfc2VsZWN0ZWRfaWQoKSwKICAgICAgICAgICAgICAgICdsaW5lX2lkJzogY2VsbHNbZ2V0X3NlbGVjdGVkX2lkKCldWydwcm9vZiddW2NsaWNrX2xpbmVfbnVtYmVyXVsnaWQnXSwKICAgICAgICAgICAgICAgICd0aGVvcmVtJzogdGhlb3JlbSwKICAgICAgICAgICAgfTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNlbGxzW2lkXS5jbGlja19saW5lX251bWJlciA9IC0xOwogICAgICAgICAgICAgICAgY2VsbHNbaWRdLmN0cmxfY2xpY2tfbGluZV9udW1iZXJzLmNsZWFyKCk7CiAgICAgICAgICAgICAgICBjbGVhcl9tYXRjaF90aG0oKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlbGV0ZSBjZWxsc1tpZF07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNlbGxzW2lkXS5jbGlja19saW5lX251bWJlciA9IC0xOwogICAgICAgICAgICAgICAgY2VsbHNbaWRdLmN0cmxfY2xpY2tfbGluZV9udW1iZXJzLmNsZWFyKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBpZCA9IGdldF9zZWxlY3RlZF9pZCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNsZWFyX21hdGNoX3RobSgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICQoJy5tYXRjaC10aG0nKS5vbignY2xpY2snLCAnLmJhY2t3YXJkLXN0ZXAnLCBmdW5jdGlvbiAoKSB7CiAgICAgICAgYXBwbHlfYmFja3dhcmRfc3RlcChnZXRfc2VsZWN0ZWRfZWRpdG9yKCkpOwogICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgIHBvaW50ZXItZXZlbnRzOiBub25lOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3RoZW9yZW0nOiBtYXRjaF90aG1fbGlzdFtzZWxlY3RfdGhtXSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZ1bmN0aW9uIGNsZWFyX21hdGNoX3RobSgpIHsKICAgICAgICAkKCcubWF0Y2gtdGhtJykuZW1wdHkoKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmKGlzX3NlbGVjdF90aG0gIT09IC0xKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtYXRjaF90aG1fbGlzdC5wdXNoKCQodGhpcykudGV4dCgpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlbGV0ZSBjZWxsc1tpZF07Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBpZCA9IGdldF9zZWxlY3RlZF9pZCgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2xlYXJfbWF0Y2hfdGhtKCk7Cg==</text>
+        <text encoding="base64">ICAgICQoJy5tYXRjaC10aG0nKS5vbignY2xpY2snLCAnLmJhY2t3YXJkLXN0ZXAnLCBmdW5jdGlvbiAoKSB7CiAgICAgICAgYXBwbHlfYmFja3dhcmRfc3RlcChnZXRfc2VsZWN0ZWRfZWRpdG9yKCkpOwogICAgfSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxydG9wXD4=</last-search>
+      <last-search encoding="base64">XDxtYXRjaFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxydG9wXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxtYXRjaFw+</last-pattern>
       <last-dir>-1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -357,6 +357,7 @@
         <entry encoding="base64">XDx5dWVoZXRvbmdcPg==</entry>
         <entry encoding="base64">XDxib2R5XD4=</entry>
         <entry encoding="base64">XDxydG9wXD4=</entry>
+        <entry encoding="base64">XDxtYXRjaFw+</entry>
       </history-search>
       <history-cmd>
         <entry>action CommentByLineComment</entry>
