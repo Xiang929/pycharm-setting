@@ -165,11 +165,11 @@
         <mark key="^" line="181" column="70" />
         <mark key="." line="155" column="45" />
       </file>
-      <file name="C:/vscodePython/holpy/app/static/js/main.js" timestamp="1547704688005">
+      <file name="C:/vscodePython/holpy/app/static/js/main.js" timestamp="1547786108801">
         <mark key="'" line="273" column="29" />
-        <mark key="[" line="230" column="53" />
-        <mark key="]" line="230" column="53" />
-        <mark key="." line="230" column="53" />
+        <mark key="[" line="422" column="44" />
+        <mark key="]" line="422" column="45" />
+        <mark key="." line="422" column="45" />
         <mark key="^" line="229" column="17" />
       </file>
       <file name="C:/PythonProject/final_exam/static/js/crf.js" timestamp="1544711315130">
@@ -304,7 +304,7 @@
         <text encoding="base64">ZnJvbSBmbGFzay5qc29uIGltcG9ydCBqc29uaWZ5Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxydG9wXD4=</text>
