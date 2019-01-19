@@ -60,7 +60,7 @@
         <mark key="[" line="353" column="0" />
         <mark key="]" line="403" column="0" />
       </file>
-      <file name="C:/vscodePython/holpy/app/static/css/index.css" timestamp="1547804314139">
+      <file name="C:/vscodePython/holpy/app/static/css/index.css" timestamp="1547874714256">
         <mark key="[" line="204" column="4" />
         <mark key="]" line="204" column="26" />
         <mark key="." line="204" column="4" />
@@ -347,7 +347,7 @@
       <last-offset />
       <last-pattern encoding="base64">XDxtYXRjaFw+</last-pattern>
       <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
