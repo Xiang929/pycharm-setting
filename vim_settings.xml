@@ -8,7 +8,7 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1547790523236">
+      <file name="/Python Console" timestamp="1548143586725">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/vscodePython/holpy/server/tactic.py" timestamp="1547448582340">
@@ -106,14 +106,15 @@
         <mark key="." line="12" column="71" />
         <mark key="^" line="8" column="51" />
       </file>
+      <file name="C:/vscodePython/holpy/app/__init__.py" timestamp="1548143856597" />
       <file name="C:/PythonProject/final_exam/weibo/views.py" timestamp="1545308212803">
         <mark key="'" line="464" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548140382090">
+      <file name="/Dummy.txt" timestamp="1548143047516">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="[" line="0" column="17" />
+        <mark key="]" line="0" column="17" />
+        <mark key="." line="0" column="17" />
         <mark key="^" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1547905172979">
@@ -172,8 +173,12 @@
         <mark key="]" line="28" column="2" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="C:/vscodePython/holpy/app/static/js/main.js" timestamp="1548140312174">
+      <file name="C:/vscodePython/holpy/app/static/js/main.js" timestamp="1548142892455">
         <mark key="'" line="0" column="0" />
+        <mark key="[" line="502" column="45" />
+        <mark key="]" line="521" column="41" />
+        <mark key="^" line="521" column="41" />
+        <mark key="." line="521" column="41" />
       </file>
       <file name="C:/PythonProject/ContractManagement/static/sitemedia/css/sweetalert2.min.css" timestamp="1544429898156">
         <mark key="[" line="1560" column="1" />
@@ -302,7 +307,7 @@
         <text encoding="base64">ZnJvbSBmbGFzay5qc29uIGltcG9ydCBqc29uaWZ5Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Merge and update</text>
+        <text>init and reset</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYXRjaFw+</text>
