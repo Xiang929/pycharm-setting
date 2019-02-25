@@ -11,9 +11,9 @@
       <file name="/Python Console" timestamp="1548144497147">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/vscodePython/holpy/server/tactic.py" timestamp="1547448582340">
-        <mark key="[" line="280" column="8" />
-        <mark key="]" line="280" column="31" />
+      <file name="C:/vscodePython/holpy/server/tactic.py" timestamp="1551059735239">
+        <mark key="[" line="458" column="0" />
+        <mark key="]" line="476" column="0" />
         <mark key="." line="337" column="26" />
       </file>
       <file name="C:/PythonProject/ContractManagement/templates/service/pricing.html" timestamp="1544430807000">
@@ -95,9 +95,10 @@
         <mark key="^" line="38" column="20" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="C:/vscodePython/holpy/server/tests/tactic_test.py" timestamp="1547350455263">
-        <mark key="[" line="111" column="0" />
-        <mark key="]" line="112" column="64" />
+      <file name="C:/vscodePython/holpy/server/tests/tactic_test.py" timestamp="1551061465567">
+        <mark key="'" line="27" column="23" />
+        <mark key="[" line="242" column="58" />
+        <mark key="]" line="242" column="94" />
         <mark key="." line="201" column="36" />
       </file>
       <file name="C:/vscodePython/holpy/app.py" timestamp="1547025136798">
@@ -168,7 +169,7 @@
         <mark key="]" line="28" column="2" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="C:/vscodePython/holpy/app/static/js/main.js" timestamp="1548142892455">
+      <file name="C:/vscodePython/holpy/app/static/js/main.js" timestamp="1551061672149">
         <mark key="'" line="0" column="0" />
       </file>
       <file name="C:/PythonProject/ContractManagement/static/sitemedia/css/sweetalert2.min.css" timestamp="1544429898156">
@@ -189,7 +190,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="272" column="16" filename="C:/PythonProject/final_exam/weibo/views.py" />
       <jump line="453" column="45" filename="C:/PythonProject/final_exam/weibo/views.py" />
       <jump line="46" column="61" filename="C:/PythonProject/final_exam/weibo/models.py" />
       <jump line="324" column="46" filename="C:/vscodePython/holpy/app/static/js/main.js" />
@@ -289,6 +289,7 @@
       <jump line="523" column="22" filename="C:/vscodePython/holpy/app/static/js/main.js" />
       <jump line="0" column="0" filename="C:/vscodePython/holpy/app/static/js/main.js" />
       <jump line="31" column="30" filename="C:/vscodePython/holpy/app/static/js/main.js" />
+      <jump line="27" column="23" filename="C:/vscodePython/holpy/server/tests/tactic_test.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -303,8 +304,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxtYXRjaFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmYWN0X2lkID0gZmFjdF9pZC5zbGljZSgwLCBmYWN0X2lkLmxlbmd0aCAtIDIpOwo=</text>
+      <register name="0" type="4">
+        <text>Thm.mk_equals(nat.plus(n,nat.zero),n)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>

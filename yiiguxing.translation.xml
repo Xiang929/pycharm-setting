@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Apply an existing equality theorem to the given goal." />
       <item value="is others" />
       <item value="定理" />
       <item value="Theroem" />
@@ -50,12 +51,11 @@
       <item value="exsits" />
       <item value="password sign up" />
       <item value="Landing Form" />
-      <item value="Email Addres" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="65" />
-        <entry key="ENGLISH" value="66" />
+        <entry key="CHINESE" value="66" />
+        <entry key="ENGLISH" value="67" />
         <entry key="ESTONIAN" value="1" />
         <entry key="LATIN" value="1" />
       </map>
