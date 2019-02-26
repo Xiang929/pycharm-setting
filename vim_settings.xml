@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="C:/vscodePython/holpy/app/static/codemirror-5.41.0/addon/fold/indent-fold.js" timestamp="1551179177868" />
       <file name="/Python Console" timestamp="1548144497147">
         <mark key="[" line="0" column="0" />
       </file>
@@ -80,6 +81,9 @@
       <file name="C:/PythonProject/final_exam/weibo/views.py" timestamp="1545308212803">
         <mark key="'" line="464" column="0" />
       </file>
+      <file name="C:/vscodePython/holpy/app/static/codemirror-5.41.0/mode/python/python.js" timestamp="1551179206228">
+        <mark key="'" line="34" column="56" />
+      </file>
       <file name="/Dummy.txt" timestamp="1548147573225">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="17" />
@@ -143,7 +147,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="453" column="45" filename="C:/PythonProject/final_exam/weibo/views.py" />
       <jump line="46" column="61" filename="C:/PythonProject/final_exam/weibo/models.py" />
       <jump line="324" column="46" filename="C:/vscodePython/holpy/app/static/js/main.js" />
       <jump line="105" column="7" filename="C:/PythonProject/final_exam/static/js/index.js" />
@@ -243,6 +246,7 @@
       <jump line="0" column="0" filename="C:/vscodePython/holpy/app/static/js/main.js" />
       <jump line="31" column="30" filename="C:/vscodePython/holpy/app/static/js/main.js" />
       <jump line="27" column="23" filename="C:/vscodePython/holpy/server/tests/tactic_test.py" />
+      <jump line="34" column="56" filename="C:/vscodePython/holpy/app/static/codemirror-5.41.0/mode/python/python.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -288,7 +292,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGlkeCAgYXJyLnNpemUgLSAxKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action Find</text>
       </register>
     </registers>
     <search>
@@ -326,9 +330,9 @@
         <entry>action OptimizeImports</entry>
         <entry>action CloseEditor</entry>
         <entry>register</entry>
-        <entry>action Find</entry>
         <entry>action ShowUsages</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action Find</entry>
       </history-cmd>
       <history-expr />
       <history-input />
