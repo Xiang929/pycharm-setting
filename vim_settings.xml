@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/vscodePython/holpy/app/static/codemirror-5.41.0/addon/fold/indent-fold.js" timestamp="1551179177868" />
+      <file name="C:/vscodePython/holpy/app/static/codemirror-5.41.0/addon/fold/indent-fold.js" timestamp="1551180842323" />
       <file name="/Python Console" timestamp="1548144497147">
         <mark key="[" line="0" column="0" />
       </file>
@@ -127,12 +127,22 @@
         <mark key="^" line="181" column="70" />
         <mark key="." line="155" column="45" />
       </file>
+      <file name="C:/vscodePython/holpy/app/static/codemirror-5.41.0/addon/fold/xml-fold.js" timestamp="1551180593209">
+        <mark key="[" line="150" column="13" />
+        <mark key="]" line="150" column="27" />
+      </file>
       <file name="C:/vscodePython/holpy/app/static/js/main.js" timestamp="1551099553097">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="710" column="71" />
         <mark key="]" line="710" column="72" />
         <mark key="." line="710" column="72" />
         <mark key="^" line="710" column="72" />
+      </file>
+      <file name="C:/vscodePython/holpy/app/static/codemirror-5.41.0/lib/codemirror.js" timestamp="1551180639880">
+        <mark key="[" line="8588" column="20" />
+        <mark key="]" line="8588" column="20" />
+        <mark key="." line="8588" column="20" />
+        <mark key="^" line="8588" column="20" />
       </file>
       <file name="/index.html" timestamp="1545450640646">
         <mark key="[" line="79" column="0" />
@@ -256,13 +266,13 @@
         <text encoding="base64">ZnJvbSBmbGFzay5qc29uIGltcG9ydCBqc29uaWZ5Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYXRjaFw+</text>
       </register>
       <register name="0" type="4">
-        <text>Thm.mk_equals(nat.plus(n,nat.zero),n)</text>
+        <text>findMatchingTag</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZm9sZEd1dHRlcjogdHJ1ZSwK</text>
@@ -292,7 +302,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGlkeCAgYXJyLnNpemUgLSAxKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Find</text>
+        <text>action ShowUsages</text>
       </register>
     </registers>
     <search>
@@ -330,9 +340,9 @@
         <entry>action OptimizeImports</entry>
         <entry>action CloseEditor</entry>
         <entry>register</entry>
-        <entry>action ShowUsages</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Find</entry>
+        <entry>action ShowUsages</entry>
       </history-cmd>
       <history-expr />
       <history-input />
