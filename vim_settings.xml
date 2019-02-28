@@ -131,12 +131,12 @@
         <mark key="[" line="150" column="13" />
         <mark key="]" line="150" column="27" />
       </file>
-      <file name="C:/vscodePython/holpy/app/static/js/main.js" timestamp="1551343315397">
+      <file name="C:/vscodePython/holpy/app/static/js/main.js" timestamp="1551348278771">
         <mark key="'" line="850" column="28" />
-        <mark key="[" line="710" column="71" />
-        <mark key="]" line="710" column="72" />
-        <mark key="." line="710" column="72" />
-        <mark key="^" line="710" column="72" />
+        <mark key="[" line="991" column="0" />
+        <mark key="]" line="991" column="0" />
+        <mark key="." line="991" column="0" />
+        <mark key="^" line="999" column="46" />
       </file>
       <file name="C:/vscodePython/holpy/app/static/codemirror-5.41.0/lib/codemirror.js" timestamp="1551180639880">
         <mark key="[" line="8588" column="20" />
@@ -266,40 +266,40 @@
         <text encoding="base64">ZnJvbSBmbGFzay5qc29uIGltcG9ydCBqc29uaWZ5Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>else{</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYXRjaFw+</text>
       </register>
-      <register name="0" type="4">
-        <text>findMatchingTag</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY20uZ2V0QWxsTWFya3MoKS5mb3JFYWNoKGUgPT4gewogICAgICAgICAgICAgICAgaWYgKGUuY3NzICE9PSB1bmRlZmluZWQpCiAgICAgICAgICAgICAgICAgICAgaWYgKGUuY3NzLmluZGV4T2YoJ2JhY2tncm91bmQnKSAhPT0gLTEpCiAgICAgICAgICAgICAgICAgICAgICAgIGUuY2xlYXIoKTsKICAgICAgICAgICAgfSk7CiAgICAgICAgICAgIGNlbGxzW2lkXS5jbGlja19saW5lX251bWJlciA9IC0xOwogICAgICAgICAgICBjZWxsc1tpZF0uY3RybF9jbGlja19saW5lX251bWJlcnMuY2xlYXIoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9sZEd1dHRlcjogdHJ1ZSwK</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PGxpbmsgcmVsPSJzdHlsZXNoZWV0IiBocmVmPSIuLi9zdGF0aWMvY29kZW1pcnJvci01LjQxLjAvYWRkb24vZm9sZC9mb2xkZ3V0dGVyLmNzcyI+CjxzY3JpcHQgc3JjPSIuLi9zdGF0aWMvY29kZW1pcnJvci01LjQxLjAvYWRkb24vZm9sZC9mb2xkY29kZS5qcyI+PC9zY3JpcHQ+CjxzY3JpcHQgc3JjPSIuLi9zdGF0aWMvY29kZW1pcnJvci01LjQxLjAvYWRkb24vZm9sZC9mb2xkZ3V0dGVyLmpzIj48L3NjcmlwdD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgY20uZ2V0QWxsTWFya3MoKS5mb3JFYWNoKGUgPT4gewogICAgICAgICAgICAgICAgaWYgKGUuY3NzICE9PSB1bmRlZmluZWQpCiAgICAgICAgICAgICAgICAgICAgaWYgKGUuY3NzLmluZGV4T2YoJ2JhY2tncm91bmQnKSAhPT0gLTEpCiAgICAgICAgICAgICAgICAgICAgICAgIGUuY2xlYXIoKTsKICAgICAgICAgICAgfSk7CiAgICAgICAgICAgIGNlbGxzW2lkXS5jbGlja19saW5lX251bWJlciA9IC0xOwogICAgICAgICAgICBjZWxsc1tpZF0uY3RybF9jbGlja19saW5lX251bWJlcnMuY2xlYXIoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9sZEd1dHRlcjogdHJ1ZSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChpZHggIT09IGFyci5zaXplKQo=</text>
+        <text encoding="base64">PGxpbmsgcmVsPSJzdHlsZXNoZWV0IiBocmVmPSIuLi9zdGF0aWMvY29kZW1pcnJvci01LjQxLjAvYWRkb24vZm9sZC9mb2xkZ3V0dGVyLmNzcyI+CjxzY3JpcHQgc3JjPSIuLi9zdGF0aWMvY29kZW1pcnJvci01LjQxLjAvYWRkb24vZm9sZC9mb2xkY29kZS5qcyI+PC9zY3JpcHQ+CjxzY3JpcHQgc3JjPSIuLi9zdGF0aWMvY29kZW1pcnJvci01LjQxLjAvYWRkb24vZm9sZC9mb2xkZ3V0dGVyLmpzIj48L3NjcmlwdD4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmYWN0X2lkICs9ICcnICsgY2VsbHNbZ2V0X3NlbGVjdGVkX2lkKCldWydwcm9vZiddW3ZhbF1bJ2lkJ107Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25jbHVzaW9uICs9ICcnICsgKHZhbCArIDEpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChpZHggIT09IGFyci5zaXplKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsc2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmYWN0X2lkICs9ICcnICsgY2VsbHNbZ2V0X3NlbGVjdGVkX2lkKCldWydwcm9vZiddW3ZhbF1bJ2lkJ107Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChpZHggIT09IGFyci5zaXplIC0gMSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25jbHVzaW9uICs9ICcnICsgKHZhbCArIDEpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGlkeCAgYXJyLnNpemUgLSAxKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsc2UK</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
