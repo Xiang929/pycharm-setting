@@ -73,9 +73,9 @@
         <mark key="]" line="242" column="94" />
         <mark key="." line="201" column="36" />
       </file>
-      <file name="C:/vscodePython/holpy/app.py" timestamp="1547025136798">
-        <mark key="[" line="12" column="70" />
-        <mark key="]" line="12" column="84" />
+      <file name="C:/vscodePython/holpy/app.py" timestamp="1551602904794">
+        <mark key="[" line="12" column="73" />
+        <mark key="]" line="12" column="85" />
         <mark key="." line="12" column="71" />
         <mark key="^" line="8" column="51" />
       </file>
@@ -138,12 +138,12 @@
         <mark key="[" line="150" column="13" />
         <mark key="]" line="150" column="27" />
       </file>
-      <file name="C:/vscodePython/holpy/app/static/js/main.js" timestamp="1551600445275">
+      <file name="C:/vscodePython/holpy/app/static/js/main.js" timestamp="1551602771247">
         <mark key="'" line="73" column="12" />
-        <mark key="[" line="855" column="26" />
-        <mark key="]" line="855" column="30" />
-        <mark key="." line="855" column="30" />
-        <mark key="^" line="855" column="30" />
+        <mark key="[" line="855" column="69" />
+        <mark key="]" line="855" column="69" />
+        <mark key="." line="855" column="69" />
+        <mark key="^" line="855" column="15" />
       </file>
       <file name="C:/vscodePython/holpy/app/static/codemirror-5.41.0/lib/codemirror.js" timestamp="1551180639880">
         <mark key="[" line="8588" column="20" />
@@ -273,13 +273,13 @@
         <text encoding="base64">ZnJvbSBmbGFzay5qc29uIGltcG9ydCBqc29uaWZ5Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>select_thm</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYXRjaFw+</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">Lm1hdGNoLXRobSAuYWJzX3RobSA+IHByZSA=</text>
+        <text>threaded=True</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">PHNjcmlwdCBzcmM9Ii4uL3N0YXRpYy9jb2RlbWlycm9yLTUuNDEuMC9hZGRvbi9mb2xkL2JyYWNlLWZvbGQuanMiPjwvc2NyaXB0Pgo=</text>
@@ -309,7 +309,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action CloseEditor</text>
+        <text>action Find</text>
       </register>
     </registers>
     <search>
@@ -348,8 +348,8 @@
         <entry>register</entry>
         <entry>action ShowUsages</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action Find</entry>
         <entry>action CloseEditor</entry>
+        <entry>action Find</entry>
       </history-cmd>
       <history-expr />
       <history-input />
