@@ -139,12 +139,12 @@
         <mark key="[" line="150" column="13" />
         <mark key="]" line="150" column="27" />
       </file>
-      <file name="C:/vscodePython/holpy/app/static/js/main.js" timestamp="1551602771247">
+      <file name="C:/vscodePython/holpy/app/static/js/main.js" timestamp="1551624894205">
         <mark key="'" line="73" column="12" />
-        <mark key="[" line="855" column="69" />
-        <mark key="]" line="855" column="69" />
-        <mark key="." line="855" column="69" />
-        <mark key="^" line="855" column="15" />
+        <mark key="[" line="994" column="102" />
+        <mark key="]" line="993" column="83" />
+        <mark key="." line="993" column="83" />
+        <mark key="^" line="993" column="83" />
       </file>
       <file name="C:/vscodePython/holpy/app/static/codemirror-5.41.0/lib/codemirror.js" timestamp="1551180639880">
         <mark key="[" line="8588" column="20" />
@@ -279,38 +279,38 @@
       <register name="/" type="4">
         <text encoding="base64">XDxtYXRjaFw+</text>
       </register>
-      <register name="0" type="4">
-        <text>threaded=True</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY2VsbHNbaWRdLmN0cmxfY2xpY2tfbGluZV9udW1iZXJzLmFkZChsaW5lX251bSk7CiAgICAgICAgICAgIGlzX2N0cmxfY2xpY2sgPSBmYWxzZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9Ii4uL3N0YXRpYy9jb2RlbWlycm9yLTUuNDEuMC9hZGRvbi9mb2xkL2JyYWNlLWZvbGQuanMiPjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhciBpZCA9IGdldF9zZWxlY3RlZF9pZCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2VsbHNbaWRdLmN0cmxfY2xpY2tfbGluZV9udW1iZXJzLmFkZChsaW5lX251bSk7CiAgICAgICAgICAgIGlzX2N0cmxfY2xpY2sgPSBmYWxzZTsK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICBpZihzZWxlY3RfdGhtID09PSAtMSkKICAgICAgICAgICB0aGVvcmVtID0gbWF0Y2hfdGhtX2xpc3Q=</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICBjbS5nZXRBbGxNYXJrcygpLmZvckVhY2goZSA9PiB7CiAgICAgICAgICAgIGlmIChlLmNzcyAhPT0gdW5kZWZpbmVkKQogICAgICAgICAgICAgICAgaWYgKGUuY3NzLmluZGV4T2YoJ2JhY2tncm91bmQnKSAhPT0gLTEpCiAgICAgICAgICAgICAgICAgICAgZS5jbGVhcigpOwogICAgICAgIH0pOwogICAgICAgIGNlbGxzW2lkXS5jbGlja19saW5lX251bWJlciA9IC0xOwogICAgICAgIGNlbGxzW2lkXS5jdHJsX2NsaWNrX2xpbmVfbnVtYmVycy5jbGVhcigpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY20uZ2V0QWxsTWFya3MoKS5mb3JFYWNoKGUgPT4gewogICAgICAgICAgICAgICAgaWYgKGUuY3NzICE9PSB1bmRlZmluZWQpCiAgICAgICAgICAgICAgICAgICAgaWYgKGUuY3NzLmluZGV4T2YoJ2JhY2tncm91bmQnKSAhPT0gLTEpCiAgICAgICAgICAgICAgICAgICAgICAgIGUuY2xlYXIoKTsKICAgICAgICAgICAgfSk7CiAgICAgICAgICAgIGNlbGxzW2lkXS5jbGlja19saW5lX251bWJlciA9IC0xOwogICAgICAgICAgICBjZWxsc1tpZF0uY3RybF9jbGlja19saW5lX251bWJlcnMuY2xlYXIoKTsK</text>
+        <text encoding="base64">PHNjcmlwdCBzcmM9Ii4uL3N0YXRpYy9jb2RlbWlycm9yLTUuNDEuMC9hZGRvbi9mb2xkL2JyYWNlLWZvbGQuanMiPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9sZEd1dHRlcjogdHJ1ZSwK</text>
+        <text encoding="base64">ICAgIHZhciBpZCA9IGdldF9zZWxlY3RlZF9pZCgpOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">PGxpbmsgcmVsPSJzdHlsZXNoZWV0IiBocmVmPSIuLi9zdGF0aWMvY29kZW1pcnJvci01LjQxLjAvYWRkb24vZm9sZC9mb2xkZ3V0dGVyLmNzcyI+CjxzY3JpcHQgc3JjPSIuLi9zdGF0aWMvY29kZW1pcnJvci01LjQxLjAvYWRkb24vZm9sZC9mb2xkY29kZS5qcyI+PC9zY3JpcHQ+CjxzY3JpcHQgc3JjPSIuLi9zdGF0aWMvY29kZW1pcnJvci01LjQxLjAvYWRkb24vZm9sZC9mb2xkZ3V0dGVyLmpzIj48L3NjcmlwdD4K</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICAgICBpZihzZWxlY3RfdGhtID09PSAtMSkKICAgICAgICAgICB0aGVvcmVtID0gbWF0Y2hfdGhtX2xpc3Q=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action Find</text>
       </register>
     </registers>
     <search>
@@ -348,9 +348,9 @@
         <entry>action OptimizeImports</entry>
         <entry>register</entry>
         <entry>action ShowUsages</entry>
+        <entry>action GotoDeclaration</entry>
         <entry>action CloseEditor</entry>
         <entry>action Find</entry>
-        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
