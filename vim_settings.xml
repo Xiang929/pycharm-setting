@@ -110,12 +110,12 @@
         <mark key="[" line="362" column="0" />
         <mark key="]" line="374" column="5" />
       </file>
-      <file name="C:/vscodePython/holpy/app/static/js/tactics.js" timestamp="1551586802614">
+      <file name="C:/vscodePython/holpy/app/static/js/tactics.js" timestamp="1551587925576">
         <mark key="'" line="193" column="12" />
-        <mark key="[" line="274" column="25" />
-        <mark key="]" line="164" column="10" />
-        <mark key="." line="274" column="8" />
-        <mark key="^" line="274" column="8" />
+        <mark key="[" line="274" column="9" />
+        <mark key="]" line="274" column="20" />
+        <mark key="." line="274" column="18" />
+        <mark key="^" line="274" column="18" />
       </file>
       <file name="C:/PythonProject/final_exam/static/js/entrance.js" timestamp="1545188618365">
         <mark key="[" line="102" column="4" />
@@ -133,12 +133,12 @@
         <mark key="[" line="150" column="13" />
         <mark key="]" line="150" column="27" />
       </file>
-      <file name="C:/vscodePython/holpy/app/static/js/main.js" timestamp="1551586847805">
+      <file name="C:/vscodePython/holpy/app/static/js/main.js" timestamp="1551587939010">
         <mark key="'" line="147" column="16" />
-        <mark key="[" line="72" column="34" />
-        <mark key="]" line="72" column="34" />
-        <mark key="." line="72" column="34" />
-        <mark key="^" line="79" column="7" />
+        <mark key="[" line="77" column="14" />
+        <mark key="]" line="77" column="15" />
+        <mark key="." line="77" column="12" />
+        <mark key="^" line="73" column="11" />
       </file>
       <file name="C:/vscodePython/holpy/app/static/codemirror-5.41.0/lib/codemirror.js" timestamp="1551180639880">
         <mark key="[" line="8588" column="20" />
@@ -268,13 +268,13 @@
         <text encoding="base64">ZnJvbSBmbGFzay5qc29uIGltcG9ydCBqc29uaWZ5Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>apply_backward_step</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYXRjaFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkKCcjcmlnaHQnKS5vbignY2xpY2snLCAnLmJhY2t3YXJkLXN0ZXAnLCBmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgIGFwcGx5X2JhY2t3YXJkX3N0ZXAoZ2V0X3NlbGVjdGVkX2VkaXRvcigpLCBpc19vdGhlcnMgPSB0cnVlKTsKICAgICAgICB9KTsKCiAgICAgICAgJCgnI3JpZ2h0Jykub24oJ2NsaWNrJywgJyAuYWJzX3RobS50aG0tY29udGVudCBwcmUnLCBmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgIGFwcGx5X2JhY2t3YXJkX3N0ZXAoZ2V0X3NlbGVjdGVkX2VkaXRvcigpLCBpc19vdGhlcnMgPSBmYWxzZSwgc2VsZWN0X3RobSA9ICQodGhpcykuaW5kZXgoKSk7CiAgICAgICAgfSk7Cg==</text>
+      <register name="0" type="4">
+        <text>rewrite_goal</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
