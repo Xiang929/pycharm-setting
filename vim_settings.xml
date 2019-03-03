@@ -4,7 +4,7 @@
     <globalmarks />
     <filemarks>
       <file name="C:/vscodePython/holpy/app/static/codemirror-5.41.0/addon/fold/indent-fold.js" timestamp="1551601606008" />
-      <file name="/Python Console" timestamp="1548144497147">
+      <file name="/Python Console" timestamp="1551626487210">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/vscodePython/holpy/server/tactic.py" timestamp="1551585729534">
@@ -30,10 +30,10 @@
       <file name="C:/PythonProject/venv_script/final_exam/Lib/site-packages/django_thumbs/db/models.py" timestamp="1544544803304">
         <mark key="[" line="76" column="34" />
       </file>
-      <file name="C:/vscodePython/holpy/app/templates/index.html" timestamp="1551601673164">
-        <mark key="[" line="31" column="76" />
-        <mark key="]" line="32" column="67" />
-        <mark key="." line="32" column="67" />
+      <file name="C:/vscodePython/holpy/app/templates/index.html" timestamp="1551626924073">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
         <mark key="^" line="32" column="67" />
       </file>
       <file name="C:/PythonProject/final_exam/templates/index.html" timestamp="1545307451880">
@@ -73,25 +73,23 @@
         <mark key="]" line="242" column="94" />
         <mark key="." line="201" column="36" />
       </file>
-      <file name="C:/vscodePython/holpy/app.py" timestamp="1551614355554">
-        <mark key="[" line="12" column="73" />
-        <mark key="]" line="12" column="85" />
-        <mark key="." line="12" column="71" />
+      <file name="C:/vscodePython/holpy/app.py" timestamp="1551626985239">
+        <mark key="[" line="12" column="41" />
+        <mark key="]" line="12" column="41" />
+        <mark key="." line="12" column="41" />
         <mark key="^" line="8" column="51" />
       </file>
       <file name="C:/PythonProject/venv_script/holpy/Lib/site-packages/werkzeug/serving.py" timestamp="1551603515228" />
-      <file name="C:/vscodePython/holpy/app/__init__.py" timestamp="1551601625962">
+      <file name="C:/vscodePython/holpy/app/__init__.py" timestamp="1551626667657">
         <mark key="[" line="243" column="14" />
         <mark key="]" line="111" column="11" />
         <mark key="^" line="111" column="11" />
         <mark key="." line="111" column="11" />
       </file>
-      <file name="C:/PythonProject/final_exam/weibo/views.py" timestamp="1545308212803">
-        <mark key="'" line="464" column="0" />
+      <file name="C:/vscodePython/holpy/app/static/codemirror-5.41.0/mode/python/python.js" timestamp="1551628294361">
+        <mark key="'" line="83" column="23" />
       </file>
-      <file name="C:/vscodePython/holpy/app/static/codemirror-5.41.0/mode/python/python.js" timestamp="1551179206228">
-        <mark key="'" line="34" column="56" />
-      </file>
+      <file name="$USER_HOME$/Anaconda3/pkgs/notebook-5.6.0-py37_0/Lib/site-packages/notebook/static/components/codemirror/src/util/StringStream.js" timestamp="1551628464415" />
       <file name="/Dummy.txt" timestamp="1551584062222">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -116,12 +114,12 @@
         <mark key="[" line="362" column="0" />
         <mark key="]" line="374" column="5" />
       </file>
-      <file name="C:/vscodePython/holpy/app/static/js/tactics.js" timestamp="1551601339324">
+      <file name="C:/vscodePython/holpy/app/static/js/tactics.js" timestamp="1551628028719">
         <mark key="'" line="277" column="4" />
-        <mark key="[" line="280" column="18" />
-        <mark key="]" line="280" column="18" />
-        <mark key="." line="280" column="18" />
-        <mark key="^" line="26" column="25" />
+        <mark key="[" line="408" column="25" />
+        <mark key="]" line="408" column="60" />
+        <mark key="." line="408" column="25" />
+        <mark key="^" line="139" column="8" />
       </file>
       <file name="C:/PythonProject/final_exam/static/js/entrance.js" timestamp="1545188618365">
         <mark key="[" line="102" column="4" />
@@ -139,12 +137,12 @@
         <mark key="[" line="150" column="13" />
         <mark key="]" line="150" column="27" />
       </file>
-      <file name="C:/vscodePython/holpy/app/static/js/main.js" timestamp="1551624894205">
-        <mark key="'" line="73" column="12" />
-        <mark key="[" line="994" column="102" />
-        <mark key="]" line="993" column="83" />
-        <mark key="." line="993" column="83" />
-        <mark key="^" line="993" column="83" />
+      <file name="C:/vscodePython/holpy/app/static/js/main.js" timestamp="1551626088501">
+        <mark key="'" line="853" column="33" />
+        <mark key="[" line="994" column="103" />
+        <mark key="]" line="994" column="103" />
+        <mark key="^" line="994" column="103" />
+        <mark key="." line="994" column="103" />
       </file>
       <file name="C:/vscodePython/holpy/app/static/codemirror-5.41.0/lib/codemirror.js" timestamp="1551180639880">
         <mark key="[" line="8588" column="20" />
@@ -165,8 +163,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="112" column="4" filename="C:/PythonProject/final_exam/static/js/index.js" />
-      <jump line="35" column="26" filename="C:/PythonProject/final_exam/templates/entrance.html" />
       <jump line="0" column="0" filename="C:/PythonProject/final_exam/templates/entrance.html" />
       <jump line="94" column="75" filename="C:/PythonProject/final_exam/weibo/views.py" />
       <jump line="78" column="62" filename="C:/PythonProject/final_exam/static/js/index.js" />
@@ -265,6 +261,8 @@
       <jump line="73" column="12" filename="C:/vscodePython/holpy/app/static/js/main.js" />
       <jump line="0" column="21" filename="C:/vscodePython/holpy/app/static/js/tactics.js" />
       <jump line="276" column="4" filename="C:/vscodePython/holpy/app/static/js/tactics.js" />
+      <jump line="853" column="33" filename="C:/vscodePython/holpy/app/static/js/main.js" />
+      <jump line="83" column="23" filename="C:/vscodePython/holpy/app/static/codemirror-5.41.0/mode/python/python.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -274,7 +272,7 @@
         <text encoding="base64">ZnJvbSBmbGFzay5qc29uIGltcG9ydCBqc29uaWZ5Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>F</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYXRjaFw+</text>
@@ -283,31 +281,31 @@
         <text encoding="base64">ICAgICAgICAgICAgY2VsbHNbaWRdLmN0cmxfY2xpY2tfbGluZV9udW1iZXJzLmFkZChsaW5lX251bSk7CiAgICAgICAgICAgIGlzX2N0cmxfY2xpY2sgPSBmYWxzZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PHNjcmlwdCBzcmM9Ii4uL3N0YXRpYy9jb2RlbWlycm9yLTUuNDEuMC9hZGRvbi9mb2xkL2NvbW1lbnQtZm9sZC5qcyI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2VsbHNbaWRdLmN0cmxfY2xpY2tfbGluZV9udW1iZXJzLmFkZChsaW5lX251bSk7CiAgICAgICAgICAgIGlzX2N0cmxfY2xpY2sgPSBmYWxzZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2VsbHNbaWRdLmN0cmxfY2xpY2tfbGluZV9udW1iZXJzLmFkZChsaW5lX251bSk7CiAgICAgICAgICAgIGlzX2N0cmxfY2xpY2sgPSBmYWxzZTsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjbS5nZXRBbGxNYXJrcygpLmZvckVhY2goZSA9PiB7CiAgICAgICAgICAgIGlmIChlLmNzcyAhPT0gdW5kZWZpbmVkKQogICAgICAgICAgICAgICAgaWYgKGUuY3NzLmluZGV4T2YoJ2JhY2tncm91bmQnKSAhPT0gLTEpCiAgICAgICAgICAgICAgICAgICAgZS5jbGVhcigpOwogICAgICAgIH0pOwogICAgICAgIGNlbGxzW2lkXS5jbGlja19saW5lX251bWJlciA9IC0xOwogICAgICAgIGNlbGxzW2lkXS5jdHJsX2NsaWNrX2xpbmVfbnVtYmVycy5jbGVhcigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9Ii4uL3N0YXRpYy9jb2RlbWlycm9yLTUuNDEuMC9hZGRvbi9mb2xkL2JyYWNlLWZvbGQuanMiPjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">ICAgICAgICBjbS5nZXRBbGxNYXJrcygpLmZvckVhY2goZSA9PiB7CiAgICAgICAgICAgIGlmIChlLmNzcyAhPT0gdW5kZWZpbmVkKQogICAgICAgICAgICAgICAgaWYgKGUuY3NzLmluZGV4T2YoJ2JhY2tncm91bmQnKSAhPT0gLTEpCiAgICAgICAgICAgICAgICAgICAgZS5jbGVhcigpOwogICAgICAgIH0pOwogICAgICAgIGNlbGxzW2lkXS5jbGlja19saW5lX251bWJlciA9IC0xOwogICAgICAgIGNlbGxzW2lkXS5jdHJsX2NsaWNrX2xpbmVfbnVtYmVycy5jbGVhcigpOwo=</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">PHNjcmlwdCBzcmM9Ii4uL3N0YXRpYy9jb2RlbWlycm9yLTUuNDEuMC9hZGRvbi9mb2xkL2JyYWNlLWZvbGQuanMiPjwvc2NyaXB0Pgo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHZhciBpZCA9IGdldF9zZWxlY3RlZF9pZCgpOwo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CiAgICAgICBpZihzZWxlY3RfdGhtID09PSAtMSkKICAgICAgICAgICB0aGVvcmVtID0gbWF0Y2hfdGhtX2xpc3Q=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
@@ -348,8 +346,8 @@
         <entry>action OptimizeImports</entry>
         <entry>register</entry>
         <entry>action ShowUsages</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action CloseEditor</entry>
+        <entry>action GotoDeclaration</entry>
         <entry>action Find</entry>
       </history-cmd>
       <history-expr />
