@@ -7,9 +7,9 @@
       <file name="/Python Console" timestamp="1551626487210">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/vscodePython/holpy/server/tactic.py" timestamp="1551585729534">
-        <mark key="[" line="397" column="0" />
-        <mark key="]" line="458" column="24" />
+      <file name="C:/vscodePython/holpy/server/tactic.py" timestamp="1551666665497">
+        <mark key="[" line="380" column="5" />
+        <mark key="]" line="384" column="55" />
         <mark key="." line="337" column="26" />
       </file>
       <file name="/a.dummy" timestamp="1545190649272">
@@ -112,7 +112,7 @@
         <mark key="[" line="150" column="13" />
         <mark key="]" line="150" column="27" />
       </file>
-      <file name="C:/vscodePython/holpy/app/static/js/main.js" timestamp="1551626088501">
+      <file name="C:/vscodePython/holpy/app/static/js/main.js" timestamp="1551666655639">
         <mark key="'" line="853" column="33" />
         <mark key="[" line="994" column="103" />
         <mark key="]" line="994" column="103" />
@@ -245,8 +245,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxtYXRjaFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2VsbHNbaWRdLmN0cmxfY2xpY2tfbGluZV9udW1iZXJzLmFkZChsaW5lX251bSk7CiAgICAgICAgICAgIGlzX2N0cmxfY2xpY2sgPSBmYWxzZTsK</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgIiIiSW50cm9kdWNlIGFzc3VtcHRpb25zIGZvciBhIGdvYWwgb2YgdGhlIGZvcm0KCiAgICAgICAgIXhfMSAuLi4geF9rLiBBXzEgLS0+IC4uLiAtLT4gQV9uIC0tPiBDLgoKICAgICAgICBBcmd1bWVudCBuYW1lcyBzcGVjaWZpZXMgbGlzdCBvZiB2YXJpYWJsZSBuYW1lcy4=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Zml4IHByb2JsZW0gd2l0aCBhcHBseV9iYWNrd2FyZF9zdHJwCg==</text>
