@@ -36,13 +36,6 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="32" column="67" />
       </file>
-      <file name="C:/PythonProject/final_exam/templates/index.html" timestamp="1545307451880">
-        <mark key="'" line="238" column="101" />
-        <mark key="[" line="9" column="3" />
-        <mark key="]" line="9" column="4" />
-        <mark key="." line="9" column="4" />
-        <mark key="^" line="181" column="71" />
-      </file>
       <file name="/main.js" timestamp="1547665046163">
         <mark key="[" line="353" column="0" />
         <mark key="]" line="403" column="0" />
@@ -52,20 +45,6 @@
         <mark key="]" line="231" column="14" />
         <mark key="." line="231" column="14" />
         <mark key="^" line="231" column="14" />
-      </file>
-      <file name="C:/PythonProject/final_exam/final_exam/settings.py" timestamp="1545369018285">
-        <mark key="'" line="10" column="2" />
-        <mark key="[" line="24" column="8" />
-        <mark key="]" line="24" column="8" />
-        <mark key="^" line="24" column="12" />
-        <mark key="." line="24" column="8" />
-      </file>
-      <file name="C:/PythonProject/final_exam/templates/entrance.html" timestamp="1545204273447">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="36" />
-        <mark key="^" line="38" column="20" />
-        <mark key="." line="38" column="0" />
       </file>
       <file name="C:/vscodePython/holpy/server/tests/tactic_test.py" timestamp="1551061465567">
         <mark key="'" line="27" column="23" />
@@ -90,12 +69,8 @@
         <mark key="'" line="83" column="23" />
       </file>
       <file name="$USER_HOME$/Anaconda3/pkgs/notebook-5.6.0-py37_0/Lib/site-packages/notebook/static/components/codemirror/src/util/StringStream.js" timestamp="1551628464415" />
-      <file name="/Dummy.txt" timestamp="1551584062222">
-        <mark key="'" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1551629159761">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="17" />
-        <mark key="." line="0" column="17" />
-        <mark key="^" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1547905172979">
         <mark key="[" line="0" column="0" />
@@ -153,13 +128,6 @@
       <file name="/index.html" timestamp="1545450640646">
         <mark key="[" line="79" column="0" />
         <mark key="]" line="88" column="6" />
-      </file>
-      <file name="C:/PythonProject/final_exam/weibo/serializers.py" timestamp="1545238468022">
-        <mark key="'" line="88" column="85" />
-        <mark key="[" line="83" column="4" />
-        <mark key="]" line="83" column="3" />
-        <mark key="." line="83" column="3" />
-        <mark key="^" line="83" column="3" />
       </file>
     </filemarks>
     <jumps>
@@ -281,31 +249,31 @@
         <text encoding="base64">ICAgICAgICAgICAgY2VsbHNbaWRdLmN0cmxfY2xpY2tfbGluZV9udW1iZXJzLmFkZChsaW5lX251bSk7CiAgICAgICAgICAgIGlzX2N0cmxfY2xpY2sgPSBmYWxzZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9Ii4uL3N0YXRpYy9jb2RlbWlycm9yLTUuNDEuMC9hZGRvbi9mb2xkL2NvbW1lbnQtZm9sZC5qcyI+PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">Zml4IHByb2JsZW0gd2l0aCBhcHBseV9iYWNrd2FyZF9zdHJwCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PHNjcmlwdCBzcmM9Ii4uL3N0YXRpYy9jb2RlbWlycm9yLTUuNDEuMC9hZGRvbi9mb2xkL2NvbW1lbnQtZm9sZC5qcyI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2VsbHNbaWRdLmN0cmxfY2xpY2tfbGluZV9udW1iZXJzLmFkZChsaW5lX251bSk7CiAgICAgICAgICAgIGlzX2N0cmxfY2xpY2sgPSBmYWxzZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2VsbHNbaWRdLmN0cmxfY2xpY2tfbGluZV9udW1iZXJzLmFkZChsaW5lX251bSk7CiAgICAgICAgICAgIGlzX2N0cmxfY2xpY2sgPSBmYWxzZTsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjbS5nZXRBbGxNYXJrcygpLmZvckVhY2goZSA9PiB7CiAgICAgICAgICAgIGlmIChlLmNzcyAhPT0gdW5kZWZpbmVkKQogICAgICAgICAgICAgICAgaWYgKGUuY3NzLmluZGV4T2YoJ2JhY2tncm91bmQnKSAhPT0gLTEpCiAgICAgICAgICAgICAgICAgICAgZS5jbGVhcigpOwogICAgICAgIH0pOwogICAgICAgIGNlbGxzW2lkXS5jbGlja19saW5lX251bWJlciA9IC0xOwogICAgICAgIGNlbGxzW2lkXS5jdHJsX2NsaWNrX2xpbmVfbnVtYmVycy5jbGVhcigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9Ii4uL3N0YXRpYy9jb2RlbWlycm9yLTUuNDEuMC9hZGRvbi9mb2xkL2JyYWNlLWZvbGQuanMiPjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">ICAgICAgICBjbS5nZXRBbGxNYXJrcygpLmZvckVhY2goZSA9PiB7CiAgICAgICAgICAgIGlmIChlLmNzcyAhPT0gdW5kZWZpbmVkKQogICAgICAgICAgICAgICAgaWYgKGUuY3NzLmluZGV4T2YoJ2JhY2tncm91bmQnKSAhPT0gLTEpCiAgICAgICAgICAgICAgICAgICAgZS5jbGVhcigpOwogICAgICAgIH0pOwogICAgICAgIGNlbGxzW2lkXS5jbGlja19saW5lX251bWJlciA9IC0xOwogICAgICAgIGNlbGxzW2lkXS5jdHJsX2NsaWNrX2xpbmVfbnVtYmVycy5jbGVhcigpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhciBpZCA9IGdldF9zZWxlY3RlZF9pZCgpOwo=</text>
+        <text encoding="base64">PHNjcmlwdCBzcmM9Ii4uL3N0YXRpYy9jb2RlbWlycm9yLTUuNDEuMC9hZGRvbi9mb2xkL2JyYWNlLWZvbGQuanMiPjwvc2NyaXB0Pgo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICBpZihzZWxlY3RfdGhtID09PSAtMSkKICAgICAgICAgICB0aGVvcmVtID0gbWF0Y2hfdGhtX2xpc3Q=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHZhciBpZCA9IGdldF9zZWxlY3RlZF9pZCgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
