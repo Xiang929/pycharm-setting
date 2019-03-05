@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/vscodePython/holpy/app/static/codemirror-5.41.0/addon/fold/indent-fold.js" timestamp="1551601606008" />
       <file name="/Python Console" timestamp="1551626487210">
         <mark key="[" line="0" column="0" />
       </file>
@@ -58,7 +57,6 @@
         <mark key="." line="12" column="41" />
         <mark key="^" line="8" column="51" />
       </file>
-      <file name="C:/PythonProject/venv_script/holpy/Lib/site-packages/werkzeug/serving.py" timestamp="1551603515228" />
       <file name="C:/vscodePython/holpy/app/__init__.py" timestamp="1551667273459">
         <mark key="g" line="114" column="23" />
         <mark key="[" line="114" column="24" />
@@ -69,7 +67,6 @@
       <file name="C:/vscodePython/holpy/app/static/codemirror-5.41.0/mode/python/python.js" timestamp="1551628294361">
         <mark key="'" line="83" column="23" />
       </file>
-      <file name="$USER_HOME$/Anaconda3/pkgs/notebook-5.6.0-py37_0/Lib/site-packages/notebook/static/components/codemirror/src/util/StringStream.js" timestamp="1551628464415" />
       <file name="/Dummy.txt" timestamp="1551629159761">
         <mark key="[" line="0" column="0" />
       </file>
@@ -277,7 +274,7 @@
         <text encoding="base64">ICAgIHZhciBpZCA9IGdldF9zZWxlY3RlZF9pZCgpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ShowUsages</text>
+        <text>action Find</text>
       </register>
     </registers>
     <search>
@@ -315,9 +312,9 @@
         <entry>action OptimizeImports</entry>
         <entry>register</entry>
         <entry>action CloseEditor</entry>
-        <entry>action Find</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action ShowUsages</entry>
+        <entry>action Find</entry>
       </history-cmd>
       <history-expr />
       <history-input />
