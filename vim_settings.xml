@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="C:/vscodePython/holpy/kernel/theory.py" timestamp="1551793067502" />
       <file name="/Python Console" timestamp="1551626487210">
         <mark key="[" line="0" column="0" />
       </file>
@@ -127,7 +128,10 @@
         <mark key="[" line="79" column="0" />
         <mark key="]" line="88" column="6" />
       </file>
-      <file name="C:/vscodePython/holpy/kernel/proof.py" timestamp="1551791073124" />
+      <file name="C:/vscodePython/holpy/kernel/proof.py" timestamp="1551792898136">
+        <mark key="[" line="31" column="16" />
+        <mark key="]" line="31" column="56" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="0" column="0" filename="C:/PythonProject/final_exam/templates/entrance.html" />
@@ -245,7 +249,7 @@
         <text encoding="base64">XDxtYXRjaFw+</text>
       </register>
       <register name="0" type="4">
-        <text>inst - existing instantiation.</text>
+        <text>optional expanded proof of the statement.</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Zml4IHByb2JsZW0gd2l0aCBhcHBseV9iYWNrd2FyZF9zdHJwCg==</text>
