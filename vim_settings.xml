@@ -6,9 +6,9 @@
       <file name="/Python Console" timestamp="1551626487210">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/vscodePython/holpy/server/tactic.py" timestamp="1551667303893">
-        <mark key="[" line="380" column="5" />
-        <mark key="]" line="384" column="55" />
+      <file name="C:/vscodePython/holpy/server/tactic.py" timestamp="1551788313143">
+        <mark key="[" line="338" column="8" />
+        <mark key="]" line="338" column="37" />
         <mark key="." line="337" column="26" />
       </file>
       <file name="/a.dummy" timestamp="1545190649272">
@@ -244,7 +244,7 @@
         <text encoding="base64">XDxtYXRjaFw+</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgIiIiSW50cm9kdWNlIGFzc3VtcHRpb25zIGZvciBhIGdvYWwgb2YgdGhlIGZvcm0KCiAgICAgICAgIXhfMSAuLi4geF9rLiBBXzEgLS0+IC4uLiAtLT4gQV9uIC0tPiBDLgoKICAgICAgICBBcmd1bWVudCBuYW1lcyBzcGVjaWZpZXMgbGlzdCBvZiB2YXJpYWJsZSBuYW1lcy4=</text>
+        <text>inst - existing instantiation.</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Zml4IHByb2JsZW0gd2l0aCBhcHBseV9iYWNrd2FyZF9zdHJwCg==</text>
