@@ -12,10 +12,12 @@
       <file name="/Python Console" timestamp="1551626487210">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/vscodePython/holpy/server/tactic.py" timestamp="1551855227272">
-        <mark key="[" line="292" column="0" />
-        <mark key="]" line="296" column="56" />
-        <mark key="." line="296" column="56" />
+      <file name="C:/vscodePython/holpy/server/tactic.py" timestamp="1551858596861">
+        <mark key="'" line="298" column="33" />
+        <mark key="[" line="386" column="53" />
+        <mark key="]" line="386" column="51" />
+        <mark key="." line="386" column="31" />
+        <mark key="^" line="386" column="34" />
       </file>
       <file name="/a.dummy" timestamp="1545190649272">
         <mark key="[" line="0" column="0" />
@@ -112,6 +114,7 @@
         <mark key="^" line="181" column="70" />
         <mark key="." line="155" column="45" />
       </file>
+      <file name="C:/vscodePython/holpy/kernel/term.py" timestamp="1551858122963" />
       <file name="C:/vscodePython/holpy/app/static/codemirror-5.41.0/addon/fold/xml-fold.js" timestamp="1551180593209">
         <mark key="[" line="150" column="13" />
         <mark key="]" line="150" column="27" />
@@ -139,7 +142,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="C:/PythonProject/final_exam/templates/entrance.html" />
       <jump line="94" column="75" filename="C:/PythonProject/final_exam/weibo/views.py" />
       <jump line="78" column="62" filename="C:/PythonProject/final_exam/static/js/index.js" />
       <jump line="308" column="32" filename="C:/PythonProject/final_exam/weibo/views.py" />
@@ -239,6 +241,7 @@
       <jump line="276" column="4" filename="C:/vscodePython/holpy/app/static/js/tactics.js" />
       <jump line="853" column="33" filename="C:/vscodePython/holpy/app/static/js/main.js" />
       <jump line="83" column="23" filename="C:/vscodePython/holpy/app/static/codemirror-5.41.0/mode/python/python.js" />
+      <jump line="291" column="33" filename="C:/vscodePython/holpy/server/tactic.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -248,13 +251,13 @@
         <text encoding="base64">ZnJvbSBmbGFzay5qc29uIGltcG9ydCBqc29uaWZ5Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>F</text>
+        <text>self</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYXRjaFw+</text>
       </register>
       <register name="0" type="4">
-        <text>optional expanded proof of the statement.</text>
+        <text>self, id, prevs=None</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Zml4IHByb2JsZW0gd2l0aCBhcHBseV9iYWNrd2FyZF9zdHJwCg==</text>
@@ -284,7 +287,7 @@
         <text encoding="base64">ICAgIHZhciBpZCA9IGdldF9zZWxlY3RlZF9pZCgpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Find</text>
+        <text>action CloseEditor</text>
       </register>
     </registers>
     <search>
@@ -321,10 +324,10 @@
         <entry>nohl</entry>
         <entry>action OptimizeImports</entry>
         <entry>register</entry>
-        <entry>action CloseEditor</entry>
         <entry>action ShowUsages</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action Find</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action CloseEditor</entry>
       </history-cmd>
       <history-expr />
       <history-input />
