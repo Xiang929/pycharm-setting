@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="&quot;&quot;&quot;Return the list of theorems that can be used for applying backward step. This is done by first matching each of the prevs against the assumptions in order, then match the conclusion." />
       <item value="delimiter" />
       <item value="Apply an existing equality theorem to the given goal." />
       <item value="is others" />
@@ -50,12 +51,11 @@
       <item value="username" />
       <item value="存在" />
       <item value="exsits" />
-      <item value="password sign up" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="67" />
-        <entry key="ENGLISH" value="68" />
+        <entry key="CHINESE" value="68" />
+        <entry key="ENGLISH" value="69" />
         <entry key="ESTONIAN" value="1" />
         <entry key="LATIN" value="1" />
       </map>

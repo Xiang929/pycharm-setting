@@ -12,10 +12,10 @@
       <file name="/Python Console" timestamp="1551626487210">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/vscodePython/holpy/server/tactic.py" timestamp="1551791065624">
-        <mark key="[" line="338" column="8" />
-        <mark key="]" line="338" column="37" />
-        <mark key="." line="337" column="26" />
+      <file name="C:/vscodePython/holpy/server/tactic.py" timestamp="1551855227272">
+        <mark key="[" line="292" column="0" />
+        <mark key="]" line="296" column="56" />
+        <mark key="." line="296" column="56" />
       </file>
       <file name="/a.dummy" timestamp="1545190649272">
         <mark key="[" line="0" column="0" />
@@ -284,7 +284,7 @@
         <text encoding="base64">ICAgIHZhciBpZCA9IGdldF9zZWxlY3RlZF9pZCgpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action Find</text>
       </register>
     </registers>
     <search>
@@ -322,9 +322,9 @@
         <entry>action OptimizeImports</entry>
         <entry>register</entry>
         <entry>action CloseEditor</entry>
-        <entry>action Find</entry>
         <entry>action ShowUsages</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action Find</entry>
       </history-cmd>
       <history-expr />
       <history-input />
