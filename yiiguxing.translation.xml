@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="where instsp is the current partial instantiation for type and term variables. The instantiations are updated by the function." />
+      <item value="First-order matching of pat with t." />
+      <item value="&quot;&quot;&quot;First-order matching of pat with t, where instsp is the current partial instantiation for type and term variables. The instantiations are updated by the function." />
+      <item value="&quot;&quot;&quot;Substitute using the given instantiation, then normalize with respect to beta-conversion." />
+      <item value="forward" />
       <item value="inst - existing instantiation." />
       <item value="binop" />
       <item value="&quot;&quot;&quot;Return the list of theorems that can be used for applying backward step. This is done by first matching each of the prevs against the assumptions in order, then match the conclusion." />
@@ -46,16 +51,11 @@
       <item value="theory" />
       <item value="primitive" />
       <item value="requirements" />
-      <item value="entrance" />
-      <item value="入口" />
-      <item value="entry" />
-      <item value="credentials" />
-      <item value="username" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="70" />
-        <entry key="ENGLISH" value="71" />
+        <entry key="CHINESE" value="75" />
+        <entry key="ENGLISH" value="76" />
         <entry key="ESTONIAN" value="1" />
         <entry key="LATIN" value="1" />
       </map>

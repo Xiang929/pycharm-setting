@@ -12,21 +12,15 @@
       <file name="/Python Console" timestamp="1551626487210">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/vscodePython/holpy/server/tactic.py" timestamp="1551877628992">
-        <mark key="'" line="298" column="33" />
-        <mark key="[" line="386" column="53" />
-        <mark key="]" line="386" column="51" />
-        <mark key="." line="386" column="31" />
-        <mark key="^" line="386" column="34" />
+      <file name="C:/vscodePython/holpy/server/tactic.py" timestamp="1552196468826">
+        <mark key="'" line="403" column="39" />
+        <mark key="[" line="403" column="64" />
+        <mark key="]" line="403" column="39" />
+        <mark key="." line="403" column="39" />
+        <mark key="^" line="403" column="39" />
       </file>
       <file name="/a.dummy" timestamp="1545190649272">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/PythonProject/final_exam/static/css/style.css" timestamp="1545369250877">
-        <mark key="'" line="7581" column="0" />
-        <mark key="[" line="9021" column="0" />
-        <mark key="]" line="9021" column="25" />
-        <mark key="." line="9021" column="0" />
       </file>
       <file name="C:/PythonProject/final_exam/final_exam/urls.py" timestamp="1545296556565">
         <mark key="[" line="23" column="0" />
@@ -43,21 +37,12 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="32" column="67" />
       </file>
-      <file name="/main.js" timestamp="1547665046163">
-        <mark key="[" line="353" column="0" />
-        <mark key="]" line="403" column="0" />
-      </file>
+      <file name="C:/vscodePython/holpy/logic/matcher.py" timestamp="1552196369555" />
       <file name="C:/vscodePython/holpy/app/static/css/index.css" timestamp="1551601156056">
         <mark key="[" line="231" column="11" />
         <mark key="]" line="231" column="14" />
         <mark key="." line="231" column="14" />
         <mark key="^" line="231" column="14" />
-      </file>
-      <file name="C:/vscodePython/holpy/server/tests/tactic_test.py" timestamp="1551061465567">
-        <mark key="'" line="27" column="23" />
-        <mark key="[" line="242" column="58" />
-        <mark key="]" line="242" column="94" />
-        <mark key="." line="201" column="36" />
       </file>
       <file name="C:/vscodePython/holpy/app.py" timestamp="1551626985239">
         <mark key="[" line="12" column="41" />
@@ -72,6 +57,7 @@
         <mark key="^" line="114" column="7" />
         <mark key="." line="114" column="7" />
       </file>
+      <file name="C:/vscodePython/holpy/logic/tests/logic_test.py" timestamp="1552195796663" />
       <file name="C:/vscodePython/holpy/app/static/codemirror-5.41.0/mode/python/python.js" timestamp="1551628294361">
         <mark key="'" line="83" column="23" />
       </file>
@@ -89,11 +75,6 @@
       </file>
       <file name="C:/PythonProject/final_exam/static/js/index.vue" timestamp="1544670118960">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/tactics.js" timestamp="1548136284303">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="362" column="0" />
-        <mark key="]" line="374" column="5" />
       </file>
       <file name="C:/vscodePython/holpy/app/static/js/tactics.js" timestamp="1551628028719">
         <mark key="'" line="277" column="4" />
@@ -115,10 +96,6 @@
         <mark key="." line="155" column="45" />
       </file>
       <file name="C:/vscodePython/holpy/kernel/term.py" timestamp="1551858122963" />
-      <file name="C:/vscodePython/holpy/app/static/codemirror-5.41.0/addon/fold/xml-fold.js" timestamp="1551180593209">
-        <mark key="[" line="150" column="13" />
-        <mark key="]" line="150" column="27" />
-      </file>
       <file name="C:/vscodePython/holpy/app/static/js/main.js" timestamp="1551666655639">
         <mark key="'" line="853" column="33" />
         <mark key="[" line="994" column="103" />
@@ -126,15 +103,14 @@
         <mark key="^" line="994" column="103" />
         <mark key="." line="994" column="103" />
       </file>
+      <file name="C:/vscodePython/holpy/logic/logic.py" timestamp="1552195822847">
+        <mark key="'" line="106" column="17" />
+      </file>
       <file name="C:/vscodePython/holpy/app/static/codemirror-5.41.0/lib/codemirror.js" timestamp="1551180639880">
         <mark key="[" line="8588" column="20" />
         <mark key="]" line="8588" column="20" />
         <mark key="." line="8588" column="20" />
         <mark key="^" line="8588" column="20" />
-      </file>
-      <file name="/index.html" timestamp="1545450640646">
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="88" column="6" />
       </file>
       <file name="C:/vscodePython/holpy/kernel/proof.py" timestamp="1551792898136">
         <mark key="[" line="31" column="16" />
@@ -142,18 +118,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="94" column="75" filename="C:/PythonProject/final_exam/weibo/views.py" />
-      <jump line="78" column="62" filename="C:/PythonProject/final_exam/static/js/index.js" />
-      <jump line="308" column="32" filename="C:/PythonProject/final_exam/weibo/views.py" />
-      <jump line="220" column="27" filename="C:/PythonProject/final_exam/weibo/views.py" />
-      <jump line="252" column="21" filename="C:/PythonProject/final_exam/weibo/views.py" />
-      <jump line="247" column="29" filename="C:/PythonProject/final_exam/weibo/views.py" />
-      <jump line="443" column="0" filename="C:/PythonProject/final_exam/weibo/views.py" />
-      <jump line="139" column="29" filename="C:/PythonProject/final_exam/final_exam/settings.py" />
-      <jump line="10" column="2" filename="C:/PythonProject/final_exam/final_exam/settings.py" />
-      <jump line="114" column="115" filename="C:/PythonProject/final_exam/static/js/index.js" />
-      <jump line="40" column="0" filename="C:/PythonProject/final_exam/static/js/index.js" />
-      <jump line="6347" column="23" filename="C:/PythonProject/final_exam/static/css/style.css" />
       <jump line="5807" column="0" filename="C:/PythonProject/final_exam/static/css/style.css" />
       <jump line="5799" column="26" filename="C:/PythonProject/final_exam/static/css/style.css" />
       <jump line="7581" column="0" filename="C:/PythonProject/final_exam/static/css/style.css" />
@@ -242,6 +206,18 @@
       <jump line="853" column="33" filename="C:/vscodePython/holpy/app/static/js/main.js" />
       <jump line="83" column="23" filename="C:/vscodePython/holpy/app/static/codemirror-5.41.0/mode/python/python.js" />
       <jump line="291" column="33" filename="C:/vscodePython/holpy/server/tactic.py" />
+      <jump line="347" column="10" filename="C:/vscodePython/holpy/server/tactic.py" />
+      <jump line="0" column="0" filename="C:/vscodePython/holpy/server/tactic.py" />
+      <jump line="515" column="38" filename="C:/vscodePython/holpy/server/tactic.py" />
+      <jump line="511" column="0" filename="C:/vscodePython/holpy/server/tactic.py" />
+      <jump line="508" column="0" filename="C:/vscodePython/holpy/server/tactic.py" />
+      <jump line="502" column="0" filename="C:/vscodePython/holpy/server/tactic.py" />
+      <jump line="496" column="0" filename="C:/vscodePython/holpy/server/tactic.py" />
+      <jump line="455" column="13" filename="C:/vscodePython/holpy/server/tactic.py" />
+      <jump line="445" column="4" filename="C:/vscodePython/holpy/server/tactic.py" />
+      <jump line="106" column="17" filename="C:/vscodePython/holpy/logic/logic.py" />
+      <jump line="360" column="61" filename="C:/vscodePython/holpy/server/tactic.py" />
+      <jump line="403" column="39" filename="C:/vscodePython/holpy/server/tactic.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -251,13 +227,13 @@
         <text encoding="base64">ZnJvbSBmbGFzay5qc29uIGltcG9ydCBqc29uaWZ5Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>self</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYXRjaFw+</text>
       </register>
-      <register name="0" type="4">
-        <text>self, id, prevs=None</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAiIiJBcHBseSBiYWNrd2FyZCBzdGVwIHVzaW5nIHRoZSBnaXZlbiB0aGVvcmVtLgogICAgICAgIAogICAgICAgIHByZXZzIC0gbGlzdCBvZiBwcmV2aW91cyBwcm92ZWQgZmFjdHMgdG8gdXNlLgogICAgICAgIGluc3QgLSBleGlzdGluZyBpbnN0YW50aWF0aW9uLgoKICAgICAgICAiIiIKICAgICAgICBpZCA9IGlkX2ZvcmNlX3R1cGxlKGlkKQogICAgICAgIHByZXZzID0gW2lkX2ZvcmNlX3R1cGxlKHByZXYpIGZvciBwcmV2IGluIHByZXZzXSBpZiBwcmV2cyBlbHNlIFtdCgogICAgICAgICMgT2J0YWluIHRoZSBzdGF0ZW1lbnQgdG8gYmUgcHJvdmVkLgogICAgICAgIGN1cl9pdGVtID0gc2VsZi5nZXRfcHJvb2ZfaXRlbShpZCkKICAgICAgICBhc3NlcnQgY3VyX2l0ZW0ucnVsZSA9PSAic29ycnkiLCAiYXBwbHlfYmFja3dhcmRfc3RlcDogaWQgaXMgbm90IGEgZ2FwIgoKICAgICAgICAjIEluc3RhbnRpYXRlIHRoZSBnaXZlbiB0aGVvcmVtLgogICAgICAgIHRoID0gc2VsZi50aHkuZ2V0X3RoZW9yZW0odGhfbmFtZSkKCiAgICAgICAgaWYgaW5zdHNwIGlzIE5vbmU6CiAgICAgICAgICAgIGluc3RzcCA9IChkaWN0KCksIGRpY3QoKSkKICAgICAgICAgICAgQXMsIEMgPSBsb2dpYy5zdWJzdF9ub3JtKHRoLmNvbmNsLCBpbnN0c3ApLnN0cmlwX2ltcGxpZXMoKQogICAgICAgICAgICBmb3IgcGF0LCBwcmV2IGluIHppcChBcywgcHJldnMpOgogICAgICAgICAgICAgICAgaXRlbSA9IHNlbGYuZ2V0X3Byb29mX2l0ZW0ocHJldikKICAgICAgICAgICAgICAgIG1hdGNoZXIuZmlyc3Rfb3JkZXJfbWF0Y2hfaW5jcihwYXQsIGl0ZW0udGguY29uY2wsIGluc3RzcCkKICAgICAgICAgICAgbWF0Y2hlci5maXJzdF9vcmRlcl9tYXRjaF9pbmNyKEMsIGN1cl9pdGVtLnRoLmNvbmNsLCBpbnN0c3ApCgogICAgICAgIEFzLCBfID0gbG9naWMuc3Vic3Rfbm9ybSh0aC5jb25jbCwgaW5zdHNwKS5zdHJpcF9pbXBsaWVzKCkKCiAgICAgICAgbnVtX2dvYWwgPSBsZW4oQXMpIC0gbGVuKHByZXZzKQogICAgICAgIHNlbGYuYWRkX2xpbmVfYmVmb3JlKGlkLCBudW1fZ29hbCkKICAgICAgICBzdGFydCA9IGlkCiAgICAgICAgYWxsX2lkcyA9IFtpbmNyX2lkKHN0YXJ0LCBpIC0gbGVuKHByZXZzKSkgZm9yIGkgaW4gcmFuZ2UobGVuKHByZXZzKSwgbGVuKEFzKSldCiAgICAgICAgZm9yIGdvYWxfaWQsIEEgaW4gemlwKGFsbF9pZHMsIEFzW2xlbihwcmV2cyk6XSk6CiAgICAgICAgICAgIHNlbGYuc2V0X2xpbmUoZ29hbF9pZCwgInNvcnJ5IiwgdGg9VGhtKGN1cl9pdGVtLnRoLmFzc3VtcywgQSkpCgogICAgICAgIHR5aW5zdCwgaW5zdCA9IGluc3RzcAogICAgICAgIHNlbGYuc2V0X2xpbmUoaW5jcl9pZChzdGFydCwgbnVtX2dvYWwpLCAiYXBwbHlfdGhlb3JlbV9mb3IiLAogICAgICAgICAgICAgICAgICAgICAgYXJncz0odGhfbmFtZSwgdHlpbnN0LCBpbnN0KSwgcHJldnM9cHJldnMgKyBhbGxfaWRzLCB0aD1jdXJfaXRlbS50aCkKCiAgICAgICAgIyBUZXN0IGlmIHRoZSBnb2FscyBhcmUgYWxyZWFkeSBwcm92ZWQ6CiAgICAgICAgZm9yIGdvYWxfaWQsIEEgaW4gcmV2ZXJzZWQobGlzdCh6aXAoYWxsX2lkcywgQXNbbGVuKHByZXZzKTpdKSkpOgogICAgICAgICAgICBnb2FsID0gVGhtKGN1cl9pdGVtLnRoLmFzc3VtcywgQSkKICAgICAgICAgICAgbmV3X2lkID0gc2VsZi5maW5kX2dvYWwoZ29hbCwgZ29hbF9pZCkKICAgICAgICAgICAgaWYgbmV3X2lkIGlzIG5vdCBOb25lOgogICAgICAgICAgICAgICAgc2VsZi5yZXBsYWNlX2lkKGdvYWxfaWQsIG5ld19pZCkKCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Zml4IHByb2JsZW0gd2l0aCBhcHBseV9iYWNrd2FyZF9zdHJwCg==</text>
@@ -287,7 +263,7 @@
         <text encoding="base64">ICAgIHZhciBpZCA9IGdldF9zZWxlY3RlZF9pZCgpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action CloseEditor</text>
+        <text>action Find</text>
       </register>
     </registers>
     <search>
@@ -325,9 +301,9 @@
         <entry>action OptimizeImports</entry>
         <entry>register</entry>
         <entry>action ShowUsages</entry>
-        <entry>action Find</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action CloseEditor</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Find</entry>
       </history-cmd>
       <history-expr />
       <history-input />
