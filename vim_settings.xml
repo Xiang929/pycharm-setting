@@ -44,6 +44,12 @@
         <mark key="." line="231" column="14" />
         <mark key="^" line="231" column="14" />
       </file>
+      <file name="C:/vscodePython/holpy/server/tests/tactic_test.py" timestamp="1552200495454">
+        <mark key="'" line="27" column="23" />
+        <mark key="[" line="138" column="0" />
+        <mark key="]" line="138" column="76" />
+        <mark key="." line="201" column="36" />
+      </file>
       <file name="C:/vscodePython/holpy/app.py" timestamp="1551626985239">
         <mark key="[" line="12" column="41" />
         <mark key="]" line="12" column="41" />
@@ -233,7 +239,7 @@
         <text encoding="base64">XDxtYXRjaFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZCA9IGlkX2ZvcmNlX3R1cGxlKGlkKQogICAgICAgIGN1cl9pdGVtID0gc2VsZi5nZXRfcHJvb2ZfaXRlbShpZCkKICAgICAgICBpZiBjdXJfaXRlbS5ydWxlICE9ICJzb3JyeSI6CiAgICAgICAgICAgIHJldHVybiBbXQoKICAgICAgICByZXN1bHRzID0gW10KICAgICAgICBnb2FsID0gY3VyX2l0ZW0udGguY29uY2wKICAgICAgICBmb3IgdGhfbmFtZSwgdGggaW4gc2VsZi50aHkuZ2V0X2RhdGEoInRoZW9yZW1zIikuaXRlbXMoKToKICAgICAgICAgICAgaWYgdGguY29uY2wuaXNfZXF1YWxzKCk6CiAgICAgICAgICAgICAgICBjdiA9IHRvcF9jb252KHJld3JfY29udl90aG0oc2VsZi50aHksIHRoX25hbWUpKQogICAgICAgICAgICAgICAgXywgbmV3X2dvYWwgPSBjdihnb2FsKS5jb25jbC5kZXN0X2Jpbm9wKCkKICAgICAgICAgICAgICAgIGlmIGdvYWwgIT0gbmV3X2dvYWw6CiAgICAgICAgICAgICAgICAgICAgcmVzdWx0cy5hcHBlbmQoKHRoX25hbWUsIG5ld19nb2FsKSkKCiAgICAgICAgcmV0dXJuIHNvcnRlZChyZXN1bHRzKQo=</text>
+        <text encoding="base64">ICAgICAgICBzdGF0ZSA9IFByb29mU3RhdGUuaW5pdF9zdGF0ZSh0aHksIFtBLCBCXSwgW2NvbmooQSwgQildLCBjb25qKEIsIEEpKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Zml4IHByb2JsZW0gd2l0aCBhcHBseV9iYWNrd2FyZF9zdHJwCg==</text>
