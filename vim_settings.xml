@@ -12,7 +12,7 @@
       <file name="/Python Console" timestamp="1551626487210">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/vscodePython/holpy/server/tactic.py" timestamp="1552273814861">
+      <file name="C:/vscodePython/holpy/server/tactic.py" timestamp="1552312118141">
         <mark key="'" line="576" column="0" />
         <mark key="[" line="535" column="0" />
         <mark key="]" line="549" column="30" />
@@ -266,7 +266,7 @@
         <text encoding="base64">ICAgIHZhciBpZCA9IGdldF9zZWxlY3RlZF9pZCgpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Find</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -305,8 +305,8 @@
         <entry>register</entry>
         <entry>action ShowUsages</entry>
         <entry>action CloseEditor</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action Find</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
