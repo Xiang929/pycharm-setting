@@ -12,7 +12,7 @@
       <file name="/Python Console" timestamp="1551626487210">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/vscodePython/holpy/server/tactic.py" timestamp="1552198533766">
+      <file name="C:/vscodePython/holpy/server/tactic.py" timestamp="1552273814861">
         <mark key="'" line="576" column="0" />
         <mark key="[" line="535" column="0" />
         <mark key="]" line="549" column="30" />
@@ -37,14 +37,13 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="32" column="67" />
       </file>
-      <file name="C:/vscodePython/holpy/logic/matcher.py" timestamp="1552196369555" />
       <file name="C:/vscodePython/holpy/app/static/css/index.css" timestamp="1551601156056">
         <mark key="[" line="231" column="11" />
         <mark key="]" line="231" column="14" />
         <mark key="." line="231" column="14" />
         <mark key="^" line="231" column="14" />
       </file>
-      <file name="C:/vscodePython/holpy/server/tests/tactic_test.py" timestamp="1552201102931">
+      <file name="C:/vscodePython/holpy/server/tests/tactic_test.py" timestamp="1552273789063">
         <mark key="'" line="27" column="23" />
         <mark key="[" line="138" column="0" />
         <mark key="]" line="138" column="76" />
@@ -63,7 +62,6 @@
         <mark key="^" line="114" column="7" />
         <mark key="." line="114" column="7" />
       </file>
-      <file name="C:/vscodePython/holpy/logic/tests/logic_test.py" timestamp="1552195796663" />
       <file name="C:/vscodePython/holpy/app/static/codemirror-5.41.0/mode/python/python.js" timestamp="1551628294361">
         <mark key="'" line="83" column="23" />
       </file>
@@ -101,13 +99,12 @@
         <mark key="^" line="181" column="70" />
         <mark key="." line="155" column="45" />
       </file>
-      <file name="C:/vscodePython/holpy/kernel/term.py" timestamp="1551858122963" />
-      <file name="C:/vscodePython/holpy/app/static/js/main.js" timestamp="1551666655639">
+      <file name="C:/vscodePython/holpy/app/static/js/main.js" timestamp="1552278304227">
         <mark key="'" line="853" column="33" />
-        <mark key="[" line="994" column="103" />
-        <mark key="]" line="994" column="103" />
+        <mark key="[" line="969" column="23" />
+        <mark key="]" line="969" column="23" />
         <mark key="^" line="994" column="103" />
-        <mark key="." line="994" column="103" />
+        <mark key="." line="969" column="23" />
       </file>
       <file name="C:/vscodePython/holpy/logic/logic.py" timestamp="1552195822847">
         <mark key="'" line="106" column="17" />
@@ -233,7 +230,7 @@
         <text encoding="base64">ZnJvbSBmbGFzay5qc29uIGltcG9ydCBqc29uaWZ5Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICBwYXNz</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYXRjaFw+</text>
