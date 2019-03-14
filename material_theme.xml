@@ -1,16 +1,17 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="allowDataCollection" value="true" />
     <option name="compactDropdowns" value="true" />
+    <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
+    <option name="isHighContrast" value="true" />
     <option name="isWizardShown" value="true" />
-    <option name="rightTreeIndent" value="6" />
-    <option name="settingsSelectedTab" value="4" />
-    <option name="accentColor" value="80cbc4" />
-    <option name="highlightColor" value="80cbc4" />
-    <option name="selectedTheme" value="PALENIGHT" />
-    <option name="userId" value="2dedefb5:164503d9c7c:-8000" />
+    <option name="overrideAccentColor" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="settingsSelectedTab" value="6" />
+    <option name="accentColor" value="42a5f5" />
+    <option name="selectedTheme" value="ARC_DARK" />
+    <option name="userId" value="53ff4abd:1697d2e93d0:-8000" />
     <option name="version" value="3.5.0.1" />
   </component>
 </application>
