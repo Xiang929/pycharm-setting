@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="instantiation" />
       <item value="where instsp is the current partial instantiation for type and term variables. The instantiations are updated by the function." />
       <item value="First-order matching of pat with t." />
       <item value="&quot;&quot;&quot;First-order matching of pat with t, where instsp is the current partial instantiation for type and term variables. The instantiations are updated by the function." />
@@ -50,12 +51,11 @@
       <item value="init component" />
       <item value="theory" />
       <item value="primitive" />
-      <item value="requirements" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="75" />
-        <entry key="ENGLISH" value="76" />
+        <entry key="CHINESE" value="76" />
+        <entry key="ENGLISH" value="77" />
         <entry key="ESTONIAN" value="1" />
         <entry key="LATIN" value="1" />
       </map>
