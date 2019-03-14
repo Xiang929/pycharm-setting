@@ -3,21 +3,29 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/vscodePython/holpy/kernel/theory.py" timestamp="1551798802808">
-        <mark key="[" line="152" column="24" />
-        <mark key="]" line="152" column="10" />
-        <mark key="^" line="152" column="10" />
-        <mark key="." line="152" column="10" />
+      <file name="C:/vscodePython/holpy/app/static/codemirror-5.41.0/mode/python/python.js" timestamp="1551628294361">
+        <mark key="'" line="83" column="23" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1551629159761">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/code.py" timestamp="1547905172979">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/Python Console" timestamp="1551626487210">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/PythonProject/final_exam/static/js/profile.js" timestamp="1545227542911">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="0" column="0" />
+      </file>
       <file name="C:/vscodePython/holpy/server/tactic.py" timestamp="1552312118141">
-        <mark key="'" line="576" column="0" />
-        <mark key="[" line="535" column="0" />
-        <mark key="]" line="549" column="30" />
-        <mark key="." line="415" column="28" />
-        <mark key="^" line="415" column="28" />
+        <mark key="'" line="503" column="0" />
+      </file>
+      <file name="C:/PythonProject/final_exam/static/js/index.vue" timestamp="1544670118960">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1545190649272">
         <mark key="[" line="0" column="0" />
@@ -37,17 +45,32 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="32" column="67" />
       </file>
+      <file name="C:/PythonProject/final_exam/static/js/entrance.js" timestamp="1545188618365">
+        <mark key="[" line="102" column="4" />
+        <mark key="]" line="111" column="6" />
+        <mark key="^" line="101" column="3" />
+        <mark key="." line="102" column="0" />
+      </file>
+      <file name="C:/PythonProject/final_exam/templates/profile.html" timestamp="1545226758270">
+        <mark key="[" line="155" column="45" />
+        <mark key="]" line="155" column="45" />
+        <mark key="^" line="181" column="70" />
+        <mark key="." line="155" column="45" />
+      </file>
       <file name="C:/vscodePython/holpy/app/static/css/index.css" timestamp="1551601156056">
         <mark key="[" line="231" column="11" />
         <mark key="]" line="231" column="14" />
         <mark key="." line="231" column="14" />
         <mark key="^" line="231" column="14" />
       </file>
-      <file name="C:/vscodePython/holpy/server/tests/tactic_test.py" timestamp="1552273789063">
-        <mark key="'" line="27" column="23" />
-        <mark key="[" line="138" column="0" />
-        <mark key="]" line="138" column="76" />
-        <mark key="." line="201" column="36" />
+      <file name="C:/vscodePython/holpy/logic/logic.py" timestamp="1552195822847">
+        <mark key="'" line="106" column="17" />
+      </file>
+      <file name="C:/vscodePython/holpy/app/static/codemirror-5.41.0/lib/codemirror.js" timestamp="1551180639880">
+        <mark key="[" line="8588" column="20" />
+        <mark key="]" line="8588" column="20" />
+        <mark key="." line="8588" column="20" />
+        <mark key="^" line="8588" column="20" />
       </file>
       <file name="C:/vscodePython/holpy/app.py" timestamp="1551626985239">
         <mark key="[" line="12" column="41" />
@@ -61,63 +84,6 @@
         <mark key="]" line="114" column="7" />
         <mark key="^" line="114" column="7" />
         <mark key="." line="114" column="7" />
-      </file>
-      <file name="C:/vscodePython/holpy/app/static/codemirror-5.41.0/mode/python/python.js" timestamp="1551628294361">
-        <mark key="'" line="83" column="23" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1551629159761">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/code.py" timestamp="1547905172979">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/PythonProject/final_exam/static/js/profile.js" timestamp="1545227542911">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="0" column="0" />
-      </file>
-      <file name="C:/PythonProject/final_exam/static/js/index.vue" timestamp="1544670118960">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/vscodePython/holpy/app/static/js/tactics.js" timestamp="1551628028719">
-        <mark key="'" line="277" column="4" />
-        <mark key="[" line="408" column="25" />
-        <mark key="]" line="408" column="60" />
-        <mark key="." line="408" column="25" />
-        <mark key="^" line="139" column="8" />
-      </file>
-      <file name="C:/PythonProject/final_exam/static/js/entrance.js" timestamp="1545188618365">
-        <mark key="[" line="102" column="4" />
-        <mark key="]" line="111" column="6" />
-        <mark key="^" line="101" column="3" />
-        <mark key="." line="102" column="0" />
-      </file>
-      <file name="C:/PythonProject/final_exam/templates/profile.html" timestamp="1545226758270">
-        <mark key="[" line="155" column="45" />
-        <mark key="]" line="155" column="45" />
-        <mark key="^" line="181" column="70" />
-        <mark key="." line="155" column="45" />
-      </file>
-      <file name="C:/vscodePython/holpy/app/static/js/main.js" timestamp="1552310222763">
-        <mark key="'" line="853" column="33" />
-        <mark key="[" line="969" column="23" />
-        <mark key="]" line="969" column="23" />
-        <mark key="^" line="994" column="103" />
-        <mark key="." line="969" column="23" />
-      </file>
-      <file name="C:/vscodePython/holpy/logic/logic.py" timestamp="1552195822847">
-        <mark key="'" line="106" column="17" />
-      </file>
-      <file name="C:/vscodePython/holpy/app/static/codemirror-5.41.0/lib/codemirror.js" timestamp="1551180639880">
-        <mark key="[" line="8588" column="20" />
-        <mark key="]" line="8588" column="20" />
-        <mark key="." line="8588" column="20" />
-        <mark key="^" line="8588" column="20" />
-      </file>
-      <file name="C:/vscodePython/holpy/kernel/proof.py" timestamp="1551792898136">
-        <mark key="[" line="31" column="16" />
-        <mark key="]" line="31" column="56" />
       </file>
     </filemarks>
     <jumps>
