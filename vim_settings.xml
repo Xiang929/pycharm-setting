@@ -12,9 +12,10 @@
       <file name="/code.py" timestamp="1547905172979">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1552528052376">
+      <file name="/Python Console" timestamp="1552621574602">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/vscodePython/holpy/server/tests/tactic_test.py" timestamp="1552621519691" />
       <file name="C:/PythonProject/final_exam/static/js/profile.js" timestamp="1545227542911">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -78,11 +79,12 @@
       <file name="C:/vscodePython/holpy/logic/logic.py" timestamp="1552527706866">
         <mark key="'" line="106" column="17" />
       </file>
-      <file name="D:/vscodePython/holpy/server/tactic.py" timestamp="1552619252958">
-        <mark key="[" line="389" column="7" />
-        <mark key="]" line="389" column="7" />
-        <mark key="^" line="389" column="7" />
-        <mark key="." line="389" column="7" />
+      <file name="D:/vscodePython/holpy/server/tactic.py" timestamp="1552621024527">
+        <mark key="'" line="245" column="24" />
+        <mark key="[" line="404" column="48" />
+        <mark key="]" line="406" column="25" />
+        <mark key="^" line="406" column="25" />
+        <mark key="." line="406" column="25" />
       </file>
       <file name="C:/vscodePython/holpy/app/static/codemirror-5.41.0/lib/codemirror.js" timestamp="1551180639880">
         <mark key="[" line="8588" column="20" />
@@ -105,7 +107,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="0" filename="C:/vscodePython/holpy/app/static/js/main.js" />
       <jump line="139" column="8" filename="C:/vscodePython/holpy/app/__init__.py" />
       <jump line="104" column="30" filename="C:/vscodePython/holpy/app/static/js/main.js" />
       <jump line="350" column="12" filename="C:/vscodePython/holpy/app/static/js/main.js" />
@@ -205,6 +206,7 @@
       <jump line="0" column="0" filename="C:/vscodePython/holpy/app/static/js/tactics.js" />
       <jump line="601" column="0" filename="C:/vscodePython/holpy/app/static/js/tactics.js" />
       <jump line="289" column="23" filename="C:/vscodePython/holpy/app/static/js/tactics.js" />
+      <jump line="245" column="24" filename="D:/vscodePython/holpy/server/tactic.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -250,7 +252,7 @@
         <text encoding="base64">PHNjcmlwdCBzcmM9Ii4uL3N0YXRpYy9jb2RlbWlycm9yLTUuNDEuMC9hZGRvbi9mb2xkL2NvbW1lbnQtZm9sZC5qcyI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Find</text>
+        <text>action CloseEditor</text>
       </register>
     </registers>
     <search>
@@ -288,9 +290,9 @@
         <entry>action OptimizeImports</entry>
         <entry>register</entry>
         <entry>action ShowUsages</entry>
-        <entry>action CloseEditor</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action Find</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action CloseEditor</entry>
       </history-cmd>
       <history-expr />
       <history-input />
